@@ -1,4 +1,4 @@
-# 1.2 Past Questions Analysis (2020-2024)
+# 1.2 Past Questions Analysis (2020-2025)
 
 ## Table of Contents
 1. [Overview](#overview)
@@ -14,7 +14,7 @@
 
 ## Overview
 
-This analysis covers **7 exam sessions** from December 2020 to December 2024, providing comprehensive insights into examiner preferences, topic frequency, and question patterns.
+This analysis covers **8 exam sessions** from December 2020 to June 2025, providing comprehensive insights into examiner preferences, topic frequency, and question patterns.
 
 **Exam Structure (Consistent across all sessions):**
 - **Duration:** 3¼ hours
@@ -125,47 +125,65 @@ This analysis covers **7 exam sessions** from December 2020 to December 2024, pr
 | C | 8 | Treaty Residence | Dual residence tie-breaker | 15 |
 | C | 9 | Non-Resident Trusts CGT | Offshore trusts, UK property disposal | 15 |
 
+### June 2025
+
+| Part | Q# | Topic | Sub-topics | Marks |
+|------|----|----|------------|-------|
+| A | 1 | Individual Residence (SRT) | SRT analysis, DTA tie-breaker, temporary non-residence, CGT on prior gains | 25 |
+| A | 2 | Corporate Residence & PE | PE risks (branch vs subsidiary), unallowable purpose rule, withholding tax, dividends | 25 |
+| B | 3 | Offshore Insurance Bonds | Tax features, remittance basis, anti-avoidance, investment restrictions | 20 |
+| B | 4 | Controlled Foreign Companies | CFC purpose, key features, entity-level analysis, CFC charge calculation | 20 |
+| C | 5 | Deemed Domicile | Timing of deemed domicile, IT/CGT/IHT consequences, protected settlements | 15 |
+| C | 6 | Domicile of Choice & Trusts | Domicile of choice implications, offshore trust taxation, IHT 10-year charge | 15 |
+| C | 7 | Transfer Pricing | SME exemption, TP methodologies, Advance Pricing Agreements | 15 |
+| C | 8 | Corporate Interest Restriction | CIR rules overview, interaction with other regimes, carry-forward limitations | 15 |
+| C | 9 | Diverted Profits Tax | DPT purpose and scope, notification requirements, double taxation risks | 15 |
+
 ---
 
 ## Topic Frequency Analysis
 
-### High-Frequency Topics (Appearing 5+ times across 7 sessions)
+### High-Frequency Topics (Appearing 5+ times across 8 sessions)
 
 | Topic | Frequency | Part A | Part B | Part C | % Appearance |
 |-------|-----------|--------|--------|--------|--------------|
-| **Individual Residence (SRT)** | **7/7** | 7 | 0 | 0 | **100%** |
-| **Remittance Basis** | **6/7** | 2 | 4 | 0 | **86%** |
-| **Corporate Residence** | **5/7** | 2 | 2 | 1 | **71%** |
-| **Permanent Establishment** | **5/7** | 1 | 2 | 2 | **71%** |
-| **Controlled Foreign Companies** | **3/7** | 3 | 0 | 0 | **43%** |
-| **Domicile** | **6/7** | 0 | 4 | 2 | **86%** |
-| **Business Investment Relief** | **5/7** | 0 | 3 | 2 | **71%** |
-| **Transfer Pricing** | **5/7** | 0 | 1 | 4 | **71%** |
-| **Corporate Interest Restriction** | **3/7** | 3 | 0 | 0 | **43%** |
+| **Individual Residence (SRT)** | **8/8** | 8 | 0 | 0 | **100%** |
+| **Domicile** | **7/8** | 0 | 4 | 3 | **88%** |
+| **Remittance Basis** | **6/8** | 2 | 4 | 0 | **75%** |
+| **Transfer Pricing** | **6/8** | 0 | 1 | 5 | **75%** |
+| **Corporate Residence** | **5/8** | 2 | 2 | 1 | **63%** |
+| **Permanent Establishment** | **5/8** | 1 | 2 | 2 | **63%** |
+| **Business Investment Relief** | **5/8** | 0 | 3 | 2 | **63%** |
+| **Controlled Foreign Companies** | **4/8** | 3 | 1 | 0 | **50%** |
+| **Corporate Interest Restriction** | **4/8** | 3 | 0 | 1 | **50%** |
 
 ### Medium-Frequency Topics (Appearing 3-4 times)
 
 | Topic | Frequency | Part A | Part B | Part C | % Appearance |
 |-------|-----------|--------|--------|--------|--------------|
-| **ATED** | **4/7** | 0 | 1 | 3 | **57%** |
-| **Trusts (Offshore/Non-Resident)** | **4/7** | 0 | 0 | 4 | **57%** |
-| **Mixed Funds** | **3/7** | 0 | 2 | 1 | **43%** |
-| **Thin Capitalization** | **3/7** | 0 | 1 | 2 | **43%** |
-| **Digital Services Tax** | **3/7** | 1 | 0 | 2 | **43%** |
-| **Withholding Tax** | **3/7** | 2 | 0 | 1 | **43%** |
-| **Corporate Residency Migration** | **3/7** | 0 | 1 | 2 | **43%** |
-| **Split Year Treatment** | **3/7** | 3 | 0 | 0 | **43%** |
+| **Trusts (Offshore/Non-Resident)** | **5/8** | 0 | 0 | 5 | **63%** |
+| **ATED** | **4/8** | 0 | 1 | 3 | **50%** |
+| **Withholding Tax** | **4/8** | 3 | 0 | 1 | **50%** |
+| **Digital Services Tax** | **3/8** | 1 | 0 | 2 | **38%** |
+| **Mixed Funds** | **3/8** | 0 | 2 | 1 | **38%** |
+| **Thin Capitalization** | **3/8** | 0 | 1 | 2 | **38%** |
+| **Corporate Residency Migration** | **3/8** | 0 | 1 | 2 | **38%** |
+| **Split Year Treatment** | **3/8** | 3 | 0 | 0 | **38%** |
+| **Treaty Residence (DTA tie-breaker)** | **3/8** | 1 | 0 | 2 | **38%** |
 
-### Emerging Topics (Appearing 1-2 times, increasing trend)
+### Emerging Topics (Appearing 1-2 times)
 
 | Topic | Frequency | Sessions | Trend |
 |-------|-----------|----------|-------|
-| **Anti-Hybrid Rules** | **2/7** | Dec 2021, June 2021 | ↑ Increasing |
-| **Digital Services Tax** | **3/7** | Dec 2021, Dec 2024, June 2024 | ↑ Increasing |
-| **Branch Exemption** | **1/7** | Dec 2021 | → Stable |
-| **ORIP** | **1/7** | Dec 2020 | → Stable |
-| **ToAA (Targeted Anti-Avoidance)** | **2/7** | June 2022, June 2024 | ↑ Increasing |
-| **Country by Country Reporting** | **1/7** | June 2021 | → Stable |
+| **Anti-Hybrid Rules** | **2/8** | Dec 2021, June 2021 | → Stable (no recent appearance) |
+| **ToAA (Targeted Anti-Avoidance)** | **2/8** | June 2022, June 2024 | ↑ Increasing |
+| **Diverted Profits Tax** | **1/8** | June 2025 | ↑ NEW - High priority |
+| **Offshore Insurance Bonds** | **1/8** | June 2025 | ↑ NEW - Watch carefully |
+| **Unallowable Purpose Rule** | **1/8** | June 2025 | ↑ NEW - CIR sub-topic |
+| **Protected Settlements** | **1/8** | June 2025 | ↑ NEW - Domicile planning |
+| **Branch Exemption** | **1/8** | Dec 2021 | ↓ Declining |
+| **ORIP** | **1/8** | Dec 2020 | ↓ Declining |
+| **Country by Country Reporting** | **1/8** | June 2021 | ↓ Declining |
 
 ---
 
@@ -177,12 +195,12 @@ This analysis covers **7 exam sessions** from December 2020 to December 2024, pr
 
 | Topic | Frequency | Sessions |
 |-------|-----------|----------|
-| **Individual Residence (SRT)** | **7/7 (100%)** | All sessions |
-| **Corporate Residence** | **2/7** | Dec 2020, June 2023 |
-| **Controlled Foreign Companies** | **3/7** | June 2021, Dec 2021, June 2024 (via Part A Q1) |
-| **Corporate Interest Restriction** | **3/7** | June 2022, Dec 2024, June 2024 |
-| **Remittance Basis** | **2/7** | Dec 2021, June 2023 |
-| **Permanent Establishment** | **1/7** | June 2024 |
+| **Individual Residence (SRT)** | **8/8 (100%)** | ALL sessions - GUARANTEED |
+| **Corporate Interest Restriction** | **3/8** | June 2022, Dec 2024, June 2024 |
+| **Controlled Foreign Companies** | **3/8** | June 2021, Dec 2021 |
+| **Corporate Residence & PE** | **3/8** | Dec 2020, June 2023, June 2025 |
+| **Remittance Basis** | **2/8** | Dec 2021, June 2023 |
+| **Permanent Establishment** | **1/8** | June 2024 (as primary topic) |
 
 ### Part A Patterns
 
@@ -356,45 +374,49 @@ These topics appear consistently and should always be prioritized:
 
 These topics are so frequent they are essentially guaranteed:
 
-1. **Individual Residence (SRT)** - 100% appearance rate
-   - Focus on: Automatic tests, sufficient ties, split year, temporary non-residence
-   - Always worth 25 marks in Part A
+1. **Individual Residence (SRT)** - 100% appearance rate (8/8)
+   - Focus on: Automatic tests, sufficient ties, split year, temporary non-residence, DTA tie-breaker
+   - ALWAYS worth 25 marks in Part A - absolutely guaranteed
    - Master the day counting rules and tie analysis
+   - New focus: DTA residence article tie-breaker (appeared June 2025)
 
-2. **Remittance Basis** - 86% appearance rate
-   - Often combined with SRT or domicile
-   - Know: Eligibility, remittance rules, mixed funds, BIR
-   - Can appear in Part A (25 marks) or Part B (20 marks)
-
-3. **Domicile** - 86% appearance rate
-   - Usually Part B or Part C
+2. **Domicile** - 88% appearance rate (7/8)
+   - Usually Part B or Part C (worth 15-20 marks)
    - Know: Origin, choice, deemed domicile, IHT implications
    - Often integrated with remittance basis or trusts
+   - New focus: Domicile of choice, protected settlements (June 2025)
 
-**Study Recommendation:** Allocate 40% of study time to these three topics.
+3. **Remittance Basis** - 75% appearance rate (6/8)
+   - Often combined with SRT or domicile
+   - Know: Eligibility, remittance rules, mixed funds, BIR, offshore insurance bonds
+   - Can appear in Part A (25 marks) or Part B (20 marks)
 
-### 2. **The "Essential Six" Secondary Topics (High Priority)**
+**Study Recommendation:** Allocate 45% of study time to these three topics (1-month intensive).
+
+### 2. **The "Essential Seven" Secondary Topics (High Priority)**
 
 Master these topics to have options across all parts:
 
-1. **Corporate Residence** (71%)
-2. **Permanent Establishment** (71%)
-3. **Business Investment Relief** (71%)
-4. **Transfer Pricing** (71%)
-5. **Controlled Foreign Companies** (43%)
-6. **Corporate Interest Restriction** (43%)
+1. **Transfer Pricing** (75%) - Rising importance!
+2. **Corporate Residence & PE** (63%)
+3. **Permanent Establishment** (63%)
+4. **Business Investment Relief** (63%)
+5. **Trusts (Offshore/International)** (63%)
+6. **Controlled Foreign Companies** (50%)
+7. **Corporate Interest Restriction** (50%)
 
-**Study Recommendation:** Allocate 35% of study time to these topics.
+**Study Recommendation:** Allocate 35% of study time to these topics (1-month intensive).
 
 ### 3. **Strategic Part C Coverage**
 
 To maximize Part C choice:
-- **Trust Taxation** (57%) - Almost always have a trust question
-- **Transfer Pricing** (57%) - Detailed TP documentation/compliance
-- **ATED** (43%) - Often combined with BIR or property questions
-- **Digital Services Tax** (43% and rising) - Learn the basics
+- **Transfer Pricing** (75%) - NOW CRITICAL! TP documentation, methodologies, APAs
+- **Trusts (Offshore/International)** (63%) - Almost always have a trust question
+- **ATED & Property Taxation** (50%) - Often combined with BIR
+- **Digital Services Tax** (38%) - Learn the basics
+- **NEW: Diverted Profits Tax** (appeared June 2025) - Watch for December 2025!
 
-**Study Recommendation:** Allocate 15% of study time to these Part C topics.
+**Study Recommendation:** Allocate 15% of study time to these Part C topics (1-month intensive).
 
 ### 4. **Question Integration Patterns**
 
@@ -490,42 +512,48 @@ Recent/ongoing changes that examiners target:
 
 ## Conclusion
 
-**Priority Study Ladder:**
+**Priority Study Ladder (Based on 8 sessions: Dec 2020 - June 2025):**
 
-**Tier 1 (Critical - Cannot skip):**
-1. Individual Residence (SRT) - 100%
-2. Remittance Basis - 86%
-3. Domicile - 86%
+**Tier 1 (CRITICAL - Cannot skip - 45% of 1-month study time):**
+1. Individual Residence (SRT) - 100% (8/8)
+2. Domicile - 88% (7/8)
+3. Remittance Basis - 75% (6/8)
 
-**Tier 2 (High Priority - Essential for good score):**
-4. Corporate Residence - 71%
-5. Permanent Establishment - 71%
-6. Business Investment Relief - 71%
-7. Transfer Pricing - 71%
+**Tier 2 (HIGH PRIORITY - Essential for good score - 35% of study time):**
+4. Transfer Pricing - 75% (6/8) ↑ Rising!
+5. Corporate Residence & PE - 63% (5/8)
+6. Permanent Establishment - 63% (5/8)
+7. Business Investment Relief - 63% (5/8)
+8. Trusts (Offshore/International) - 63% (5/8)
 
-**Tier 3 (Important - Provides options):**
-8. Controlled Foreign Companies - 43%
-9. Corporate Interest Restriction - 43%
-10. ATED - 57% (Part C)
-11. Trusts - 57% (Part C)
+**Tier 3 (IMPORTANT - Provides options - 15% of study time):**
+9. Controlled Foreign Companies - 50% (4/8)
+10. Corporate Interest Restriction - 50% (4/8)
+11. ATED - 50% (4/8) (Part C)
+12. Withholding Tax - 50% (4/8)
 
-**Tier 4 (Emerging - Watch for increasing frequency):**
-12. Digital Services Tax - 43% ↑
-13. Anti-Hybrid Rules - 29%
-14. Targeted Anti-Avoidance - 29% ↑
+**Tier 4 (EMERGING - Watch carefully - 5% of study time):**
+13. Diverted Profits Tax - NEW in June 2025 ↑↑ HIGH PRIORITY
+14. Offshore Insurance Bonds - NEW in June 2025 ↑
+15. Protected Settlements - NEW in June 2025 ↑
+16. Digital Services Tax - 38% (3/8)
+17. ToAA - 25% (2/8) ↑
 
 **Exam Day Strategy:**
-- Part A: No choice - must answer both. Expect SRT and one corporate topic.
+- Part A: No choice - must answer both. SRT is GUARANTEED (100%). Second question rotates between CIR, CFCs, Corporate Residence/PE.
 - Part B: Choose your stronger area between corporate (Q3) and individual/property (Q4).
 - Part C: Aim to be confident in at least 3 out of 5 topics to have genuine choice.
 
-**Recommended Preparation Mix:**
-- 40% time on Tier 1 topics
-- 35% time on Tier 2 topics
-- 15% time on Tier 3 topics
-- 10% time on Tier 4 and integration practice
+**Recommended 1-Month Preparation Mix:**
+- **Week 1-2**: 45% time on Tier 1 topics (SRT, Domicile, Remittance Basis)
+- **Week 2-3**: 35% time on Tier 2 topics (TP, Corporate Residence/PE, Trusts, BIR)
+- **Week 3-4**: 15% time on Tier 3 topics (CFCs, CIR, ATED, Withholding Tax)
+- **Week 4**: 5% time on Tier 4 emerging topics + integration practice + past papers
+
+**Critical Insight from June 2025 Exam:**
+The appearance of **Diverted Profits Tax**, **Offshore Insurance Bonds**, and **Protected Settlements** signals the examiners are introducing new technical areas. These topics have HIGH probability for December 2025!
 
 ---
 
 *Last Updated: November 2025*
-*Based on analysis of 7 exam sessions (December 2020 to December 2024)*
+*Based on analysis of 8 exam sessions (December 2020 to June 2025)*

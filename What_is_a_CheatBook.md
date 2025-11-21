@@ -2,7 +2,16 @@
 
 ## What is a CheatBook?
 
-A **CheatBook** is an exam-focused learning resource designed to bridge the gap between theoretical knowledge and practical execution under time pressure. It assumes learners already possess foundational understanding and focuses exclusively on **application, pattern recognition, and strategic execution**.
+A **CheatBook** is a **last-minute exam preparation resource** designed for the final 4 weeks (1 month) before your exam. It assumes learners already possess foundational understanding and focuses exclusively on **application, pattern recognition, and strategic execution under extreme time pressure**.
+
+### Target Audience
+
+CheatBooks are specifically designed for candidates who:
+- Have **already completed** their primary study materials (textbooks, courses, etc.)
+- Are in the **final 1 month** before their exam
+- Need to **convert knowledge into marks** efficiently
+- Want to **maximize ROI** on their remaining study time
+- Understand the theory but struggle with **exam technique and time management**
 
 ### Core Characteristics:
 
@@ -318,12 +327,12 @@ A perfect CheatBook enables users to demonstrate:
 
 ### ✅ When to Use a CheatBook:
 
-1. **Intensive exam preparation** (2-6 weeks before exam)
+1. **Last-minute intensive preparation** (final 4 weeks / 1 month before exam)
 2. **When theory is known but application is weak**
 3. **Time-pressured exam formats** (minutes-per-mark constraints)
 4. **Standardized exams with pattern stability** (professional certifications)
 5. **When templates can provide competitive advantage**
-6. **Revision phase** after initial learning
+6. **Final revision phase** after completing initial learning
 
 ### ❌ When NOT to Use a CheatBook:
 
