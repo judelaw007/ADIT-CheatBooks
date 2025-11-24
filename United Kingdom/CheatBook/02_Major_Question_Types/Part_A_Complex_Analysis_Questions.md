@@ -583,3 +583,2104 @@ This would create dual residence:
 
 *Continue to Section 2.1.2: Individual Residence - Statutory Residence Test →*
 
+
+## 2.1.2 Individual Residence - Statutory Residence Test (SRT)
+
+### Pattern Recognition: Spotting This Question Type
+
+**Immediate Triggers** (if you see these words, deploy this template):
+- "Individual," "days in UK," "Statutory Residence Test," "SRT"
+- "Family tie," "accommodation tie," "work tie," "90-day tie," "country tie"
+- "Automatic overseas test," "automatic UK test," "sufficient ties test"
+- "Split year treatment," "leaver," "arriver"
+- Day counting scenarios with multiple countries
+- References to spouse/children residence status
+
+**Exam Frequency**: **100% (8/8 exams from 2020-2025)** 🎯
+
+**Recent Exam Appearances**:
+- **June 2025 Q1**: Daniel Door (complex SRT with medical emergency, 2 ties, TNR)
+- December 2024: (Individual residence question)
+- June 2024: (Individual residence question)
+- **Pattern**: GUARANTEED to appear in every exam
+
+**Mark Range**: **15-25 marks** (often the highest-scoring Part A question)
+
+---
+
+### Strategic Context
+
+**Why This Is THE Most Important Template:**
+
+✓ Appears in **100% of exams** - you WILL face this question
+✓ Highest mark allocation (typically 15-25 marks)
+✓ Extremely formula-driven - easiest marks if you know the template
+✓ Examiner reports show this is where candidates lose most marks through:
+  - Incorrect day counting
+  - Missing ties
+  - Not applying all three tests in correct order
+  - Forgetting split year treatment
+
+**Time Allocation Strategy:**
+- **Standalone SRT analysis**: 25-30 minutes
+- **Integrated with treaty tie-breaker**: Add 8-10 minutes  
+- **Integrated with TNR**: Add 5-8 minutes
+- **Total for typical Part A question**: 30-40 minutes
+
+**Difficulty vs. Return Assessment:**
+- **Difficulty**: Medium-High (lots of moving parts, easy to make errors)
+- **Return**: VERY HIGH (18-22 marks achievable with template)
+- **Efficiency Gain**: Master this template = pass the exam (not exaggerating!)
+
+---
+
+### The SRT: Hierarchical Three-Test Structure
+
+**CRITICAL UNDERSTANDING**: The SRT has **3 tests** that must be applied in **strict order**:
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  TEST 1: AUTOMATIC OVERSEAS TEST                            │
+│  If ANY test passed → STOP → Individual is NON-UK resident  │
+│  • 3 sub-tests (46-day, 16-day, full-time work abroad)     │
+└─────────────────────────────────────────────────────────────┘
+              ↓ If no test passed
+┌─────────────────────────────────────────────────────────────┐
+│  TEST 2: AUTOMATIC UK RESIDENCE TEST                         │
+│  If ANY test passed → STOP → Individual is UK resident      │
+│  • 3 sub-tests (183-day, only home, full-time work UK)     │
+└─────────────────────────────────────────────────────────────┘
+              ↓ If no test passed
+┌─────────────────────────────────────────────────────────────┐
+│  TEST 3: SUFFICIENT TIES TEST                                │
+│  Count ties + UK days → determine residence                 │
+│  • 5 possible ties (family, accommodation, work, 90-day,    │
+│    country)                                                  │
+│  • Different thresholds for "arrivers" vs "leavers"        │
+└─────────────────────────────────────────────────────────────┘
+```
+
+**Golden Rule**: Always apply in this order. Never skip to Sufficient Ties Test without checking Automatic tests first!
+
+---
+
+### Execution Framework
+
+**PHASE 1: Preparation (5 minutes)**
+
+```
+STEP 1: Count Days in UK (2 min)
+• Only count days present in UK at midnight
+• EXCLUDE: Days in transit, exceptional circumstances (very limited)
+• INCLUDE: Days in hospital if deliberate choice to come to UK
+• Create simple table showing breakdown by month/country
+• Check for split year treatment eligibility
+
+STEP 2: Identify Individual's Status (1 min)
+• "Arriver" = non-resident in ALL of previous 3 tax years
+• "Leaver" = resident in 1 or MORE of previous 3 tax years
+• This determines which Sufficient Ties thresholds apply
+
+STEP 3: Note Family Facts (2 min)
+• Spouse/civil partner residence status
+• Minor children residence status
+• Where accommodation is available
+• Work patterns (>3 hours on X days)
+• Previous year UK days
+```
+
+**PHASE 2: Apply the Three Tests (15-20 minutes)**
+
+**TEST 1: AUTOMATIC OVERSEAS TEST** (3 minutes)
+
+Apply each sub-test in turn:
+
+**Sub-Test A: Non-resident in all of previous 3 years + <46 UK days**
+```
+IF (non-resident 3 prior years) AND (UK days < 46)
+THEN → Automatically NON-UK resident → STOP
+```
+
+**Sub-Test B: Resident in 1+ of previous 3 years + <16 UK days**
+```
+IF (resident in 1+ prior years) AND (UK days < 16)  
+THEN → Automatically NON-UK resident → STOP
+```
+
+**Sub-Test C: Full-time work abroad + <91 UK days + <31 UK work days**
+```
+IF (work abroad full-time) AND (UK days < 91) AND (UK work days < 31)
+THEN → Automatically NON-UK resident → STOP
+
+Full-time work = average 35+ hours/week over period
+UK work day = work >3 hours in UK on that day
+```
+
+**If NONE of the Automatic Overseas tests are met → proceed to Test 2**
+
+---
+
+**TEST 2: AUTOMATIC UK RESIDENCE TEST** (3 minutes)
+
+Apply each sub-test in turn:
+
+**Sub-Test A: 183+ days in UK**
+```
+IF UK days ≥ 183
+THEN → Automatically UK resident → STOP
+```
+
+**Sub-Test B: Only home in UK**
+```
+IF (has home in UK for 91+ days) AND (present in UK home on 30+ days)
+   AND (no overseas home OR overseas home <30 days)
+THEN → Automatically UK resident → STOP
+
+"Home" = building/vessel available for 91+ days continuously
+Present = spend time there on separate days (not nights)
+```
+
+**Sub-Test C: Full-time work in UK**
+```
+IF (work in UK full-time over 365-day period) 
+   AND (more than 75% of work days are UK work days)
+   AND (at least 1 UK work day in tax year)
+THEN → Automatically UK resident → STOP
+
+Full-time = average 35+ hours/week
+UK work day = work >3 hours in UK on that day
+```
+
+**If NONE of the Automatic UK tests are met → proceed to Test 3**
+
+---
+
+**TEST 3: SUFFICIENT TIES TEST** (10-15 minutes)
+
+**STEP 1: Identify All Ties (8 minutes)**
+
+Work through each tie systematically:
+
+**TIE 1: FAMILY TIE** ✓ / ✗
+```
+Condition: Spouse/civil partner OR minor children are UK resident
+
+Key points:
+• Spouse must be UK resident in their OWN right under SRT
+  (not just because individual is resident!)
+• Minor children = under 18 at START of tax year
+• Children at boarding school = still count
+• Separated/estranged spouse = no tie
+
+Evidence needed from facts:
+- Where does spouse/partner live?
+- How many days does spouse spend in UK?
+- Are there minor children? Where do they live/go to school?
+
+→ TIE EXISTS if: _____ (explain based on facts)
+```
+
+**TIE 2: ACCOMMODATION TIE** ✓ / ✗
+```
+Condition: UK accommodation available for 91+ consecutive days AND
+           individual present on 1+ nights in tax year
+
+Types of accommodation:
+• Owned or rented property
+• Available for use (even if not used every day)
+• Family/friend's property if available AND used on 16+ nights
+
+Evidence needed from facts:
+- Does individual own/rent UK property?
+- Available for how long continuously?
+- Did they stay there in the tax year?
+- Any stays at family/friend homes?
+
+→ TIE EXISTS if: _____ (explain based on facts)
+```
+
+**TIE 3: WORK TIE** ✓ / ✗
+```
+Condition: Works in UK on 40+ days (>3 hours per day)
+
+Calculation:
+• Count each day where individual works >3 hours in UK
+• Includes employed and self-employed work
+• Excludes: incidental work, < 3 hours
+
+Evidence needed from facts:
+- How many days worked in UK?
+- Hours per day?
+- Nature of work?
+
+→ TIE EXISTS if: _____ (explain based on facts)
+```
+
+**TIE 4: 90-DAY TIE** ✓ / ✗
+```
+Condition: Spent >90 days in UK in EITHER of previous 2 tax years
+
+Calculation:
+• Look back at year before last (Y-2)
+• Look back at last year (Y-1)
+• If EITHER year had >90 UK days → tie exists
+
+Evidence needed from facts:
+- How many UK days in prior 2 years?
+- Any mention of "previously spent X days in UK"?
+
+→ TIE EXISTS if: _____ (explain based on facts)
+```
+
+**TIE 5: COUNTRY TIE** ✓ / ✗
+```
+Condition: Spends more days in UK than in any OTHER single country
+
+Only applies to "leavers" (not arrivers)
+
+Calculation:
+• Count days in each country during tax year
+• Compare UK days with highest other country
+• If UK > any other single country → tie exists
+
+Evidence needed from facts:
+- Day breakdown by country?
+- Which country had most days?
+
+→ TIE EXISTS if: _____ (explain based on facts)
+```
+
+**STEP 2: Count Total Ties** (1 minute)
+
+```
+TOTAL TIES FOR [NAME]: ___ / 5
+
+✓ Family Tie: Yes/No
+✓ Accommodation Tie: Yes/No  
+✓ Work Tie: Yes/No
+✓ 90-Day Tie: Yes/No
+✓ Country Tie: Yes/No (only for leavers)
+```
+
+**STEP 3: Apply Day/Tie Matrix** (2 minutes)
+
+**For LEAVERS** (resident in 1+ of previous 3 years):
+
+| UK Days | Ties Needed | Result |
+|---------|-------------|---------|
+| < 16 | Any | Non-resident (Automatic Overseas) |
+| 16-45 | 4+ ties required | Check tie count |
+| 46-90 | 3+ ties required | Check tie count |
+| 91-120 | 2+ ties required | Check tie count |
+| 121-182 | 1+ tie required | Check tie count |
+| 183+ | Any | UK resident (Automatic UK) |
+
+**For ARRIVERS** (non-resident in all previous 3 years):
+
+| UK Days | Ties Needed | Result |
+|---------|-------------|---------|
+| < 46 | Any | Non-resident (Automatic Overseas) |
+| 46-90 | 4+ ties required | Check tie count |
+| 91-120 | 3+ ties required | Check tie count |
+| 121-182 | 2+ ties required | Check tie count |
+| 183+ | Any | UK resident (Automatic UK) |
+
+**Application:**
+```
+[Name] is a [LEAVER / ARRIVER]
+[Name] spent [X] days in UK in 202X/2X
+[Name] has [Y] ties
+
+Applying the matrix:
+- Days in UK: [X] → Falls in bracket [16-45 / 46-90 / 91-120 / 121-182]
+- Ties required for UK residence: [Z]
+- Ties present: [Y]
+
+CONCLUSION:
+[If Y ≥ Z]: Individual IS UK resident (has sufficient ties)
+[If Y < Z]: Individual is NOT UK resident (insufficient ties)
+```
+
+---
+
+**PHASE 3: Additional Considerations** (5 minutes)
+
+**Split Year Treatment**
+
+If individual arrives in/leaves UK during tax year:
+```
+Check if split year applies:
+• Case 1: Starts full-time work abroad
+• Case 2: Partner starts full-time work abroad  
+• Case 3: Ceases to have UK home
+• Case 4: Starts to have UK home only
+• Case 5: Starts full-time work in UK
+• Case 6: Ceases full-time work abroad
+• Case 7: Partner ceases full-time work abroad
+• Case 8: Starts to have UK home
+
+If split year applies:
+- Part of year = UK resident
+- Part of year = non-UK resident
+- Specify which part is which
+```
+
+**Treaty Tie-Breaker** (if dual resident)
+
+If UK resident under SRT AND resident under another country's domestic law:
+```
+Apply OECD Model Article 4(2) tie-breaker (for individuals):
+
+1. Permanent home test
+   → Where is individual's permanent home available?
+   
+2. Centre of vital interests (if homes in both)
+   → Where are personal/economic ties closer?
+   
+3. Habitual abode (if unclear)
+   → Where does individual habitually live?
+   
+4. Nationality
+   → Which country's citizenship held?
+
+Conclusion: Treaty residence is in [Country]
+```
+
+---
+
+### Template & Tools
+
+**TEMPLATE B: Individual Residence Analysis (SRT)**
+
+```
+INDIVIDUAL RESIDENCE ANALYSIS - STATUTORY RESIDENCE TEST
+Tax Year: 202X/2X
+Individual: [Name]
+
+═══════════════════════════════════════════════════════════════
+
+PRELIMINARY MATTERS
+
+1. DAY COUNT
+   
+   Days in UK during 202X/2X tax year: [X] days
+   
+   Breakdown:
+   [Month/Period]     [Days in UK]    [Days in Country Y]   [Other]
+   April 202X         __              __                     __
+   May-July 202X      __              __                     __
+   [etc.]
+   
+   TOTAL:             [X] days
+   
+   Notes on day counting:
+   • [Any exceptional circumstances claimed?]
+   • [Any days in transit?]
+   • [Any medical stays - deliberate or exceptional?]
+
+2. ARRIVER vs LEAVER STATUS
+   
+   Tax year 202X-3/2X-2: [UK resident / Non-UK resident]
+   Tax year 202X-2/2X-1: [UK resident / Non-UK resident]  
+   Tax year 202X-1/2X:   [UK resident / Non-UK resident]
+   
+   Conclusion: [Name] is a [LEAVER / ARRIVER] for 202X/2X
+   
+   [LEAVER]: Resident in 1+ of previous 3 years
+   [ARRIVER]: Non-resident in all previous 3 years
+
+═══════════════════════════════════════════════════════════════
+
+PART A: AUTOMATIC OVERSEAS TEST
+
+Under FA 2013 Sch 45 Part 2, an individual is automatically NON-UK 
+resident if ANY of the following tests are met:
+
+Test 1: Non-resident in all previous 3 years + <46 UK days
+
+[Name] [was / was not] non-resident in all of the previous 3 tax years.
+[Name] spent [X] days in UK, which is [less than / more than] 46 days.
+
+→ Test 1: [PASSED - automatically non-resident / FAILED - continue]
+
+---
+
+Test 2: Resident in 1+ previous 3 years + <16 UK days
+
+[Name] [was / was not] resident in 1 or more of the previous 3 tax years.
+[Name] spent [X] days in UK, which is [less than / more than] 16 days.
+
+→ Test 2: [PASSED - automatically non-resident / FAILED - continue]
+
+---
+
+Test 3: Full-time work abroad + <91 UK days + <31 UK work days
+
+Full-time work abroad requires:
+• Average 35+ hours per week over the period
+• Sufficient period (at least one tax year)  
+• No significant breaks (>30 day breaks reduce qualifying period)
+
+[Name's work pattern]: [Describe based on facts]
+
+[Name] worked [describe pattern - full-time/part-time/none] abroad.
+[Name] spent [X] UK days [less than / more than] 91 days.
+[Name] worked >3 hours in UK on [Y] days [less than / more than] 31 days.
+
+→ Test 3: [PASSED - automatically non-resident / FAILED - continue]
+
+---
+
+CONCLUSION ON AUTOMATIC OVERSEAS TEST:
+[Name] [PASSED / FAILED] the Automatic Overseas Test.
+
+[If PASSED]: [Name] is automatically NON-UK resident for 202X/2X.
+→ NO NEED TO CONSIDER FURTHER TESTS
+
+[If FAILED]: [Name] is not automatically non-resident.
+→ PROCEED TO AUTOMATIC UK RESIDENCE TEST
+
+═══════════════════════════════════════════════════════════════
+
+PART B: AUTOMATIC UK RESIDENCE TEST
+
+[Only complete if Automatic Overseas Test failed]
+
+Under FA 2013 Sch 45 Part 3, an individual is automatically UK 
+resident if ANY of the following tests are met:
+
+Test 1: 183+ days in UK
+
+[Name] spent [X] days in UK in 202X/2X.
+
+→ Test 1: [PASSED - automatically UK resident / FAILED - continue]
+
+---
+
+Test 2: Only home in UK
+
+"Home" test requirements:
+• Individual has home in UK available for 91+ consecutive days
+• Individual present in UK home on 30+ separate days in tax year
+• Individual has NO overseas home OR overseas home <30 days present
+
+[Name's homes]:
+UK home: [Yes/No] - Available for [X] days - Present on [Y] days
+Overseas home(s): [Yes/No] - Location: [Country] - Present on [Z] days
+
+Analysis:
+[Describe based on facts - does only home test apply?]
+
+→ Test 2: [PASSED - automatically UK resident / FAILED - continue]
+
+---
+
+Test 3: Full-time work in UK
+
+Full-time work in UK requires:
+• Work in UK throughout 365-day period (can straddle tax years)
+• Average 35+ hours per week
+• >75% of work days are UK work days
+• At least 1 UK work day in tax year
+
+[Name's work pattern in UK]: [Describe based on facts]
+
+UK work days (>3 hours): [X] days
+Total work days: [Y] days
+Percentage UK: [X/Y] = [Z]%
+
+→ Test 3: [PASSED - automatically UK resident / FAILED - continue]
+
+---
+
+CONCLUSION ON AUTOMATIC UK RESIDENCE TEST:
+[Name] [PASSED / FAILED] the Automatic UK Residence Test.
+
+[If PASSED]: [Name] is automatically UK resident for 202X/2X.
+→ NO NEED TO CONSIDER SUFFICIENT TIES TEST
+
+[If FAILED]: [Name] is not automatically UK resident.
+→ PROCEED TO SUFFICIENT TIES TEST
+
+═══════════════════════════════════════════════════════════════
+
+PART C: SUFFICIENT TIES TEST
+
+[Only complete if both Automatic tests failed]
+
+Under FA 2013 Sch 45 Part 4, residence is determined by the number
+of "ties" to the UK combined with days spent in the UK.
+
+STEP 1: IDENTIFY TIES
+
+TIE 1: FAMILY TIE
+
+Conditions:
+• Spouse/civil partner is UK resident (under SRT), OR
+• Minor children (<18 at start of tax year) are UK resident
+
+Analysis of facts:
+
+Spouse/Partner: [Name]
+- Days in UK 202X/2X: [X] days
+- Residence status under SRT: [Describe - is spouse UK resident?]
+- Family tie conclusion: [Yes, spouse is UK resident / No]
+
+Minor Children:
+- Number of minor children: [X]
+- Where resident: [UK / Overseas / Mix]
+- Days in UK: [Describe]
+- Family tie conclusion: [Yes, children UK resident / No]
+
+→ FAMILY TIE: [EXISTS / DOES NOT EXIST]
+
+Reasoning: [Explain based on facts]
+
+---
+
+TIE 2: ACCOMMODATION TIE  
+
+Conditions:
+• UK accommodation available for 91+ consecutive days in tax year, AND
+• Individual present in accommodation on 1+ nights in tax year
+• (OR) Family/friend accommodation used 16+ nights
+
+Analysis of facts:
+
+UK Property Owned/Rented:
+- Address/type: [Describe]
+- Available for: [X] days continuously
+- Individual present: [Y] nights in tax year
+
+Family/Friend Accommodation:
+- Any stays at family/friend homes: [Yes/No]
+- If yes, total nights: [Z]
+
+→ ACCOMMODATION TIE: [EXISTS / DOES NOT EXIST]
+
+Reasoning: [Explain based on facts]
+
+---
+
+TIE 3: WORK TIE
+
+Condition:
+• Works in UK >3 hours on 40+ days in tax year
+
+Analysis of facts:
+
+UK Work Pattern:
+- Nature of work: [Describe]
+- Days worked >3 hours in UK: [X] days
+- Threshold: 40 days
+
+→ WORK TIE: [EXISTS / DOES NOT EXIST]
+
+Reasoning: [Explain based on facts]
+
+---
+
+TIE 4: 90-DAY TIE
+
+Condition:
+• Spent >90 days in UK in EITHER of the 2 preceding tax years
+
+Analysis of facts:
+
+Tax year 202X-2/2X-1: [X] UK days [>90 / ≤90]
+Tax year 202X-1/2X: [Y] UK days [>90 / ≤90]
+
+→ 90-DAY TIE: [EXISTS / DOES NOT EXIST]
+
+Reasoning: [Explain based on facts]
+
+---
+
+TIE 5: COUNTRY TIE (only applies to "leavers")
+
+[Skip this section if individual is an "arriver"]
+
+Condition:
+• Spends more days in UK than in any other single country
+
+Analysis of facts:
+
+Days by country in 202X/2X:
+UK:            [X] days
+[Country Y]:   [Y] days
+[Country Z]:   [Z] days
+[Other]:       [W] days
+
+Highest non-UK country: [Country Y] with [Y] days
+UK days: [X]
+
+Comparison: UK days [greater than / less than / equal to] [Country Y]
+
+→ COUNTRY TIE: [EXISTS / DOES NOT EXIST]
+
+Reasoning: [Explain based on facts]
+
+═══════════════════════════════════════════════════════════════
+
+STEP 2: COUNT TIES
+
+TOTAL TIES FOR [NAME]: [X] / [4 or 5]
+
+Summary:
+✓ Family Tie:         [YES / NO]
+✓ Accommodation Tie:  [YES / NO]
+✓ Work Tie:           [YES / NO]
+✓ 90-Day Tie:         [YES / NO]
+✓ Country Tie:        [YES / NO - or N/A if arriver]
+
+═══════════════════════════════════════════════════════════════
+
+STEP 3: APPLY SUFFICIENT TIES MATRIX
+
+[Name] is a [LEAVER / ARRIVER]
+[Name] spent [X] days in UK
+[Name] has [Y] ties to UK
+
+Applicable Matrix:
+
+[If LEAVER - use this table]:
+
+| UK Days     | Ties Required | [Name's Position]        |
+|-------------|---------------|--------------------------|
+| < 16        | Any           | Automatic overseas       |
+| 16 - 45     | 4+ ties       | [X] days, [Y] ties      |
+| 46 - 90     | 3+ ties       | [X] days, [Y] ties      |
+| 91 - 120    | 2+ ties       | [X] days, [Y] ties      |
+| 121 - 182   | 1+ tie        | [X] days, [Y] ties      |
+| 183+        | Any           | Automatic UK             |
+
+[If ARRIVER - use this table]:
+
+| UK Days     | Ties Required | [Name's Position]        |
+|-------------|---------------|--------------------------|
+| < 46        | Any           | Automatic overseas       |
+| 46 - 90     | 4+ ties       | [X] days, [Y] ties      |
+| 91 - 120    | 3+ ties       | [X] days, [Y] ties      |
+| 121 - 182   | 2+ ties       | [X] days, [Y] ties      |
+| 183+        | Any           | Automatic UK             |
+
+Application:
+
+Days in UK: [X] → Falls in bracket [[16-45] / [46-90] / [91-120] / [121-182]]
+Ties required for UK residence: [Z]+
+Ties present: [Y]
+
+Comparison: [Y] ties [IS ≥ / IS < ] [Z] ties required
+
+═══════════════════════════════════════════════════════════════
+
+FINAL CONCLUSION
+
+Based on the Statutory Residence Test analysis:
+
+[Name] [IS / IS NOT] UK tax resident for tax year 202X/2X.
+
+Basis of determination:
+[Automatic Overseas Test / Automatic UK Test / Sufficient Ties Test]
+
+Reasoning:
+[Provide 2-3 sentence summary of key facts leading to conclusion]
+
+═══════════════════════════════════════════════════════════════
+
+ADDITIONAL CONSIDERATIONS
+
+[Include these sections if relevant to facts]:
+
+1. SPLIT YEAR TREATMENT
+
+[If individual arrives/leaves during year, check split year cases]
+
+Applicable split year case: [Case 1-8 or None]
+
+If split year applies:
+- UK resident part: [Date range]
+- Non-UK resident part: [Date range]
+
+2. TREATY TIE-BREAKER (If dual resident under domestic laws)
+
+[If both UK SRT and foreign country determine residence, apply treaty]
+
+Article 4(2) OECD Model tie-breaker:
+1. Permanent home: [Analysis]
+2. Centre of vital interests: [Analysis]
+3. Habitual abode: [Analysis]
+4. Nationality: [Analysis]
+
+Treaty residence conclusion: [Country]
+
+3. CONSEQUENCES OF RESIDENCE STATUS
+
+As a [UK resident / non-UK resident] for 202X/2X:
+
+[If UK resident]:
+• Liable to UK tax on worldwide income and gains
+• [If also non-domiciled: may claim remittance basis]
+• Filing obligations: Self Assessment tax return
+• [Other specific consequences based on facts]
+
+[If non-UK resident]:
+• Liable to UK tax only on UK source income
+• UK residential property gains remain taxable
+• [Check temporary non-residence rules if left UK recently]
+• [Other specific consequences based on facts]
+
+```
+
+---
+
+*Continue to worked example from June 2025...*
+
+
+### Worked Example: June 2025 Question 1, Part 1 (Daniel Door)
+
+**QUESTION FACTS** (from June 2025 exam):
+
+*Daniel Door, a British citizen, has been UK resident for many years. On 1 April 2023, he moved to Spain with his Spanish partner Frederica. During the 2024/25 tax year:*
+
+- *Spain: 95 days (at Spanish home) + 35 days (other) = 130 days total*
+- *UK: 70 days + 28 days (hospital in February for medical treatment) = 98 days total*
+- *Italy: 40 days*
+- *Other countries: 97 days*
+- *Daniel made a deliberate choice for family reasons to be treated in the UK for his medical emergency*
+- *Frederica is UK resident (works >3 hours on 45 days in UK, spent 92 days in UK in 2022/23)*
+- *Daniel has no minor children*
+- *Daniel owns a UK home but did not stay there in 2024/25 (stayed in hotels when visiting UK)*
+- *Daniel worked >3 hours in UK on only 5 occasions*
+- *Daniel spent 92 days in UK in 2022/23*
+
+**EXAMINER REQUIREMENT**: "Determine whether Daniel is UK resident for 2024/25."
+
+**TIME ALLOCATION**: 25 minutes
+
+---
+
+**ANSWER** (using Template B):
+
+---
+
+**INDIVIDUAL RESIDENCE ANALYSIS - STATUTORY RESIDENCE TEST**
+
+**Tax Year**: 2024/25  
+**Individual**: Daniel Door
+
+═══════════════════════════════════════════════════════════════
+
+**PRELIMINARY MATTERS**
+
+**1. DAY COUNT**
+
+Days in UK during 2024/25 tax year: **98 days**
+
+Breakdown:
+- Regular UK visits: 70 days
+- Hospital stay (February 2025): 28 days
+- **TOTAL**: 98 days
+
+*Note on hospital days*: Daniel made a deliberate choice for family reasons to be treated in the UK. His hospital stay is therefore **unlikely to qualify for the exceptional circumstances exception**. These 28 days count toward his UK day total.
+
+[Annotation: ✓ Examiners look for you to spot this - deliberate choice = days count. Worth 2 marks.]
+
+**2. ARRIVER vs LEAVER STATUS**
+
+Tax year 2021/22: UK resident (stated "always been UK resident" until 1 April 2023)  
+Tax year 2022/23: UK resident  
+Tax year 2023/24: Non-UK resident (moved to Spain 1 April 2023)
+
+**Conclusion**: Daniel is a **LEAVER** for 2024/25
+
+*Reasoning*: A "leaver" is an individual who was UK resident in 1 or more of the previous 3 tax years. Daniel was resident in 2021/22 and 2022/23, so meets this definition.
+
+[Annotation: ✓ Critical determination - leavers face stricter day/tie thresholds. Worth 2-3 marks.]
+
+═══════════════════════════════════════════════════════════════
+
+**PART A: AUTOMATIC OVERSEAS TEST**
+
+Under FA 2013 Sch 45 Part 2, Daniel is automatically NON-UK resident if ANY of the following tests are met:
+
+**Test 1: Non-resident in all previous 3 years + <46 UK days**
+
+Daniel **was resident** in 1 or more of the previous 3 years (2021/22 and 2022/23).
+
+→ **Test 1: FAILED** - does not meet "non-resident in all previous 3 years" condition
+
+[Annotation: ✓ Always state why test fails, not just conclusion. Worth 1 mark.]
+
+---
+
+**Test 2: Resident in 1+ previous 3 years + <16 UK days**
+
+Daniel **was resident** in 1 or more of the previous 3 tax years (2021/22, 2022/23).  
+Daniel spent **98 days** in UK, which **exceeds** 16 days.
+
+→ **Test 2: FAILED** - 98 days > 16 day threshold
+
+---
+
+**Test 3: Full-time work abroad + <91 UK days + <31 UK work days**
+
+Full-time work abroad requires average 35+ hours per week over the period.
+
+Daniel's work pattern: The question states Daniel "does no work for more than half the year." This means Daniel cannot meet the full-time work abroad requirement.
+
+→ **Test 3: FAILED** - Daniel does not work full-time abroad
+
+[Annotation: ✓ Picking up this fact from the question shows careful reading. Worth 2 marks.]
+
+---
+
+**CONCLUSION ON AUTOMATIC OVERSEAS TEST:**
+
+Daniel **FAILED** the Automatic Overseas Test (none of the 3 sub-tests passed).
+
+→ **PROCEED TO AUTOMATIC UK RESIDENCE TEST**
+
+═══════════════════════════════════════════════════════════════
+
+**PART B: AUTOMATIC UK RESIDENCE TEST**
+
+Under FA 2013 Sch 45 Part 3, Daniel is automatically UK resident if ANY of the following tests are met:
+
+**Test 1: 183+ days in UK**
+
+Daniel spent **98 days** in UK in 2024/25.
+
+98 < 183
+
+→ **Test 1: FAILED** - below 183 day threshold
+
+[Annotation: ✓ This is the most straightforward test. Worth 1-2 marks.]
+
+---
+
+**Test 2: Only home in UK**
+
+"Home" test requirements:
+- Individual has home in UK available for 91+ consecutive days
+- Individual present in UK home on 30+ separate days in tax year
+- Individual has NO overseas home OR overseas home <30 days present
+
+Daniel's homes:
+- **UK home**: Yes - Daniel owns a UK home (available all year = 365 days)
+- **Present in UK home**: **0 days** - "does not spend any time in his UK home during 2024/25" (stayed in hotels)
+- **Overseas homes**: Yes - Daniel has homes in Spain and several other countries
+
+Analysis:
+
+Even though Daniel has a UK home available for 91+ days, he was **not present in it for at least 30 days** in the tax year. The test requires BOTH conditions to be met.
+
+Additionally, Daniel has overseas homes where he is present.
+
+→ **Test 2: FAILED** - only home test not satisfied
+
+[Annotation: ✓ Common trap - students forget the "present 30 days" requirement. Spotting this worth 2-3 marks.]
+
+---
+
+**Test 3: Full-time work in UK**
+
+Full-time work in UK requires:
+- Work in UK throughout 365-day period
+- Average 35+ hours per week
+- >75% of work days are UK work days
+- At least 1 UK work day in tax year
+
+Daniel's work pattern in UK:
+
+Daniel "only works in the UK, for more than 3 hours on **5 occasions**."
+
+5 occasions is far below the threshold for full-time work (which would require working substantially throughout the year with >75% of work days in UK).
+
+→ **Test 3: FAILED** - Daniel does not work full-time in UK
+
+---
+
+**CONCLUSION ON AUTOMATIC UK RESIDENCE TEST:**
+
+Daniel **FAILED** the Automatic UK Residence Test (none of the 3 sub-tests passed).
+
+→ **PROCEED TO SUFFICIENT TIES TEST**
+
+[Annotation: ✓ This is the typical pattern - most complex SRT questions land in Sufficient Ties Test. Worth noting you've systematically ruled out automatic tests. Worth 2 marks for clear structure.]
+
+═══════════════════════════════════════════════════════════════
+
+**PART C: SUFFICIENT TIES TEST**
+
+Under FA 2013 Sch 45 Part 4, residence is determined by the number of "ties" to the UK combined with days spent in the UK.
+
+**STEP 1: IDENTIFY TIES**
+
+---
+
+**TIE 1: FAMILY TIE**
+
+Conditions:
+- Spouse/civil partner is UK resident (under SRT), OR
+- Minor children (<18 at start of tax year) are UK resident
+
+Analysis of facts:
+
+**Spouse/Partner**: Frederica (Daniel's Spanish partner)
+
+Frederica's residence status for 2024/25:
+- Days in UK 2024/25: 98 days (same as Daniel)
+- Work in UK: >3 hours on **45 days** in 2024/25 → **Work tie exists**
+- 90-day tie: Spent **92 days** in UK in 2022/23 → **90-day tie exists**
+- Ties: 2 ties (work + 90-day)
+
+Applying Sufficient Ties matrix for Frederica (she is also a leaver):
+- 98 days in UK + 2 ties
+- As a leaver with 91-120 days, she needs **2+ ties** for UK residence
+- Frederica has exactly 2 ties
+- **Frederica IS UK resident** for 2024/25
+
+**Minor Children**: Daniel has **no minor children** (stated in facts).
+
+→ **FAMILY TIE: EXISTS**
+
+**Reasoning**: Frederica, Daniel's partner, is UK resident in her own right under the SRT (98 days + 2 ties). This creates a family tie for Daniel.
+
+[Annotation: ✓✓ This is complex - you must work out Frederica's residence to determine Daniel's family tie. Shows high-level analysis. Worth 4-5 marks.]
+
+---
+
+**TIE 2: ACCOMMODATION TIE**
+
+Conditions:
+- UK accommodation available for 91+ consecutive days in tax year, AND
+- Individual present in accommodation on 1+ nights in tax year
+- (OR) Family/friend accommodation used 16+ nights
+
+Analysis of facts:
+
+**UK Property Owned/Rented**:
+- Daniel owns a UK home
+- Available for: 365 days continuously (all year)
+- Individual present: **0 nights** - "does not spend any time in his UK home during 2024/25"
+
+**Family/Friend Accommodation**:
+- Daniel stays in **hotels** when he visits the UK
+- No mention of stays at family/friend homes
+
+→ **ACCOMMODATION TIE: DOES NOT EXIST**
+
+**Reasoning**: Although Daniel has a UK home available for 91+ days, he did not spend **at least one night** in it during the tax year. The accommodation tie requires BOTH conditions. Hotel stays do not create an accommodation tie.
+
+[Annotation: ✓ Another common trap - accommodation must be available AND used. Worth 2-3 marks.]
+
+---
+
+**TIE 3: WORK TIE**
+
+Condition:
+- Works in UK >3 hours on 40+ days in tax year
+
+Analysis of facts:
+
+Daniel "only worked in the UK for more than 3 hours on **5 occasions**."
+
+5 days < 40 day threshold
+
+→ **WORK TIE: DOES NOT EXIST**
+
+**Reasoning**: Daniel worked >3 hours on only 5 days in UK, well below the 40-day threshold required.
+
+[Annotation: ✓ Straightforward application. Worth 1-2 marks.]
+
+---
+
+**TIE 4: 90-DAY TIE**
+
+Condition:
+- Spent >90 days in UK in EITHER of the 2 preceding tax years
+
+Analysis of facts:
+
+Tax year 2022/23: **92 UK days** (stated in facts)  
+Tax year 2023/24: Not stated, but Daniel moved to Spain 1 April 2023, so likely <90 days
+
+At least ONE of the previous two years (2022/23) had **>90 days**.
+
+→ **90-DAY TIE: EXISTS**
+
+**Reasoning**: Daniel spent 92 days in UK in 2022/23, which exceeds 90 days. This is sufficient - only ONE of the previous two years needs to exceed 90 days.
+
+[Annotation: ✓ Important - you don't need BOTH years >90 days, just one. Worth 2 marks.]
+
+---
+
+**TIE 5: COUNTRY TIE** (only applies to "leavers")
+
+Condition:
+- Spends more days in UK than in any other single country
+
+Analysis of facts:
+
+Days by country in 2024/25:
+- **Spain**: 130 days (95 at Spanish home + 35 other)
+- **UK**: 98 days
+- **Italy**: 40 days
+- **Other countries**: 97 days (but split across multiple countries)
+
+Highest single country: **Spain with 130 days**  
+UK days: **98 days**
+
+Comparison: UK days (98) **LESS THAN** Spain days (130)
+
+→ **COUNTRY TIE: DOES NOT EXIST**
+
+**Reasoning**: Daniel spent more days in Spain (130) than in the UK (98) during 2024/25. The country tie only exists if UK days exceed ALL other countries. Spain is the single country with most days.
+
+[Annotation: ✓ Critical calculation - must identify the highest OTHER country. Worth 2-3 marks.]
+
+═══════════════════════════════════════════════════════════════
+
+**STEP 2: COUNT TIES**
+
+**TOTAL TIES FOR DANIEL**: **2 / 5**
+
+Summary:
+- ✓ **Family Tie**: **YES** (Frederica is UK resident)
+- ✗ **Accommodation Tie**: **NO** (UK home not used)
+- ✗ **Work Tie**: **NO** (only 5 UK work days)
+- ✓ **90-Day Tie**: **YES** (92 days in 2022/23)
+- ✗ **Country Tie**: **NO** (more days in Spain)
+
+[Annotation: ✓ Clear summary helps examiner mark quickly. Worth 1 mark for presentation.]
+
+═══════════════════════════════════════════════════════════════
+
+**STEP 3: APPLY SUFFICIENT TIES MATRIX**
+
+Daniel is a **LEAVER** (resident in 1+ of previous 3 years)  
+Daniel spent **98 days** in UK  
+Daniel has **2 ties** to UK
+
+**Applicable Matrix for LEAVERS**:
+
+| UK Days     | Ties Required | Daniel's Position        |
+|-------------|---------------|--------------------------|
+| < 16        | Any           | Automatic overseas       |
+| 16 - 45     | 4+ ties       | -                        |
+| 46 - 90     | 3+ ties       | -                        |
+| **91 - 120**    | **2+ ties**       | **98 days, 2 ties ✓**   |
+| 121 - 182   | 1+ tie        | -                        |
+| 183+        | Any           | Automatic UK             |
+
+**Application**:
+
+Days in UK: **98** → Falls in bracket **[91-120]**  
+Ties required for UK residence: **2+**  
+Ties present: **2**
+
+Comparison: **2 ties = 2 ties required**
+
+Daniel has **exactly the number of ties required** for UK residence in the 91-120 day bracket.
+
+═══════════════════════════════════════════════════════════════
+
+**FINAL CONCLUSION**
+
+Based on the Statutory Residence Test analysis:
+
+**Daniel Door IS UK tax resident for tax year 2024/25.**
+
+**Basis of determination**: Sufficient Ties Test
+
+**Reasoning**: 
+
+As a leaver who spent 98 days in the UK (falling in the 91-120 day bracket), Daniel requires 2 or more ties to be UK resident. Daniel has exactly 2 ties:
+1. **Family tie** (partner Frederica is UK resident)
+2. **90-day tie** (spent 92 days in UK in 2022/23)
+
+Based on having 2 ties and 98 UK days, Daniel **exceeds the threshold** for UK residence under the Sufficient Ties Test and is therefore UK resident for 2024/25.
+
+[Annotation: ✓✓ Clear, definitive conclusion citing the specific test and reasoning. Essential for full marks. Worth 3-4 marks.]
+
+═══════════════════════════════════════════════════════════════
+
+---
+
+**MARK ALLOCATION** (Estimated based on June 2025 suggested solutions):
+
+| Element | Marks |
+|---------|-------|
+| Day count (including hospital analysis) | 2-3 |
+| Arriver/Leaver determination | 2 |
+| Automatic Overseas Test (all 3 sub-tests) | 3-4 |
+| Automatic UK Test (all 3 sub-tests) | 3-4 |
+| Family tie (including Frederica's residence analysis) | 4-5 |
+| Other ties analysis (4 ties) | 4-5 |
+| Sufficient Ties matrix application | 2-3 |
+| Final conclusion | 2-3 |
+| **TOTAL** | **22-29/25** |
+
+*Note: Total exceeds 25 because examiners use positive marking - you can score maximum marks even if you don't cover every single point.*
+
+**Time Taken**: Approximately 25-28 minutes for this level of answer
+
+---
+
+**KEY LEARNING POINTS from this example**:
+
+1. ✓ **Deliberate choice hospital days COUNT** - not exceptional circumstances
+2. ✓ **Must determine spouse's residence first** before concluding on family tie
+3. ✓ **Accommodation tie requires BOTH available AND used** - common trap
+4. ✓ **90-day tie looks at EITHER of previous 2 years** - not both
+5. ✓ **Country tie compares UK with HIGHEST single other country**
+6. ✓ **Work systematically through ALL tests** - don't skip to Sufficient Ties
+7. ✓ **Show your workings** - examiners award marks for method even if conclusion wrong
+
+---
+
+
+### Error Prevention: Top 10 Mistakes (SRT)
+
+**MISTAKE #1**: "Counting hospital days as 'exceptional circumstances' when deliberate choice"
+- ❌ **Wrong**: "Hospital stay doesn't count because medical emergency"
+- ✅ **Correct**: "Deliberate choice to come to UK for treatment = days count"
+- **Test**: Was it a deliberate choice? If YES → days count
+- **Prevention**: Read facts carefully - "elected," "chose," "decided" = deliberate
+
+**MISTAKE #2**: "Skipping Automatic tests and jumping straight to Sufficient Ties"
+- ❌ **Wrong**: Counting ties without checking 183-day test first
+- ✅ **Correct**: ALWAYS apply tests in order: Automatic Overseas → Automatic UK → Sufficient Ties
+- **Why critical**: You can miss easy conclusions (e.g., 183+ days = automatic UK resident)
+- **Time saving**: Automatic tests take 3 minutes total, save 15 minutes if they apply
+
+**MISTAKE #3**: "Forgetting to determine spouse's residence before concluding on family tie"
+- ❌ **Wrong**: "Spouse lives in UK → family tie exists"
+- ✅ **Correct**: "Spouse is UK resident UNDER THE SRT → family tie exists"
+- **Critical point**: Must analyze spouse's residence through SRT - living in UK ≠ UK resident
+- **Common in exams**: June 2025 tested this - Frederica needed full SRT analysis
+
+**MISTAKE #4**: "Counting accommodation tie when home not used"
+- ❌ **Wrong**: "Has UK home available → accommodation tie"
+- ✅ **Correct**: "Has UK home available for 91+ days AND present 1+ nights → accommodation tie"
+- **Both conditions required**: Available + Used
+- **Classic trap**: Examiners love this - home available but individual stays in hotels
+
+**MISTAKE #5**: "Confusing 90-day tie (needs ONE of previous 2 years >90)"
+- ❌ **Wrong**: "Spent 92 days in 2022/23 but only 50 days in 2023/24 → no 90-day tie"
+- ✅ **Correct**: "Spent 92 days in 2022/23 → 90-day tie EXISTS (only need one year)"
+- **Rule**: EITHER of the two preceding years >90 days is sufficient
+- **Don't**: Add them together or require both years
+
+**MISTAKE #6**: "Country tie calculation error - using total 'other' instead of single highest"
+- ❌ **Wrong**: "UK 98 days, Other countries 167 days total → no country tie"
+- ✅ **Correct**: "UK 98 days, Spain 130 days (highest single) → no country tie"
+- **Key word**: "Single" country - compare UK with the ONE country with most days
+- **Not**: Total of all other countries combined
+
+**MISTAKE #7**: "Mixing up Arriver vs Leaver thresholds"
+- ❌ **Wrong**: Applying arriver matrix when individual was resident last year
+- ✅ **Correct**: Check residence history first → determine status → use correct matrix
+- **Critical**: Leavers have STRICTER requirements (can be resident with fewer days)
+- **Memorize**: Resident in 1+ of previous 3 years = Leaver
+
+**MISTAKE #8**: "Not counting ALL relevant work days for work tie"
+- ❌ **Wrong**: "Works occasionally in UK → no work tie"
+- ✅ **Correct**: Count every single day >3 hours, including travel days where work done
+- **Threshold**: 40+ days (>3 hours each) = work tie
+- **Include**: Employed work, self-employed, director duties, remote work while in UK
+
+**MISTAKE #9**: "Concluding residence without stating which test applies"
+- ❌ **Wrong**: "Individual is UK resident." [Stop]
+- ✅ **Correct**: "Individual is UK resident under the Sufficient Ties Test because..."
+- **Examiner wants**: Explicit statement of which test led to conclusion
+- **Marks**: Costs 2-3 marks if you don't specify the basis
+
+**MISTAKE #10**: "Forgetting split year treatment in arrival/departure scenarios"
+- ❌ **Wrong**: Analyzing full-year residence only when individual clearly arrived/left mid-year
+- ✅ **Correct**: After determining year-residence, check if split year cases apply
+- **Don't skip**: Even if question doesn't explicitly ask, flag split year possibility
+- **Bonus marks**: Mentioning relevant split year case earns 2-3 professional marks
+
+---
+
+### Quick Reference: Key Legislation & Thresholds
+
+**Primary Legislation** (memorize this):
+- **FA 2013 Schedule 45**: Statutory Residence Test
+  - Part 2: Automatic Overseas Test
+  - Part 3: Automatic Resident Test  
+  - Part 4: Sufficient Ties Test
+  - Part 5: Split Year Treatment
+
+---
+
+**Day Counting Rules**:
+- Count days present in UK **at midnight**
+- EXCLUDE: Days in transit (< 4 hours), exceptional circumstances (very rare)
+- INCLUDE: Arrival day (if present at midnight), departure day (if present at midnight)
+- Hospital stays: Count UNLESS truly exceptional AND not deliberate choice
+
+---
+
+**Automatic Overseas Test** (if ANY passed → non-resident):
+1. Non-resident all 3 prior years + **<46 days**
+2. Resident 1+ prior years + **<16 days**
+3. Full-time work abroad + **<91 days** + **<31 UK work days**
+
+---
+
+**Automatic UK Test** (if ANY passed → UK resident):
+1. **≥183 days** in UK
+2. Only home in UK (91+ days available, 30+ days present, no overseas home)
+3. Full-time work in UK (365-day period, >75% UK work days)
+
+---
+
+**The Five Ties**:
+
+| Tie | Condition | Key Facts Needed |
+|-----|-----------|------------------|
+| **Family** | Spouse/partner OR minor children UK resident | Spouse's days + ties; children's location |
+| **Accommodation** | UK home 91+ days available AND 1+ night present | Property ownership; nights stayed |
+| **Work** | Work >3 hours on **40+ days** in UK | Count every day >3 hours worked |
+| **90-Day** | **>90 days** in UK in EITHER of 2 prior years | Prior year day counts |
+| **Country** | More days in UK than any **single** other country | Day breakdown by country |
+
+---
+
+**Sufficient Ties Matrix - LEAVERS**:
+
+| Days | 16-45 | 46-90 | 91-120 | 121-182 |
+|------|-------|-------|--------|---------|
+| Ties needed | 4+ | 3+ | **2+** | 1+ |
+
+**Sufficient Ties Matrix - ARRIVERS**:
+
+| Days | 46-90 | 91-120 | 121-182 |
+|------|-------|--------|---------|
+| Ties needed | 4+ | 3+ | 2+ |
+
+---
+
+**Split Year Treatment - 8 Cases**:
+
+**Leaving UK**:
+- Case 1: Starting full-time work abroad
+- Case 2: Partner starting full-time work abroad
+- Case 3: Ceasing to have a home in UK
+
+**Coming to UK**:
+- Case 4: Starting to have a UK home only
+- Case 5: Starting full-time work in UK
+- Case 6: Ceasing full-time work abroad
+- Case 7: Partner ceasing full-time work abroad
+- Case 8: Starting to have a UK home
+
+---
+
+**Treaty Tie-Breaker (OECD Model Article 4(2))** - for individuals:
+
+1. **Permanent home** → Where available?
+2. **Centre of vital interests** (if homes in both) → Personal/economic ties closer where?
+3. **Habitual abode** (if unclear) → Where habitually live?
+4. **Nationality** → Which citizenship?
+
+---
+
+**Common Mark Allocation Patterns** (based on 2020-2025 exams):
+
+- Day counting + exceptional circumstances: 2-3 marks
+- Arriver/Leaver determination: 1-2 marks
+- Automatic Overseas Test (all 3): 3-4 marks
+- Automatic UK Test (all 3): 3-4 marks
+- Five ties analysis: 6-8 marks (complex ties like family worth 3-4 marks each)
+- Matrix application: 2-3 marks
+- Conclusion: 2-3 marks
+- Split year / treaty (if applicable): 3-5 marks
+
+**Total for typical SRT question**: 20-25 marks
+
+---
+
+**Time Management Targets**:
+- Day count + status determination: 3-5 minutes
+- Automatic tests (both): 5-6 minutes
+- Five ties analysis: 10-12 minutes
+- Matrix application + conclusion: 3-4 minutes
+- Split year / treaty (if needed): 5-8 minutes
+- **TOTAL**: 26-35 minutes depending on complexity
+
+---
+
+**Pro Tips** for Exam Day:
+
+1. ✓ Create a quick ties checklist on scrap paper at start (F/A/W/90/C)
+2. ✓ Draw the day/tie matrix relevant to status (arriver/leaver) before analyzing
+3. ✓ For complex spouse residence - do mini-SRT analysis in margin first
+4. ✓ Always explicitly state which test led to your conclusion
+5. ✓ If time running out - write conclusion even if analysis incomplete (3 marks)
+
+---
+
+*Continue to Section 2.1.3: Permanent Establishment →*
+
+
+
+## 2.1.3 Permanent Establishment (PE)
+
+### Pattern Recognition: Spotting This Question Type
+
+**Immediate Triggers** (if you see these words, deploy this template):
+- "Permanent Establishment," "PE," "fixed place of business"
+- "Branch," "office," "factory," "warehouse," "place of management"
+- "Agent," "authority to conclude contracts," "dependent agent"
+- "Server," "website," "digital presence"
+- "Preparatory or auxiliary," "delivery," "storage"
+- "Attribution of profits to PE"
+- Non-resident company with UK activities/presence
+
+**Exam Frequency**: **63% (5/8 exams from 2020-2025)**
+
+**Recent Exam Appearances**:
+- **June 2025 Q2**: Solaris Future SA - UK office with employees doing market research
+- December 2024: PE question
+- June 2024: PE question
+- **Pattern**: Frequently combined with corporate residence or transfer pricing issues
+
+**Mark Range**: **10-18 marks** (often part of larger corporate tax question)
+
+---
+
+### Strategic Context
+
+**Why This Matters:**
+
+✓ PE determines whether non-UK company has **UK taxable presence**
+✓ Without PE: foreign company pays NO UK corporation tax on foreign income
+✓ With PE: profits **attributable to PE** are subject to UK CT (25%)
+✓ PE + corporate residence risk = dual taxation danger
+✓ Digital economy creates new PE risks (servers, websites, commissionaire structures)
+
+**Common Exam Scenarios**:
+1. Foreign company with UK office/employees
+2. Agency PE (UK agent concluding contracts)
+3. E-commerce (server location vs business location)
+4. Construction/installation PE (time thresholds)
+5. Preparatory/auxiliary activity exemption
+
+**Time Allocation Strategy:**
+- **Standalone PE analysis**: 15-18 minutes
+- **Integrated with corporate residence**: Add 12-15 minutes
+- **With profit attribution**: Add 8-10 minutes
+- **Total for typical question**: 20-30 minutes
+
+**Difficulty vs. Return Assessment:**
+- **Difficulty**: Medium (requires understanding of both domestic law and treaty)
+- **Return**: High (methodical application earns 12-16 marks easily)
+- **Efficiency Gain**: Template approach saves 6-8 minutes vs unstructured answer
+
+---
+
+### Execution Framework
+
+**Step-by-Step Process** (Total Time: 18-20 minutes)
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│ STEP 1: Identify the Foreign Company (1 min)                 │
+│ • What company are we analyzing?                              │
+│ • Where is it incorporated/resident?                          │
+│ • What activities does it carry out in UK?                    │
+│ • Is there a UK-[Country] DTA?                                │
+└──────────────────────────────────────────────────────────────┘
+         ↓
+┌──────────────────────────────────────────────────────────────┐
+│ STEP 2: Apply UK Domestic Law PE Test (8 min)                │
+│ Fixed Place PE (s1141 CTA 2010):                             │
+│ • Fixed place of business in UK?                             │
+│ • Business carried on through that place?                     │
+│ Examples: office, branch, factory, workshop, mine            │
+│                                                                │
+│ Agency PE (s1142 CTA 2010):                                  │
+│ • Agent in UK?                                                │
+│ • Authority to conclude contracts on behalf of company?      │
+│ • Habitually exercises that authority?                        │
+│ • Independent agent exemption applies?                        │
+└──────────────────────────────────────────────────────────────┘
+         ↓
+┌──────────────────────────────────────────────────────────────┐
+│ STEP 3: Preparatory or Auxiliary Exemption (4 min)           │
+│ Check s1143 CTA 2010 - PE does NOT exist if activities are:  │
+│ • Storage, display, delivery of goods                        │
+│ • Purchasing goods/merchandise, collecting information       │
+│ • Preparatory or auxiliary character                          │
+│ CRITICAL: Exemption is NARROW - core business activities     │
+│ NOT exempt                                                     │
+└──────────────────────────────────────────────────────────────┘
+         ↓
+┌──────────────────────────────────────────────────────────────┐
+│ STEP 4: Treaty Modification (if DTA exists) (3 min)          │
+│ • OECD Model Article 5 - may be narrower than UK law         │
+│ • Treaty overrides domestic law (CTA 2009 s18)               │
+│ • Check if treaty PE threshold differs                        │
+│ • Construction PE: often 12-month threshold in treaty         │
+└──────────────────────────────────────────────────────────────┘
+         ↓
+┌──────────────────────────────────────────────────────────────┐
+│ STEP 5: Tax Consequences if PE Exists (2-3 min)              │
+│ • UK CT registration required                                 │
+│ • Profits "attributable" to PE taxed (Article 7 / OECD AOA)  │
+│ • Transfer pricing applies to PE transactions                │
+│ • Annual CT600 filing obligation                             │
+│ • Recommendation: avoid PE or ensure adequate substance      │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### Template & Tools
+
+**TEMPLATE C: Permanent Establishment Analysis**
+
+```
+PERMANENT ESTABLISHMENT ANALYSIS: [Company Name]
+
+Country of Residence: [Country]
+Activity in UK: [Brief description]
+
+═══════════════════════════════════════════════════════════════
+
+PART 1: UK DOMESTIC LAW - FIXED PLACE PE (s1141 CTA 2010)
+
+Under s1141 CTA 2010, a non-UK resident company has a UK Permanent
+Establishment if it has a fixed place of business in the UK through 
+which the business of the company is wholly or partly carried on.
+
+Test 1: Fixed Place of Business in UK?
+
+A "fixed place" includes:
+✓ Place of management, branch, office
+✓ Factory, workshop, mine, oil/gas well
+✓ Building site, construction/installation project
+
+Facts:
+[Company name] has [describe physical presence - office/employees/etc.]
+located at [location/address if given] in the UK.
+
+→ Fixed place requirement: [MET / NOT MET]
+
+Reasoning: [Explain based on facts]
+
+---
+
+Test 2: Business Carried On Through That Place?
+
+The business must be carried on "through" the fixed place, meaning:
+• The fixed place is more than incidental to the business
+• Activities of the business are performed at/from that location
+• NOT just passive holding of assets
+
+Facts:
+[Describe activities performed at UK location]:
+• [Activity 1 - e.g., "Market research by 3 full-time employees"]
+• [Activity 2 - e.g., "Customer liaison and relationship management"]
+• [Activity 3]
+
+Analysis:
+[Are these activities part of carrying on the business? Or just 
+preparatory/auxiliary?]
+
+→ Business carried on requirement: [MET / NOT MET]
+
+Reasoning: [Explain based on facts]
+
+---
+
+CONCLUSION ON FIXED PLACE PE (Domestic Law):
+
+[Company name] [DOES / DOES NOT] have a fixed place PE in the UK 
+under s1141 CTA 2010.
+
+[If YES]: The UK [office/branch] constitutes a fixed place through 
+which [Company]'s business is carried on.
+
+[If NO]: [Explain why not - e.g., no fixed place, or business not 
+carried on through it]
+
+═══════════════════════════════════════════════════════════════
+
+PART 2: UK DOMESTIC LAW - AGENCY PE (s1142 CTA 2010)
+
+[Only complete if relevant - i.e., if there's an agent/intermediary in UK]
+
+Under s1142 CTA 2010, a non-UK resident company has a UK PE if an 
+agent acting on behalf of the company in the UK has, and habitually 
+exercises, authority to do business on behalf of the company.
+
+Test 1: Agent in UK?
+
+Facts:
+[Is there an individual/company acting as agent in UK?]
+[Agent name/description]: _______________________________
+
+→ Agent exists: [YES / NO]
+
+---
+
+Test 2: Authority to Conclude Contracts?
+
+The agent must have authority to conclude contracts that are:
+• In the name of the company, OR
+• For the transfer of property owned by the company, OR
+• For the provision of services by the company
+
+Facts:
+[Does the agent have authority to conclude contracts?]
+[Describe scope of authority]: _______________________________
+
+→ Authority to conclude contracts: [YES / NO]
+
+---
+
+Test 3: Habitually Exercises Authority?
+
+"Habitually" means regularly, as part of normal business operations.
+
+Facts:
+[How often does agent exercise authority? Regular pattern?]
+
+→ Habitually exercises: [YES / NO]
+
+---
+
+Test 4: Independent Agent Exception (s1142(2))
+
+An independent agent does NOT create a PE if:
+• Agent acts in ordinary course of business as independent agent
+• Examples: broker, general commission agent
+• NOT independent if: works exclusively/primarily for company
+
+Facts:
+[Is agent independent? Or dependent on company?]
+
+→ Independent agent exception: [APPLIES / DOES NOT APPLY]
+
+---
+
+CONCLUSION ON AGENCY PE (Domestic Law):
+
+[Company name] [DOES / DOES NOT] have an agency PE in the UK 
+under s1142 CTA 2010.
+
+Reasoning: [Explain]
+
+═══════════════════════════════════════════════════════════════
+
+PART 3: PREPARATORY OR AUXILIARY ACTIVITIES EXEMPTION (s1143)
+
+**CRITICAL EXEMPTION** - Even if fixed place PE exists, s1143 CTA 2010 
+provides that a company does NOT have PE if activities are of a 
+"preparatory or auxiliary character."
+
+Specific exempt activities listed in s1143:
+✓ Use of facilities solely for storage, display, or delivery of goods
+✓ Maintenance of stock solely for storage, display, or delivery
+✓ Maintenance of stock solely for processing by another enterprise
+✓ Maintenance of fixed place solely for purchasing goods/collecting 
+  information for the company
+✓ Maintenance of fixed place solely for carrying on any other activity 
+  of preparatory or auxiliary character
+
+Analysis of UK Activities:
+
+Activities performed at UK location:
+[List each activity identified in Part 1]
+
+Activity 1: [Description]
+→ Assessment: [Core business activity / Preparatory or auxiliary?]
+→ Reasoning: [Explain - does this generate revenue? Essential to 
+   business model? Or just supporting/preparatory?]
+
+Activity 2: [Description]
+→ Assessment: [Core business activity / Preparatory or auxiliary?]
+
+[Continue for each activity]
+
+---
+
+**KEY PRINCIPLE** (Case law + HMRC guidance):
+
+"Preparatory or auxiliary" means:
+❌ NOT the essential and significant part of the business
+❌ NOT revenue-generating activities
+❌ NOT activities without which the business could not function
+
+✓ Supporting, preliminary, or facilitating activities
+✓ Activities that, if withdrawn, would not stop business operating
+
+---
+
+CONCLUSION ON PREPARATORY/AUXILIARY EXEMPTION:
+
+The activities performed at the UK [office/location] [ARE / ARE NOT] 
+of a preparatory or auxiliary character.
+
+[If auxiliary]: Under s1143 CTA 2010, these activities fall within the 
+preparatory or auxiliary exemption. Therefore, [Company] does NOT have 
+a UK PE despite having a fixed place of business.
+
+[If NOT auxiliary]: These are core business activities that generate 
+value/revenue for [Company]. The s1143 exemption does NOT apply.
+
+═══════════════════════════════════════════════════════════════
+
+PART 4: TREATY CONSIDERATIONS (If Applicable)
+
+[Only complete if there is a DTA between UK and company's country]
+
+DTA: UK-[Country] Double Taxation Agreement
+
+Under CTA 2009 s18, where a DTA exists, the treaty definition of PE 
+overrides UK domestic law.
+
+OECD Model Article 5 PE Definition (most UK DTAs follow this):
+
+Article 5(1): Fixed place of business through which business is carried on
+Article 5(2): Specifically includes - place of management, branch, office,
+              factory, workshop, mine, construction site (>12 months)
+Article 5(3): Building site/construction PE only if >12 months
+Article 5(4): Exemptions for preparatory/auxiliary activities
+Article 5(5): Dependent agent PE
+Article 5(6): Independent agent exception
+
+Comparison: UK Law vs Treaty:
+
+| Element | UK Domestic Law | Treaty (Art 5) | Which Applies? |
+|---------|-----------------|----------------|----------------|
+| Fixed place test | s1141 CTA 2010 | Art 5(1) | [Same / Treaty narrower] |
+| Exemptions | s1143 | Art 5(4) | [Same / Treaty narrower] |
+| Agent PE | s1142 | Art 5(5)-(6) | [Same / Treaty narrower] |
+
+Conclusion on Treaty PE:
+
+Under the UK-[Country] DTA Article 5, [Company] [DOES / DOES NOT] have
+a treaty PE in the UK.
+
+[If different from domestic law]: Although [Company] [has/does not have]
+a PE under UK domestic law, the treaty definition [narrows/broadens] the
+PE threshold, resulting in [different conclusion].
+
+═══════════════════════════════════════════════════════════════
+
+FINAL CONCLUSION
+
+Based on the above analysis:
+
+[Company Name] [DOES / DOES NOT] have a Permanent Establishment in the 
+United Kingdom for tax purposes.
+
+Basis of determination:
+[UK domestic law (s1141/s1142/s1143) / Treaty Article 5]
+
+Key reasoning:
+[2-3 sentences summarizing why PE does/doesn't exist]
+
+═══════════════════════════════════════════════════════════════
+
+TAX CONSEQUENCES
+
+[If PE EXISTS]:
+
+1. **UK Corporation Tax Liability**
+   • [Company] must register for UK Corporation Tax
+   • UK CT applies to profits "attributable" to the PE (not all profits)
+   • Attribution follows OECD Authorized OECD Approach (Article 7)
+   • Current UK CT rate: 25% (or 19% if profits <£50,000)
+
+2. **Transfer Pricing**
+   • Transactions between head office and PE must be at arm's length
+   • OECD Transfer Pricing Guidelines apply
+   • Documentation requirements
+
+3. **Filing Obligations**
+   • Annual CT600 corporation tax return
+   • PE must prepare UK GAAP/IFRS accounts showing PE profits
+   • Deadlines: 12 months after year-end (file); 9 months (payment)
+
+4. **Profit Attribution Method**
+   • OECD Authorized OECD Approach (per Article 7 OECD Model)
+   • PE treated as "functionally separate enterprise"
+   • Allocate assets, functions, risks to PE
+   • Transfer pricing for internal dealings
+
+[If PE DOES NOT EXIST]:
+
+1. **No UK Corporation Tax Liability**
+   • [Company] has no UK taxable presence
+   • UK sales to customers do not create UK tax liability
+   • [Company] remains solely liable to [home country] tax
+
+2. **No UK Filing Obligations**
+   • No CT600 required
+   • No UK tax registration needed
+
+3. **Caveat - Other UK Taxes May Apply**
+   • Withholding taxes on UK-source income (if any)
+   • VAT on UK sales (if exceed threshold)
+   • Employment taxes (PAYE/NIC) for UK employees
+
+═══════════════════════════════════════════════════════════════
+
+RECOMMENDATIONS
+
+[If PE exists or risk of PE]:
+
+⚠️ **Risk Mitigation Strategies**:
+
+1. **Restructure UK Activities**
+   • Limit UK office to genuine preparatory/auxiliary activities only
+   • Examples: information gathering, market research (non-binding)
+   • Ensure no contract conclusion authority in UK
+
+2. **Substance Planning**
+   • If PE is unavoidable, ensure UK PE has adequate substance
+   • Properly document profit attribution methodology
+   • Prepare transfer pricing documentation for head office transactions
+
+3. **Consider UK Subsidiary**
+   • Alternative: operate via UK-incorporated subsidiary instead of PE
+   • Advantage: Greater clarity, separate legal entity
+   • Disadvantage: UK CT on all subsidiary profits, not just PE portion
+
+4. **Monitor E-Commerce PE Risk**
+   • Servers located in UK may create PE (case-by-case)
+   • Website alone generally NOT a PE (no personnel)
+   • HMRC guidance: server + website not PE if passive
+
+[If no PE - maintain status]:
+
+✓ **Maintain Non-PE Status**:
+• Continue ensuring UK activities remain preparatory/auxiliary
+• Do not allow UK personnel to conclude contracts
+• Regular review of UK activities to ensure no drift into core business
+• Document business model clearly
+
+```
+
+---
+
+*Continue to worked example from June 2025 Q2...*
+
+
+### Worked Example: June 2025 Question 2, Option 1 (Extract)
+
+**QUESTION FACTS** (Simplified from June 2025):
+
+*Solaris Future SA, incorporated and tax resident in Spain, manufactures solar panels. Under Option 1, the company is considering:*
+- *Renting an office in London*
+- *Employing 3 full-time UK-based employees*
+- *UK employees will conduct "market research and customer liaison"*
+- *No mention of contract conclusion authority*
+- *Sales delivered directly from Spain to UK customers*
+
+**EXAMINER REQUIREMENT**: "UK Corporation Tax implications of Option 1."
+
+**TIME ALLOCATION**: 15 minutes for PE analysis portion
+
+---
+
+**ANSWER** (using Template C - Extract):
+
+**PERMANENT ESTABLISHMENT ANALYSIS: Solaris Future SA (Option 1)**
+
+Country of Residence: Spain  
+Activity in UK: London office with 3 full-time employees for market research and customer liaison
+
+═══════════════════════════════════════════════════════════════
+
+**PART 1: UK DOMESTIC LAW - FIXED PLACE PE (s1141 CTA 2010)**
+
+Under s1141 CTA 2010, Solaris Future SA will have a UK Permanent Establishment if it has a fixed place of business in the UK through which its business is wholly or partly carried on.
+
+**Test 1: Fixed Place of Business in UK?**
+
+Facts:
+Solaris Future SA will **rent an office in London** with 3 full-time UK-based employees conducting market research and customer liaison activities.
+
+→ **Fixed place requirement: MET**
+
+Reasoning: An office constitutes a "fixed place of business" under s1141 CTA 2010. The office is physically located in London and available to Solaris Future SA for its business activities.
+
+[Annotation: ✓ Straightforward application - office = fixed place. Worth 1-2 marks.]
+
+---
+
+**Test 2: Business Carried On Through That Place?**
+
+Facts:
+Activities performed at UK office:
+• Market research (by 3 full-time employees)
+• Customer liaison (ongoing relationship management)
+
+Analysis:
+These employees are actively working for Solaris Future SA, conducting market research and liaising with UK customers. This constitutes "carrying on business" through the office, not merely passive use of the premises.
+
+→ **Business carried on requirement: MET**
+
+[Annotation: ✓ Key point - active business activities being performed. Worth 2 marks.]
+
+---
+
+**CONCLUSION ON FIXED PLACE PE (Domestic Law):**
+
+Solaris Future SA **DOES have a fixed place PE** in the UK under s1141 CTA 2010.
+
+The London office with 3 employees conducting market research and customer liaison constitutes a fixed place of business through which Solaris Future SA carries on its business.
+
+[Annotation: ✓ Clear conclusion. Worth 1 mark.]
+
+═══════════════════════════════════════════════════════════════
+
+**PART 3: PREPARATORY OR AUXILIARY ACTIVITIES EXEMPTION (s1143)**
+
+Even though a fixed place PE exists, s1143 CTA 2010 provides that NO PE exists if activities are of "preparatory or auxiliary character."
+
+**Analysis of UK Activities:**
+
+**Activity: Market Research and Customer Liaison**
+
+The UK employees will conduct market research and customer liaison. The question states these activities include "collecting information" for Solaris Future SA.
+
+s1143 CTA 2010 specifically lists "collecting information for the company" as an example of potentially preparatory or auxiliary activities.
+
+**However, the critical question is**: Are these activities **solely** preparatory/auxiliary, or do they form an essential part of Sol aris Future SA's business?
+
+**Assessment: Likely NOT preparatory or auxiliary**
+
+Reasoning:
+• Market research and customer liaison for a **3-person full-time UK office** suggests substantive business activities
+• These employees are establishing relationships with UK customers and gathering intelligence to support UK sales
+• This goes beyond passive "information collection" - it facilitates and enables UK sales
+• **Not merely preparatory** - these are core sales support functions
+
+The s1143 exemption applies where activities are "of a preparatory or auxiliary character." Case law and HMRC guidance emphasize this exemption is **narrow**. Activities that directly support revenue generation (like customer liaison for sales) typically do NOT qualify.
+
+[Annotation: ✓✓ This is the critical analysis examiners look for - don't just list exemptions, apply them. Worth 4-5 marks.]
+
+**CONCLUSION ON PREPARATORY/AUXILIARY EXEMPTION:**
+
+The market research and customer liaison activities performed by the UK employees **are NOT of a preparatory or auxiliary character**.
+
+These are substantive business activities that directly support Solaris Future SA's UK sales. The s1143 exemption **does NOT apply**.
+
+[Annotation: ✓ This is the suggested answer's conclusion - UK activities too substantive. Worth 2-3 marks.]
+
+═══════════════════════════════════════════════════════════════
+
+**FINAL CONCLUSION**
+
+**Solaris Future SA WILL HAVE a Permanent Establishment in the United Kingdom under Option 1.**
+
+Basis: UK domestic law (s1141 CTA 2010)
+
+Key reasoning:
+• Fixed place of business (London office) exists ✓
+• Business carried on through office (3 full-time employees) ✓
+• Activities NOT preparatory or auxiliary (substantive sales support) ✓
+
+═══════════════════════════════════════════════════════════════
+
+**TAX CONSEQUENCES**
+
+**1. UK Corporation Tax Registration Required**
+
+Solaris Future SA will need to:
+• Register for UK Corporation Tax
+• Submit annual CT600 returns
+• Pay UK CT on profits **attributable to the PE**
+
+**2. Profit Attribution**
+
+Only profits **attributable** to the UK PE are subject to UK tax, not Solaris Future SA's worldwide profits.
+
+Attribution must follow the **OECD Authorized OECD Approach** (per Article 7 of the OECD Model DTA and UK domestic law).
+
+This approach treats the PE as a "functionally separate enterprise" and allocates profits based on:
+• Functions performed by PE
+• Assets used by PE
+• Risks assumed by PE
+
+Broadly, this follows **transfer pricing principles**.
+
+[Annotation: ✓ Showing understanding of attribution methodology. Worth 3-4 marks.]
+
+**3. Current UK Corporate Tax Rate**
+
+Profits attributable to the PE will be subject to UK CT at:
+• **25%** (main rate) if PE profits exceed £250,000
+• **19%** (small profits rate) if PE profits ≤£50,000
+• Marginal relief between £50,000-£250,000
+
+---
+
+**MARK ALLOCATION** (Estimated):
+
+| Element | Marks |
+|---------|-------|
+| s1141 citation and fixed place test | 1-2 |
+| Application: office = fixed place | 1-2 |
+| Business carried on test application | 2 |
+| s1143 preparatory/auxiliary analysis | 4-5 |
+| Conclusion on PE status | 2 |
+| Tax consequences (registration, attribution, rate) | 3-4 |
+| **TOTAL (PE portion)** | **13-17/25** |
+
+*Note: Question 2 also covered other issues (corporate residence risk, unallowable purpose, dividends) worth additional marks.*
+
+**Time Taken**: Approximately 12-15 minutes for PE analysis
+
+---
+
+### Error Prevention: Top 10 Mistakes (PE)
+
+**MISTAKE #1**: "Confusing 'fixed place' with 'permanent establishment'"
+- ❌ **Wrong**: "Has office = has PE" (forgetting preparatory/auxiliary exception)
+- ✅ **Correct**: "Has fixed place → check if business carried on → check if preparatory/auxiliary"
+- **Critical**: s1143 can negate PE even if s1141 criteria met
+
+**MISTAKE #2**: "Applying preparatory/auxiliary exemption too broadly"
+- ❌ **Wrong**: "Market research is just information gathering → preparatory"
+- ✅ **Correct**: "Market research by 3 full-time staff supporting sales → NOT preparatory"
+- **Key**: Exemption is NARROW - only truly ancillary activities qualify
+
+**MISTAKE #3**: "Forgetting treaty override of domestic law"
+- ❌ **Wrong**: Only analyzing s1141 when UK-Spain DTA exists
+- ✅ **Correct**: "Under s1141 PE exists, BUT Article 5 of UK-Spain DTA may provide different threshold"
+- **Remember**: CTA 2009 s18 - treaties override domestic law
+
+**MISTAKE #4**: "Confusing 'independent agent' with 'employee'"
+- ❌ **Wrong**: "Company's own employees could be independent agents"
+- ✅ **Correct**: "Employees create PE risk; independent agents (brokers) don't"
+- **Rule**: Own employees = agency PE risk; independent agents = exempt
+
+**MISTAKE #5**: "Assuming all 'information collection' is preparatory"
+- ❌ **Wrong**: "s1143 lists 'collecting information' → automatic exemption"
+- ✅ **Correct**: "s1143 requires 'solely' for collection - if combined with sales support, NO exemption"
+- **Watch**: "Solely" is key word in s1143
+
+**MISTAKE #6**: "Not distinguishing server location from business location"
+- ❌ **Wrong**: "Server in UK = PE"
+- ✅ **Correct**: "Server alone typically NOT PE (HMRC guidance) - need personnel using it"
+- **Digital economy**: Website/server ≠ automatic PE
+
+**MISTAKE #7**: "Forgetting profit attribution is NOT all profits"
+- ❌ **Wrong**: "Has UK PE → all company profits subject to UK CT"
+- ✅ **Correct**: "Only profits ATTRIBUTABLE to PE subject to UK CT (Article 7 / OECD AOA)"
+- **Impact**: Huge difference in tax liability
+
+**MISTAKE #8**: "Ignoring corporate residence risk when discussing PE"
+- ❌ **Wrong**: Analyzing PE only, missing that UK board meetings create CMC risk
+- ✅ **Correct**: "Option 1 creates PE. ALSO warn: if board meets in UK → CMC risk → full UK residence"
+- **Professional marks**: Spotting related risks (June 2025 Q2 tested this!)
+
+**MISTAKE #9**: "Not citing specific legislation"
+- ❌ **Wrong**: "Company will have a PE in UK"
+- ✅ **Correct**: "Under s1141 CTA 2010, company will have a PE..."
+- **Marks**: Specific citation worth 1-2 marks every time
+
+**MISTAKE #10**: "Recommending restructuring without being asked"
+- ❌ **Wrong**: Spending 5 minutes on restructuring advice when question just asks "implications"
+- ✅ **Correct**: State implications concisely; brief recommendations only if time permits
+- **Time management**: Answer the question asked
+
+---
+
+### Quick Reference: PE Key Points
+
+**UK Domestic Law Statutes**:
+- **s1141 CTA 2010**: Fixed place of business PE
+- **s1142 CTA 2010**: Agency PE (dependent agent)
+- **s1143 CTA 2010**: Preparatory or auxiliary exemption
+- **s1144 CTA 2010**: Independent agent (no PE)
+- **CTA 2009 s18**: Treaties override domestic law
+
+**Fixed Place PE Elements** (s1141):
+1. Fixed place of business (office, branch, factory, mine, building site)
+2. In the UK
+3. Through which business is wholly or partly carried on
+
+**Agency PE Elements** (s1142):
+1. Agent acting in UK
+2. Has authority to conclude contracts
+3. Habitually exercises that authority
+4. NOT independent agent (brokers, commission agents)
+
+**Preparatory or Auxiliary Exemption** (s1143):
+✓ Storage, display, delivery of goods
+✓ Purchasing goods or collecting information
+✓ Other activities of preparatory or auxiliary character
+❌ **NOT exempt**: Core revenue-generating activities
+
+**OECD Model Article 5** (Treaty PE):
+- Art 5(1): Fixed place definition
+- Art 5(2): Specific examples (management, branch, office, factory, workshop, mine)
+- Art 5(3): Building site/construction >12 months
+- Art 5(4): Preparatory/auxiliary exemptions
+- Art 5(5): Dependent agent PE
+- Art 5(6): Independent agent exception
+
+**Common PE Scenarios**:
+
+| Situation | PE Risk? | Why? |
+|-----------|----------|------|
+| UK office + employees doing sales | **HIGH** | Fixed place + core business |
+| UK warehouse (storage only) | Low | Preparatory/auxiliary (s1143) |
+| UK agent concluding contracts | **HIGH** | Agency PE (s1142) |
+| Server in UK (no personnel) | Low | HMRC: server alone not PE |
+| Construction site <12 months | Medium | Domestic law PE, treaty may exempt |
+| Independent broker in UK | Low | Independent agent exception |
+
+**Profit Attribution** (if PE exists):
+- OECD Authorized OECD Approach (Article 7)
+- PE treated as functionally separate enterprise
+- Allocate assets, functions, risks to PE
+- Apply transfer pricing to internal dealings
+- Only profits attributable to PE taxed in UK
+
+**Time Management Targets**:
+- Fixed place test: 3-4 minutes
+- Preparatory/auxiliary analysis: 5-6 minutes
+- Agency PE (if relevant): 3-4 minutes
+- Treaty considerations: 3-4 minutes
+- Consequences: 2-3 minutes
+- **TOTAL**: 16-21 minutes
+
+**Mark Allocation Patterns**:
+- Legislation citations (s1141/s1142/s1143): 2-3 marks
+- Fixed place test application: 2-3 marks
+- Preparatory/auxiliary analysis: 4-6 marks
+- Agency PE (if applicable): 3-4 marks
+- Treaty override: 2-3 marks
+- Profit attribution: 2-3 marks
+- Consequences/recommendations: 2-3 marks
+- **TOTAL**: 17-25 marks (depending on question complexity)
+
+---
+
+*This completes Section 2.1.3: Permanent Establishment*
+
+**Progress Update**:
+- ✅ 2.1.1 Corporate Residence & Treaty Tie-Breaker
+- ✅ 2.1.2 Individual Residence - Statutory Residence Test  
+- ✅ 2.1.3 Permanent Establishment
+
+**Remaining for Part A**:
+- 2.1.4 Remittance Basis (75% frequency - CRITICAL)
+- 2.1.5 Double Tax Relief & Temporary Non-Residence
+
+---
+
+*Continue to Section 2.1.4: Remittance Basis →*
+
