@@ -1926,3 +1926,761 @@ Based on having 2 ties and 98 UK days, Daniel **exceeds the threshold** for UK r
 
 *Continue to Section 2.1.3: Permanent Establishment →*
 
+
+
+## 2.1.3 Permanent Establishment (PE)
+
+### Pattern Recognition: Spotting This Question Type
+
+**Immediate Triggers** (if you see these words, deploy this template):
+- "Permanent Establishment," "PE," "fixed place of business"
+- "Branch," "office," "factory," "warehouse," "place of management"
+- "Agent," "authority to conclude contracts," "dependent agent"
+- "Server," "website," "digital presence"
+- "Preparatory or auxiliary," "delivery," "storage"
+- "Attribution of profits to PE"
+- Non-resident company with UK activities/presence
+
+**Exam Frequency**: **63% (5/8 exams from 2020-2025)**
+
+**Recent Exam Appearances**:
+- **June 2025 Q2**: Solaris Future SA - UK office with employees doing market research
+- December 2024: PE question
+- June 2024: PE question
+- **Pattern**: Frequently combined with corporate residence or transfer pricing issues
+
+**Mark Range**: **10-18 marks** (often part of larger corporate tax question)
+
+---
+
+### Strategic Context
+
+**Why This Matters:**
+
+✓ PE determines whether non-UK company has **UK taxable presence**
+✓ Without PE: foreign company pays NO UK corporation tax on foreign income
+✓ With PE: profits **attributable to PE** are subject to UK CT (25%)
+✓ PE + corporate residence risk = dual taxation danger
+✓ Digital economy creates new PE risks (servers, websites, commissionaire structures)
+
+**Common Exam Scenarios**:
+1. Foreign company with UK office/employees
+2. Agency PE (UK agent concluding contracts)
+3. E-commerce (server location vs business location)
+4. Construction/installation PE (time thresholds)
+5. Preparatory/auxiliary activity exemption
+
+**Time Allocation Strategy:**
+- **Standalone PE analysis**: 15-18 minutes
+- **Integrated with corporate residence**: Add 12-15 minutes
+- **With profit attribution**: Add 8-10 minutes
+- **Total for typical question**: 20-30 minutes
+
+**Difficulty vs. Return Assessment:**
+- **Difficulty**: Medium (requires understanding of both domestic law and treaty)
+- **Return**: High (methodical application earns 12-16 marks easily)
+- **Efficiency Gain**: Template approach saves 6-8 minutes vs unstructured answer
+
+---
+
+### Execution Framework
+
+**Step-by-Step Process** (Total Time: 18-20 minutes)
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│ STEP 1: Identify the Foreign Company (1 min)                 │
+│ • What company are we analyzing?                              │
+│ • Where is it incorporated/resident?                          │
+│ • What activities does it carry out in UK?                    │
+│ • Is there a UK-[Country] DTA?                                │
+└──────────────────────────────────────────────────────────────┘
+         ↓
+┌──────────────────────────────────────────────────────────────┐
+│ STEP 2: Apply UK Domestic Law PE Test (8 min)                │
+│ Fixed Place PE (s1141 CTA 2010):                             │
+│ • Fixed place of business in UK?                             │
+│ • Business carried on through that place?                     │
+│ Examples: office, branch, factory, workshop, mine            │
+│                                                                │
+│ Agency PE (s1142 CTA 2010):                                  │
+│ • Agent in UK?                                                │
+│ • Authority to conclude contracts on behalf of company?      │
+│ • Habitually exercises that authority?                        │
+│ • Independent agent exemption applies?                        │
+└──────────────────────────────────────────────────────────────┘
+         ↓
+┌──────────────────────────────────────────────────────────────┐
+│ STEP 3: Preparatory or Auxiliary Exemption (4 min)           │
+│ Check s1143 CTA 2010 - PE does NOT exist if activities are:  │
+│ • Storage, display, delivery of goods                        │
+│ • Purchasing goods/merchandise, collecting information       │
+│ • Preparatory or auxiliary character                          │
+│ CRITICAL: Exemption is NARROW - core business activities     │
+│ NOT exempt                                                     │
+└──────────────────────────────────────────────────────────────┘
+         ↓
+┌──────────────────────────────────────────────────────────────┐
+│ STEP 4: Treaty Modification (if DTA exists) (3 min)          │
+│ • OECD Model Article 5 - may be narrower than UK law         │
+│ • Treaty overrides domestic law (CTA 2009 s18)               │
+│ • Check if treaty PE threshold differs                        │
+│ • Construction PE: often 12-month threshold in treaty         │
+└──────────────────────────────────────────────────────────────┘
+         ↓
+┌──────────────────────────────────────────────────────────────┐
+│ STEP 5: Tax Consequences if PE Exists (2-3 min)              │
+│ • UK CT registration required                                 │
+│ • Profits "attributable" to PE taxed (Article 7 / OECD AOA)  │
+│ • Transfer pricing applies to PE transactions                │
+│ • Annual CT600 filing obligation                             │
+│ • Recommendation: avoid PE or ensure adequate substance      │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### Template & Tools
+
+**TEMPLATE C: Permanent Establishment Analysis**
+
+```
+PERMANENT ESTABLISHMENT ANALYSIS: [Company Name]
+
+Country of Residence: [Country]
+Activity in UK: [Brief description]
+
+═══════════════════════════════════════════════════════════════
+
+PART 1: UK DOMESTIC LAW - FIXED PLACE PE (s1141 CTA 2010)
+
+Under s1141 CTA 2010, a non-UK resident company has a UK Permanent
+Establishment if it has a fixed place of business in the UK through 
+which the business of the company is wholly or partly carried on.
+
+Test 1: Fixed Place of Business in UK?
+
+A "fixed place" includes:
+✓ Place of management, branch, office
+✓ Factory, workshop, mine, oil/gas well
+✓ Building site, construction/installation project
+
+Facts:
+[Company name] has [describe physical presence - office/employees/etc.]
+located at [location/address if given] in the UK.
+
+→ Fixed place requirement: [MET / NOT MET]
+
+Reasoning: [Explain based on facts]
+
+---
+
+Test 2: Business Carried On Through That Place?
+
+The business must be carried on "through" the fixed place, meaning:
+• The fixed place is more than incidental to the business
+• Activities of the business are performed at/from that location
+• NOT just passive holding of assets
+
+Facts:
+[Describe activities performed at UK location]:
+• [Activity 1 - e.g., "Market research by 3 full-time employees"]
+• [Activity 2 - e.g., "Customer liaison and relationship management"]
+• [Activity 3]
+
+Analysis:
+[Are these activities part of carrying on the business? Or just 
+preparatory/auxiliary?]
+
+→ Business carried on requirement: [MET / NOT MET]
+
+Reasoning: [Explain based on facts]
+
+---
+
+CONCLUSION ON FIXED PLACE PE (Domestic Law):
+
+[Company name] [DOES / DOES NOT] have a fixed place PE in the UK 
+under s1141 CTA 2010.
+
+[If YES]: The UK [office/branch] constitutes a fixed place through 
+which [Company]'s business is carried on.
+
+[If NO]: [Explain why not - e.g., no fixed place, or business not 
+carried on through it]
+
+═══════════════════════════════════════════════════════════════
+
+PART 2: UK DOMESTIC LAW - AGENCY PE (s1142 CTA 2010)
+
+[Only complete if relevant - i.e., if there's an agent/intermediary in UK]
+
+Under s1142 CTA 2010, a non-UK resident company has a UK PE if an 
+agent acting on behalf of the company in the UK has, and habitually 
+exercises, authority to do business on behalf of the company.
+
+Test 1: Agent in UK?
+
+Facts:
+[Is there an individual/company acting as agent in UK?]
+[Agent name/description]: _______________________________
+
+→ Agent exists: [YES / NO]
+
+---
+
+Test 2: Authority to Conclude Contracts?
+
+The agent must have authority to conclude contracts that are:
+• In the name of the company, OR
+• For the transfer of property owned by the company, OR
+• For the provision of services by the company
+
+Facts:
+[Does the agent have authority to conclude contracts?]
+[Describe scope of authority]: _______________________________
+
+→ Authority to conclude contracts: [YES / NO]
+
+---
+
+Test 3: Habitually Exercises Authority?
+
+"Habitually" means regularly, as part of normal business operations.
+
+Facts:
+[How often does agent exercise authority? Regular pattern?]
+
+→ Habitually exercises: [YES / NO]
+
+---
+
+Test 4: Independent Agent Exception (s1142(2))
+
+An independent agent does NOT create a PE if:
+• Agent acts in ordinary course of business as independent agent
+• Examples: broker, general commission agent
+• NOT independent if: works exclusively/primarily for company
+
+Facts:
+[Is agent independent? Or dependent on company?]
+
+→ Independent agent exception: [APPLIES / DOES NOT APPLY]
+
+---
+
+CONCLUSION ON AGENCY PE (Domestic Law):
+
+[Company name] [DOES / DOES NOT] have an agency PE in the UK 
+under s1142 CTA 2010.
+
+Reasoning: [Explain]
+
+═══════════════════════════════════════════════════════════════
+
+PART 3: PREPARATORY OR AUXILIARY ACTIVITIES EXEMPTION (s1143)
+
+**CRITICAL EXEMPTION** - Even if fixed place PE exists, s1143 CTA 2010 
+provides that a company does NOT have PE if activities are of a 
+"preparatory or auxiliary character."
+
+Specific exempt activities listed in s1143:
+✓ Use of facilities solely for storage, display, or delivery of goods
+✓ Maintenance of stock solely for storage, display, or delivery
+✓ Maintenance of stock solely for processing by another enterprise
+✓ Maintenance of fixed place solely for purchasing goods/collecting 
+  information for the company
+✓ Maintenance of fixed place solely for carrying on any other activity 
+  of preparatory or auxiliary character
+
+Analysis of UK Activities:
+
+Activities performed at UK location:
+[List each activity identified in Part 1]
+
+Activity 1: [Description]
+→ Assessment: [Core business activity / Preparatory or auxiliary?]
+→ Reasoning: [Explain - does this generate revenue? Essential to 
+   business model? Or just supporting/preparatory?]
+
+Activity 2: [Description]
+→ Assessment: [Core business activity / Preparatory or auxiliary?]
+
+[Continue for each activity]
+
+---
+
+**KEY PRINCIPLE** (Case law + HMRC guidance):
+
+"Preparatory or auxiliary" means:
+❌ NOT the essential and significant part of the business
+❌ NOT revenue-generating activities
+❌ NOT activities without which the business could not function
+
+✓ Supporting, preliminary, or facilitating activities
+✓ Activities that, if withdrawn, would not stop business operating
+
+---
+
+CONCLUSION ON PREPARATORY/AUXILIARY EXEMPTION:
+
+The activities performed at the UK [office/location] [ARE / ARE NOT] 
+of a preparatory or auxiliary character.
+
+[If auxiliary]: Under s1143 CTA 2010, these activities fall within the 
+preparatory or auxiliary exemption. Therefore, [Company] does NOT have 
+a UK PE despite having a fixed place of business.
+
+[If NOT auxiliary]: These are core business activities that generate 
+value/revenue for [Company]. The s1143 exemption does NOT apply.
+
+═══════════════════════════════════════════════════════════════
+
+PART 4: TREATY CONSIDERATIONS (If Applicable)
+
+[Only complete if there is a DTA between UK and company's country]
+
+DTA: UK-[Country] Double Taxation Agreement
+
+Under CTA 2009 s18, where a DTA exists, the treaty definition of PE 
+overrides UK domestic law.
+
+OECD Model Article 5 PE Definition (most UK DTAs follow this):
+
+Article 5(1): Fixed place of business through which business is carried on
+Article 5(2): Specifically includes - place of management, branch, office,
+              factory, workshop, mine, construction site (>12 months)
+Article 5(3): Building site/construction PE only if >12 months
+Article 5(4): Exemptions for preparatory/auxiliary activities
+Article 5(5): Dependent agent PE
+Article 5(6): Independent agent exception
+
+Comparison: UK Law vs Treaty:
+
+| Element | UK Domestic Law | Treaty (Art 5) | Which Applies? |
+|---------|-----------------|----------------|----------------|
+| Fixed place test | s1141 CTA 2010 | Art 5(1) | [Same / Treaty narrower] |
+| Exemptions | s1143 | Art 5(4) | [Same / Treaty narrower] |
+| Agent PE | s1142 | Art 5(5)-(6) | [Same / Treaty narrower] |
+
+Conclusion on Treaty PE:
+
+Under the UK-[Country] DTA Article 5, [Company] [DOES / DOES NOT] have
+a treaty PE in the UK.
+
+[If different from domestic law]: Although [Company] [has/does not have]
+a PE under UK domestic law, the treaty definition [narrows/broadens] the
+PE threshold, resulting in [different conclusion].
+
+═══════════════════════════════════════════════════════════════
+
+FINAL CONCLUSION
+
+Based on the above analysis:
+
+[Company Name] [DOES / DOES NOT] have a Permanent Establishment in the 
+United Kingdom for tax purposes.
+
+Basis of determination:
+[UK domestic law (s1141/s1142/s1143) / Treaty Article 5]
+
+Key reasoning:
+[2-3 sentences summarizing why PE does/doesn't exist]
+
+═══════════════════════════════════════════════════════════════
+
+TAX CONSEQUENCES
+
+[If PE EXISTS]:
+
+1. **UK Corporation Tax Liability**
+   • [Company] must register for UK Corporation Tax
+   • UK CT applies to profits "attributable" to the PE (not all profits)
+   • Attribution follows OECD Authorized OECD Approach (Article 7)
+   • Current UK CT rate: 25% (or 19% if profits <£50,000)
+
+2. **Transfer Pricing**
+   • Transactions between head office and PE must be at arm's length
+   • OECD Transfer Pricing Guidelines apply
+   • Documentation requirements
+
+3. **Filing Obligations**
+   • Annual CT600 corporation tax return
+   • PE must prepare UK GAAP/IFRS accounts showing PE profits
+   • Deadlines: 12 months after year-end (file); 9 months (payment)
+
+4. **Profit Attribution Method**
+   • OECD Authorized OECD Approach (per Article 7 OECD Model)
+   • PE treated as "functionally separate enterprise"
+   • Allocate assets, functions, risks to PE
+   • Transfer pricing for internal dealings
+
+[If PE DOES NOT EXIST]:
+
+1. **No UK Corporation Tax Liability**
+   • [Company] has no UK taxable presence
+   • UK sales to customers do not create UK tax liability
+   • [Company] remains solely liable to [home country] tax
+
+2. **No UK Filing Obligations**
+   • No CT600 required
+   • No UK tax registration needed
+
+3. **Caveat - Other UK Taxes May Apply**
+   • Withholding taxes on UK-source income (if any)
+   • VAT on UK sales (if exceed threshold)
+   • Employment taxes (PAYE/NIC) for UK employees
+
+═══════════════════════════════════════════════════════════════
+
+RECOMMENDATIONS
+
+[If PE exists or risk of PE]:
+
+⚠️ **Risk Mitigation Strategies**:
+
+1. **Restructure UK Activities**
+   • Limit UK office to genuine preparatory/auxiliary activities only
+   • Examples: information gathering, market research (non-binding)
+   • Ensure no contract conclusion authority in UK
+
+2. **Substance Planning**
+   • If PE is unavoidable, ensure UK PE has adequate substance
+   • Properly document profit attribution methodology
+   • Prepare transfer pricing documentation for head office transactions
+
+3. **Consider UK Subsidiary**
+   • Alternative: operate via UK-incorporated subsidiary instead of PE
+   • Advantage: Greater clarity, separate legal entity
+   • Disadvantage: UK CT on all subsidiary profits, not just PE portion
+
+4. **Monitor E-Commerce PE Risk**
+   • Servers located in UK may create PE (case-by-case)
+   • Website alone generally NOT a PE (no personnel)
+   • HMRC guidance: server + website not PE if passive
+
+[If no PE - maintain status]:
+
+✓ **Maintain Non-PE Status**:
+• Continue ensuring UK activities remain preparatory/auxiliary
+• Do not allow UK personnel to conclude contracts
+• Regular review of UK activities to ensure no drift into core business
+• Document business model clearly
+
+```
+
+---
+
+*Continue to worked example from June 2025 Q2...*
+
+
+### Worked Example: June 2025 Question 2, Option 1 (Extract)
+
+**QUESTION FACTS** (Simplified from June 2025):
+
+*Solaris Future SA, incorporated and tax resident in Spain, manufactures solar panels. Under Option 1, the company is considering:*
+- *Renting an office in London*
+- *Employing 3 full-time UK-based employees*
+- *UK employees will conduct "market research and customer liaison"*
+- *No mention of contract conclusion authority*
+- *Sales delivered directly from Spain to UK customers*
+
+**EXAMINER REQUIREMENT**: "UK Corporation Tax implications of Option 1."
+
+**TIME ALLOCATION**: 15 minutes for PE analysis portion
+
+---
+
+**ANSWER** (using Template C - Extract):
+
+**PERMANENT ESTABLISHMENT ANALYSIS: Solaris Future SA (Option 1)**
+
+Country of Residence: Spain  
+Activity in UK: London office with 3 full-time employees for market research and customer liaison
+
+═══════════════════════════════════════════════════════════════
+
+**PART 1: UK DOMESTIC LAW - FIXED PLACE PE (s1141 CTA 2010)**
+
+Under s1141 CTA 2010, Solaris Future SA will have a UK Permanent Establishment if it has a fixed place of business in the UK through which its business is wholly or partly carried on.
+
+**Test 1: Fixed Place of Business in UK?**
+
+Facts:
+Solaris Future SA will **rent an office in London** with 3 full-time UK-based employees conducting market research and customer liaison activities.
+
+→ **Fixed place requirement: MET**
+
+Reasoning: An office constitutes a "fixed place of business" under s1141 CTA 2010. The office is physically located in London and available to Solaris Future SA for its business activities.
+
+[Annotation: ✓ Straightforward application - office = fixed place. Worth 1-2 marks.]
+
+---
+
+**Test 2: Business Carried On Through That Place?**
+
+Facts:
+Activities performed at UK office:
+• Market research (by 3 full-time employees)
+• Customer liaison (ongoing relationship management)
+
+Analysis:
+These employees are actively working for Solaris Future SA, conducting market research and liaising with UK customers. This constitutes "carrying on business" through the office, not merely passive use of the premises.
+
+→ **Business carried on requirement: MET**
+
+[Annotation: ✓ Key point - active business activities being performed. Worth 2 marks.]
+
+---
+
+**CONCLUSION ON FIXED PLACE PE (Domestic Law):**
+
+Solaris Future SA **DOES have a fixed place PE** in the UK under s1141 CTA 2010.
+
+The London office with 3 employees conducting market research and customer liaison constitutes a fixed place of business through which Solaris Future SA carries on its business.
+
+[Annotation: ✓ Clear conclusion. Worth 1 mark.]
+
+═══════════════════════════════════════════════════════════════
+
+**PART 3: PREPARATORY OR AUXILIARY ACTIVITIES EXEMPTION (s1143)**
+
+Even though a fixed place PE exists, s1143 CTA 2010 provides that NO PE exists if activities are of "preparatory or auxiliary character."
+
+**Analysis of UK Activities:**
+
+**Activity: Market Research and Customer Liaison**
+
+The UK employees will conduct market research and customer liaison. The question states these activities include "collecting information" for Solaris Future SA.
+
+s1143 CTA 2010 specifically lists "collecting information for the company" as an example of potentially preparatory or auxiliary activities.
+
+**However, the critical question is**: Are these activities **solely** preparatory/auxiliary, or do they form an essential part of Sol aris Future SA's business?
+
+**Assessment: Likely NOT preparatory or auxiliary**
+
+Reasoning:
+• Market research and customer liaison for a **3-person full-time UK office** suggests substantive business activities
+• These employees are establishing relationships with UK customers and gathering intelligence to support UK sales
+• This goes beyond passive "information collection" - it facilitates and enables UK sales
+• **Not merely preparatory** - these are core sales support functions
+
+The s1143 exemption applies where activities are "of a preparatory or auxiliary character." Case law and HMRC guidance emphasize this exemption is **narrow**. Activities that directly support revenue generation (like customer liaison for sales) typically do NOT qualify.
+
+[Annotation: ✓✓ This is the critical analysis examiners look for - don't just list exemptions, apply them. Worth 4-5 marks.]
+
+**CONCLUSION ON PREPARATORY/AUXILIARY EXEMPTION:**
+
+The market research and customer liaison activities performed by the UK employees **are NOT of a preparatory or auxiliary character**.
+
+These are substantive business activities that directly support Solaris Future SA's UK sales. The s1143 exemption **does NOT apply**.
+
+[Annotation: ✓ This is the suggested answer's conclusion - UK activities too substantive. Worth 2-3 marks.]
+
+═══════════════════════════════════════════════════════════════
+
+**FINAL CONCLUSION**
+
+**Solaris Future SA WILL HAVE a Permanent Establishment in the United Kingdom under Option 1.**
+
+Basis: UK domestic law (s1141 CTA 2010)
+
+Key reasoning:
+• Fixed place of business (London office) exists ✓
+• Business carried on through office (3 full-time employees) ✓
+• Activities NOT preparatory or auxiliary (substantive sales support) ✓
+
+═══════════════════════════════════════════════════════════════
+
+**TAX CONSEQUENCES**
+
+**1. UK Corporation Tax Registration Required**
+
+Solaris Future SA will need to:
+• Register for UK Corporation Tax
+• Submit annual CT600 returns
+• Pay UK CT on profits **attributable to the PE**
+
+**2. Profit Attribution**
+
+Only profits **attributable** to the UK PE are subject to UK tax, not Solaris Future SA's worldwide profits.
+
+Attribution must follow the **OECD Authorized OECD Approach** (per Article 7 of the OECD Model DTA and UK domestic law).
+
+This approach treats the PE as a "functionally separate enterprise" and allocates profits based on:
+• Functions performed by PE
+• Assets used by PE
+• Risks assumed by PE
+
+Broadly, this follows **transfer pricing principles**.
+
+[Annotation: ✓ Showing understanding of attribution methodology. Worth 3-4 marks.]
+
+**3. Current UK Corporate Tax Rate**
+
+Profits attributable to the PE will be subject to UK CT at:
+• **25%** (main rate) if PE profits exceed £250,000
+• **19%** (small profits rate) if PE profits ≤£50,000
+• Marginal relief between £50,000-£250,000
+
+---
+
+**MARK ALLOCATION** (Estimated):
+
+| Element | Marks |
+|---------|-------|
+| s1141 citation and fixed place test | 1-2 |
+| Application: office = fixed place | 1-2 |
+| Business carried on test application | 2 |
+| s1143 preparatory/auxiliary analysis | 4-5 |
+| Conclusion on PE status | 2 |
+| Tax consequences (registration, attribution, rate) | 3-4 |
+| **TOTAL (PE portion)** | **13-17/25** |
+
+*Note: Question 2 also covered other issues (corporate residence risk, unallowable purpose, dividends) worth additional marks.*
+
+**Time Taken**: Approximately 12-15 minutes for PE analysis
+
+---
+
+### Error Prevention: Top 10 Mistakes (PE)
+
+**MISTAKE #1**: "Confusing 'fixed place' with 'permanent establishment'"
+- ❌ **Wrong**: "Has office = has PE" (forgetting preparatory/auxiliary exception)
+- ✅ **Correct**: "Has fixed place → check if business carried on → check if preparatory/auxiliary"
+- **Critical**: s1143 can negate PE even if s1141 criteria met
+
+**MISTAKE #2**: "Applying preparatory/auxiliary exemption too broadly"
+- ❌ **Wrong**: "Market research is just information gathering → preparatory"
+- ✅ **Correct**: "Market research by 3 full-time staff supporting sales → NOT preparatory"
+- **Key**: Exemption is NARROW - only truly ancillary activities qualify
+
+**MISTAKE #3**: "Forgetting treaty override of domestic law"
+- ❌ **Wrong**: Only analyzing s1141 when UK-Spain DTA exists
+- ✅ **Correct**: "Under s1141 PE exists, BUT Article 5 of UK-Spain DTA may provide different threshold"
+- **Remember**: CTA 2009 s18 - treaties override domestic law
+
+**MISTAKE #4**: "Confusing 'independent agent' with 'employee'"
+- ❌ **Wrong**: "Company's own employees could be independent agents"
+- ✅ **Correct**: "Employees create PE risk; independent agents (brokers) don't"
+- **Rule**: Own employees = agency PE risk; independent agents = exempt
+
+**MISTAKE #5**: "Assuming all 'information collection' is preparatory"
+- ❌ **Wrong**: "s1143 lists 'collecting information' → automatic exemption"
+- ✅ **Correct**: "s1143 requires 'solely' for collection - if combined with sales support, NO exemption"
+- **Watch**: "Solely" is key word in s1143
+
+**MISTAKE #6**: "Not distinguishing server location from business location"
+- ❌ **Wrong**: "Server in UK = PE"
+- ✅ **Correct**: "Server alone typically NOT PE (HMRC guidance) - need personnel using it"
+- **Digital economy**: Website/server ≠ automatic PE
+
+**MISTAKE #7**: "Forgetting profit attribution is NOT all profits"
+- ❌ **Wrong**: "Has UK PE → all company profits subject to UK CT"
+- ✅ **Correct**: "Only profits ATTRIBUTABLE to PE subject to UK CT (Article 7 / OECD AOA)"
+- **Impact**: Huge difference in tax liability
+
+**MISTAKE #8**: "Ignoring corporate residence risk when discussing PE"
+- ❌ **Wrong**: Analyzing PE only, missing that UK board meetings create CMC risk
+- ✅ **Correct**: "Option 1 creates PE. ALSO warn: if board meets in UK → CMC risk → full UK residence"
+- **Professional marks**: Spotting related risks (June 2025 Q2 tested this!)
+
+**MISTAKE #9**: "Not citing specific legislation"
+- ❌ **Wrong**: "Company will have a PE in UK"
+- ✅ **Correct**: "Under s1141 CTA 2010, company will have a PE..."
+- **Marks**: Specific citation worth 1-2 marks every time
+
+**MISTAKE #10**: "Recommending restructuring without being asked"
+- ❌ **Wrong**: Spending 5 minutes on restructuring advice when question just asks "implications"
+- ✅ **Correct**: State implications concisely; brief recommendations only if time permits
+- **Time management**: Answer the question asked
+
+---
+
+### Quick Reference: PE Key Points
+
+**UK Domestic Law Statutes**:
+- **s1141 CTA 2010**: Fixed place of business PE
+- **s1142 CTA 2010**: Agency PE (dependent agent)
+- **s1143 CTA 2010**: Preparatory or auxiliary exemption
+- **s1144 CTA 2010**: Independent agent (no PE)
+- **CTA 2009 s18**: Treaties override domestic law
+
+**Fixed Place PE Elements** (s1141):
+1. Fixed place of business (office, branch, factory, mine, building site)
+2. In the UK
+3. Through which business is wholly or partly carried on
+
+**Agency PE Elements** (s1142):
+1. Agent acting in UK
+2. Has authority to conclude contracts
+3. Habitually exercises that authority
+4. NOT independent agent (brokers, commission agents)
+
+**Preparatory or Auxiliary Exemption** (s1143):
+✓ Storage, display, delivery of goods
+✓ Purchasing goods or collecting information
+✓ Other activities of preparatory or auxiliary character
+❌ **NOT exempt**: Core revenue-generating activities
+
+**OECD Model Article 5** (Treaty PE):
+- Art 5(1): Fixed place definition
+- Art 5(2): Specific examples (management, branch, office, factory, workshop, mine)
+- Art 5(3): Building site/construction >12 months
+- Art 5(4): Preparatory/auxiliary exemptions
+- Art 5(5): Dependent agent PE
+- Art 5(6): Independent agent exception
+
+**Common PE Scenarios**:
+
+| Situation | PE Risk? | Why? |
+|-----------|----------|------|
+| UK office + employees doing sales | **HIGH** | Fixed place + core business |
+| UK warehouse (storage only) | Low | Preparatory/auxiliary (s1143) |
+| UK agent concluding contracts | **HIGH** | Agency PE (s1142) |
+| Server in UK (no personnel) | Low | HMRC: server alone not PE |
+| Construction site <12 months | Medium | Domestic law PE, treaty may exempt |
+| Independent broker in UK | Low | Independent agent exception |
+
+**Profit Attribution** (if PE exists):
+- OECD Authorized OECD Approach (Article 7)
+- PE treated as functionally separate enterprise
+- Allocate assets, functions, risks to PE
+- Apply transfer pricing to internal dealings
+- Only profits attributable to PE taxed in UK
+
+**Time Management Targets**:
+- Fixed place test: 3-4 minutes
+- Preparatory/auxiliary analysis: 5-6 minutes
+- Agency PE (if relevant): 3-4 minutes
+- Treaty considerations: 3-4 minutes
+- Consequences: 2-3 minutes
+- **TOTAL**: 16-21 minutes
+
+**Mark Allocation Patterns**:
+- Legislation citations (s1141/s1142/s1143): 2-3 marks
+- Fixed place test application: 2-3 marks
+- Preparatory/auxiliary analysis: 4-6 marks
+- Agency PE (if applicable): 3-4 marks
+- Treaty override: 2-3 marks
+- Profit attribution: 2-3 marks
+- Consequences/recommendations: 2-3 marks
+- **TOTAL**: 17-25 marks (depending on question complexity)
+
+---
+
+*This completes Section 2.1.3: Permanent Establishment*
+
+**Progress Update**:
+- ✅ 2.1.1 Corporate Residence & Treaty Tie-Breaker
+- ✅ 2.1.2 Individual Residence - Statutory Residence Test  
+- ✅ 2.1.3 Permanent Establishment
+
+**Remaining for Part A**:
+- 2.1.4 Remittance Basis (75% frequency - CRITICAL)
+- 2.1.5 Double Tax Relief & Temporary Non-Residence
+
+---
+
+*Continue to Section 2.1.4: Remittance Basis →*
+
