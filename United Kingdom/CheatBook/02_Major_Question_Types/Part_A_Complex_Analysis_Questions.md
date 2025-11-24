@@ -2682,5 +2682,1275 @@ Profits attributable to the PE will be subject to UK CT at:
 
 ---
 
-*Continue to Section 2.1.4: Remittance Basis →*
+## 2.1.4 Remittance Basis
+
+### Pattern Recognition: Spotting This Question Type
+
+**Immediate Triggers** (if you see these words, deploy this template):
+- "Non-domiciled," "non-dom," "remittance basis," "arising basis"
+- "Foreign income," "foreign gains," "offshore income"
+- "Remittance Basis Charge (RBC)," "£30,000 charge," "£60,000 charge"
+- "Remitted to UK," "brought to UK," "used in UK"
+- "Mixed funds," "clean capital," "tainted income"
+- "Business Investment Relief (BIR)"
+- "Offshore insurance bond," "wrapper," "protected settlement"
+
+**Exam Frequency**: **75% (6/8 exams from 2020-2025)** - CRITICAL
+
+**Recent Exam Appearances**:
+- **June 2025 Q3** (Part B): Freja Hansen - Offshore insurance bonds, remittance basis, PPB anti-avoidance (20 marks)
+- December 2024: Remittance basis question
+- June 2024: Remittance basis question
+- **Pattern**: Appears regularly in **Part B (20 marks)** or occasionally Part C (15 marks), NOT typically in Part A
+
+**Mark Range**: **15-20 marks** (usually Part B question)
+
+**IMPORTANT NOTE**: While Remittance Basis appears frequently (75%), it typically appears in **Part B or Part C**, not Part A. However, it may be **integrated** into Part A questions involving residence (e.g., non-dom returning to UK, TNR implications). You must understand it thoroughly for Parts B and C.
+
+---
+
+### Strategic Context
+
+**Why This Matters:**
+
+✓ Tested in **75% of exams** - you're very likely to see this
+✓ Relatively straightforward marks if you know the rules
+✓ Common integration with: deemed domicile, protected settlements, offshore structures
+✓ Examiner reports show candidates lose marks through:
+  - Confusing remittance basis eligibility with claims
+  - Not understanding what constitutes a "remittance"
+  - Missing the Remittance Basis Charge (RBC) calculation
+  - Ignoring anti-avoidance provisions (PPB, Transfer of Assets Abroad)
+
+**Time Allocation Strategy:**
+- **Standalone remittance basis question (Part B)**: 35-40 minutes
+- **Part C remittance basis question**: 25-28 minutes
+- **Integrated into Part A (with residence/TNR)**: 8-12 minutes for remittance portion
+
+**Difficulty vs. Return Assessment:**
+- **Difficulty**: Medium (rules are formula-driven, but anti-avoidance can be complex)
+- **Return**: High (structured answers earn marks easily)
+- **Efficiency Gain**: Template approach = 12-16 marks in 25 minutes
+
+---
+
+### The Remittance Basis: Core Framework
+
+**CRITICAL UNDERSTANDING**: The UK taxes on two bases:
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  ARISING BASIS (Default for UK domiciled/deemed domiciled)  │
+│  • Tax on worldwide income and gains AS THEY ARISE          │
+│  • Regardless of whether brought to UK                      │
+│  • Personal allowances available                            │
+│  • Annual CGT exemption available (£3,000 in 2024/25)       │
+└─────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────┐
+│  REMITTANCE BASIS (Available for non-UK domiciled)          │
+│  • Tax ONLY on foreign income/gains REMITTED to UK          │
+│  • Foreign income/gains kept offshore = NO UK tax           │
+│  • Must CLAIM if resident 7+ years (lose allowances)        │
+│  • May pay Remittance Basis Charge (RBC)                    │
+│  • Loss of personal allowance and CGT exemption             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+**Key Legislation**:
+- **ITA 2007 ss.809A-809Z**: Remittance basis provisions
+- **TCGA 1992 s.12**: Remittance basis for capital gains
+- **ITA 2007 s.809H**: Remittance Basis Charge
+- **ITTOIA 2005 ss.515-526**: Personal Portfolio Bonds (PPB) anti-avoidance
+
+---
+
+### Execution Framework
+
+**Step-by-Step Process** (Total Time: 25-30 minutes for Part B question)
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│ STEP 1: Determine Eligibility (3 min)                        │
+│ • Is individual UK resident?                                  │
+│ • Is individual non-UK domiciled (or not deemed domiciled)?  │
+│ • If YES to both → eligible for remittance basis             │
+└──────────────────────────────────────────────────────────────┘
+         ↓
+┌──────────────────────────────────────────────────────────────┐
+│ STEP 2: Automatic vs Claim Basis (4 min)                     │
+│ AUTOMATIC (no claim needed):                                  │
+│ • Unremitted foreign income/gains < £2,000 in tax year, OR   │
+│ • No UK income/gains (only foreign income/gains), OR         │
+│ • UK resident < 7 years out of last 9 years                  │
+│                                                               │
+│ MUST CLAIM (if want remittance basis):                       │
+│ • UK resident 7+ years out of last 9                         │
+│ • AND want to use remittance basis                           │
+│ • Claim in tax return, lose personal allowance + CGT exempt  │
+└──────────────────────────────────────────────────────────────┘
+         ↓
+┌──────────────────────────────────────────────────────────────┐
+│ STEP 3: Remittance Basis Charge (RBC) (5 min)                │
+│ Calculate RBC if applicable:                                  │
+│                                                               │
+│ UK resident 7-11 years (of last 14): £30,000 RBC            │
+│ UK resident 12+ years (of last 14): £60,000 RBC             │
+│                                                               │
+│ RBC is IN ADDITION TO tax on remitted amounts                │
+│ RBC buys right to keep offshore income/gains offshore        │
+└──────────────────────────────────────────────────────────────┘
+         ↓
+┌──────────────────────────────────────────────────────────────┐
+│ STEP 4: What Constitutes a Remittance? (8 min)               │
+│ A "remittance" occurs when:                                   │
+│ • Money/property derived from foreign income/gains is:       │
+│   - Brought to UK, OR                                         │
+│   - Received in UK, OR                                        │
+│   - Used in UK for benefit of relevant person                │
+│                                                               │
+│ Relevant person: individual, spouse, minor children           │
+│                                                               │
+│ Common remittances:                                           │
+│ • Transfer of offshore funds to UK bank account              │
+│ • Using offshore funds to purchase UK property               │
+│ • Using offshore credit card in UK (paid from offshore)      │
+│ • Gift to UK resident spouse (even if kept offshore)         │
+└──────────────────────────────────────────────────────────────┘
+         ↓
+┌──────────────────────────────────────────────────────────────┐
+│ STEP 5: Mixed Funds & Ordering Rules (5 min)                 │
+│ If account contains BOTH clean capital and tainted income:   │
+│                                                               │
+│ ORDERING RULES (s.809Q ITA 2007):                            │
+│ Remittances treated as coming from sources in this order:    │
+│ 1. Income (taxed first - highest rate)                       │
+│ 2. Capital gains                                              │
+│ 3. Clean capital (no tax)                                     │
+│                                                               │
+│ SOLUTION: Keep separate accounts for clean capital!          │
+└──────────────────────────────────────────────────────────────┘
+         ↓
+┌──────────────────────────────────────────────────────────────┐
+│ STEP 6: Business Investment Relief (BIR) (3 min)             │
+│ • Allows remittance of foreign income/gains to UK            │
+│ • Without UK tax charge                                       │
+│ • IF invested in qualifying UK trading company               │
+│ • Cite: ITA 2007 ss.809VA-809VO                              │
+│ • Time limit: must invest within 45 days of bringing to UK   │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### Template & Tools
+
+**TEMPLATE D: Remittance Basis Analysis**
+
+```
+REMITTANCE BASIS ANALYSIS: [Name]
+Tax Year: 202X/2X
+
+═══════════════════════════════════════════════════════════════
+
+1. ELIGIBILITY FOR REMITTANCE BASIS
+
+Under ITA 2007 s.809A, the remittance basis is available to an individual
+who is:
+(a) UK resident for the tax year, AND
+(b) Not UK domiciled (or not deemed UK domiciled)
+
+[Name]'s status:
+• UK residence: [State - YES/NO based on SRT or facts given]
+• UK domicile: [State - domicile of origin/choice/deemed]
+
+→ Conclusion: [Name] [IS / IS NOT] eligible for remittance basis
+
+═══════════════════════════════════════════════════════════════
+
+2. AUTOMATIC vs CLAIM BASIS
+
+The remittance basis applies AUTOMATICALLY (no claim needed) if:
+(a) Unremitted foreign income and gains < £2,000 in the tax year, OR
+(b) No UK-source income or gains (i.e. only foreign income/gains), OR
+(c) UK resident for fewer than 7 out of the last 9 tax years
+
+[Name]'s circumstances:
+• Foreign income/gains: [Amount]
+• Remitted to UK: [Amount]
+• UK source income/gains: [YES/NO - amount if yes]
+• Years UK resident: [X out of last Y years]
+
+→ Automatic basis: [APPLIES / DOES NOT APPLY]
+
+[If automatic does NOT apply]:
+
+[Name] must CLAIM the remittance basis in their Self Assessment tax return.
+
+Consequences of claiming:
+❌ Loss of personal allowance (£12,570 in 2024/25)
+❌ Loss of CGT annual exempt amount (£3,000 in 2024/25)
+✓ Pay UK tax ONLY on foreign income/gains remitted to UK
+✓ Offshore income/gains kept outside UK are NOT taxed
+
+═══════════════════════════════════════════════════════════════
+
+3. REMITTANCE BASIS CHARGE (RBC)
+
+Under ITA 2007 s.809H, an individual who claims the remittance basis AND
+has been UK resident for 7 or more years must pay a Remittance Basis Charge:
+
+• UK resident 7-11 years (of last 14 years): £30,000
+• UK resident 12+ years (of last 14 years): £60,000
+
+[Name]'s position:
+• UK resident for [X] years out of last [Y] years
+• RBC applicable: [YES/NO]
+• RBC amount: [£30,000 / £60,000 / Nil]
+
+The RBC is paid IN ADDITION to any UK tax on amounts actually remitted.
+
+The RBC "buys" the right to keep offshore income and gains outside the
+UK tax charge.
+
+═══════════════════════════════════════════════════════════════
+
+4. WHAT CONSTITUTES A REMITTANCE?
+
+Under ITA 2007 s.809L, a remittance occurs when foreign income or gains are:
+(a) Brought to, or received in, the UK
+(b) Used in the UK
+(c) Enjoyed in the UK by a "relevant person"
+
+"Relevant person" includes:
+• The individual
+• Their spouse or civil partner
+• Their minor (unmarried) children
+
+Common remittances:
+✓ Transfer from offshore account to UK bank account
+✓ Using offshore funds to buy UK property/assets
+✓ Using offshore credit card in UK (if paid from offshore funds)
+✓ Gift to UK resident spouse (even if spouse doesn't bring to UK)
+✓ Offshore funds used to settle UK debts
+
+NOT remittances:
+✗ Keeping funds in offshore account
+✗ Spending funds while physically outside UK
+✗ Gifts to adult (non-minor) children
+✗ Clean capital (not derived from income/gains)
+
+Application to [Name]:
+
+[Describe the facts - what has been brought to/used in UK]:
+_______________________________________________________________
+
+Analysis:
+[For each transaction, state whether it constitutes a remittance]
+_______________________________________________________________
+
+→ Remittances identified: [Amount]
+→ UK tax due: [Calculate at appropriate rate]
+
+═══════════════════════════════════════════════════════════════
+
+5. MIXED FUNDS (if applicable)
+
+Under ITA 2007 s.809Q, where an offshore account contains a mixture of:
+• Income (from various years)
+• Capital gains
+• Clean capital (original capital, no income/gains)
+
+Any withdrawal is treated as coming from these sources in the following
+ORDER:
+1. Income (oldest first)
+2. Capital gains (oldest first)
+3. Clean capital
+
+This means income is ALWAYS remitted first → taxed at highest rates.
+
+[Name]'s situation:
+[Describe the account composition if facts given]
+_______________________________________________________________
+
+PRACTICAL ADVICE: Keep separate accounts:
+• Account 1: Clean capital only
+• Account 2: Foreign income
+• Account 3: Foreign capital gains
+
+This allows selective remittances from clean capital account with no UK tax.
+
+═══════════════════════════════════════════════════════════════
+
+6. BUSINESS INVESTMENT RELIEF (BIR)
+
+Under ITA 2007 ss.809VA-809VO, an individual can bring foreign income/
+gains to the UK WITHOUT a tax charge if:
+
+• The funds are invested in a qualifying UK trading company
+• Within 45 days of bringing to UK
+• Investment is in shares or loans
+• Company must be carrying on genuine UK trading activity
+• NOT investment/property holding companies
+
+Qualifying investment includes:
+✓ Subscription for shares in UK trading company
+✓ Loans to UK trading company
+✓ Shares in company with genuine UK trade (>80% of activity)
+
+[If applicable to question]:
+[Describe whether the proposed investment qualifies for BIR]
+_______________________________________________________________
+
+═══════════════════════════════════════════════════════════════
+
+7. ANTI-AVOIDANCE: TRANSFER OF ASSETS ABROAD (TOAA)
+
+Under ITA 2007 ss.714-751, if an individual transfers assets to an offshore
+structure AND income arises in that structure, the income may be taxed on
+the UK resident transferor on an arising basis (not remittance basis).
+
+TOAA applies UNLESS:
+• There is no tax avoidance purpose (motive defense - s.741), OR
+• The transfer was a genuine commercial transaction
+
+Common scenarios where TOAA attacks remittance basis planning:
+❌ Offshore trust funded by UK resident non-dom
+❌ Offshore company owned by UK resident non-dom
+❌ Offshore insurance bond with control over investments
+
+[If question involves offshore structures]:
+TOAA risk: [HIGH / MEDIUM / LOW]
+Reasoning: ___________________________________________________
+
+═══════════════════════════════════════════════════════════════
+
+8. ANTI-AVOIDANCE: PERSONAL PORTFOLIO BONDS (PPB)
+
+Under ITTOIA 2005 ss.515-526, offshore insurance bonds are NORMALLY
+tax-deferred - income/gains accrue tax-free inside bond, tax only on
+encashment (chargeable event).
+
+HOWEVER, if the bond is a "Personal Portfolio Bond" (PPB), then:
+• Annual income tax charge on bond gains (not deferred)
+• Individual is taxed on arising basis annually
+• Loses benefit of remittance basis
+
+A bond is a PPB if:
+• The bondholder (or related person) can SELECT the investments
+• This includes indirect control via restrictive investment mandates
+
+Avoiding PPB status:
+✓ Use discretionary investment manager
+✓ Do NOT retain power of selection
+✓ Do NOT give restrictive investment guidelines
+✓ Bond should hold only "publicly available" investments
+
+[If question involves offshore insurance bonds/wrappers]:
+
+PPB risk for [Name]: [HIGH / MEDIUM / LOW]
+
+Reasoning:
+• Selection power: [Describe facts - does individual control investments?]
+• Type of assets: [Standard publicly traded / Bespoke assets?]
+• Investment manager: [Discretionary / Non-discretionary?]
+
+Recommendations to avoid PPB:
+[List specific actions]
+
+Reference case: IRC v Willoughby [1995] - bonds held as normal investment
+should not trigger TOAA if no avoidance motive.
+
+═══════════════════════════════════════════════════════════════
+
+CONCLUSION
+
+[Summarize key points]:
+
+1. [Name] [is/is not] eligible for remittance basis
+2. [Automatic / Must claim] - [with/without] RBC of [amount]
+3. Remittances identified: [amount] → UK tax: [amount]
+4. Anti-avoidance risks: [TOAA / PPB / None]
+5. Recommendations: [Key 2-3 action points]
+```
+
+---
+
+### Worked Example: June 2025 Question 3 (Part B - Extract)
+
+**QUESTION FACTS** (Simplified from June 2025 Part B Q3):
+
+*Freja Hansen is a UK resident, non-domiciled taxpayer who has always claimed the remittance basis. She holds two investment portfolios (foreign shares and private equity) plus shares in a family company. She wants to transfer these into an offshore insurance bond "wrapper." She is a hands-on investor who personally selects each stock. In five years, she will need to bring 20% of the initial premium to the UK.*
+
+**EXAMINER REQUIREMENT**:
+1) Explain main tax features of offshore insurance bonds and tax consequences of remittances (8 marks)
+2) Which investments can be held tax efficiently in wrapper (5 marks)
+3) Anti-avoidance provisions and risk minimization (7 marks)
+
+**TIME ALLOCATION**: 35 minutes total
+
+---
+
+**ANSWER** (using Template D - Extract):
+
+**PART 1: TAX FEATURES OF OFFSHORE INSURANCE BONDS**
+
+**Tax Treatment Under ITTOIA 2005 Part 4 Chapter 9**
+
+Offshore insurance bonds (sometimes called "wrappers") provide tax-deferred growth:
+
+✓ **No annual tax charge**: Investment returns (income and gains) accumulate within the bond WITHOUT annual UK income tax or capital gains tax.
+
+✓ **Tax on encashment only**: Tax arises only on a "chargeable event" under ITTOIA 2005 s.484, typically:
+  - Full or partial surrender/withdrawal
+  - Maturity of bond
+  - Death of bondholder
+
+✓ **5% annual withdrawal allowance**: Under the 5/5ths rule, Freja can withdraw up to 5% of the initial premium each year without triggering a taxable chargeable event. Unused allowances accumulate.
+
+Example: If Freja invests £1 million:
+- Year 1: Can withdraw £50,000 tax-free
+- Year 2: Can withdraw £100,000 tax-free (if nothing taken in Year 1)
+- Year 5: Can withdraw £250,000 tax-free (5 years × 5% = 25%)
+
+Therefore, Freja's plan to withdraw 20% in year 5 falls within this tax-free limit.
+
+[Annotation: ✓ Clear explanation of tax deferral - worth 3-4 marks]
+
+**Remittance Basis Interaction**
+
+HOWEVER, as Freja is on the remittance basis:
+
+⚠️ **Capital used to fund bond**: If Freja transfers her existing portfolios (or sale proceeds) into the wrapper, this constitutes a DISPOSAL and may generate capital gains taxable on remittance basis.
+
+⚠️ **Withdrawals = potential remittances**: Although the 5% withdrawal is not subject to UK tax under bond rules, if Freja remits these withdrawals to the UK, this could constitute taxable remittances under ITA 2007 s.809L.
+
+**Why?** If the portfolio used to fund the wrapper was originally acquired using unremitted foreign income or gains (while Freja was on remittance basis), then withdrawals from the wrapper may contain "tainted" offshore income/gains.
+
+**Result**: Even "tax-free" 5% withdrawals become taxable if remitted to UK.
+
+[Annotation: ✓✓ Excellent point - shows understanding of interaction between bond rules and remittance basis. Worth 3-4 marks.]
+
+---
+
+**PART 2: WHICH INVESTMENTS CAN BE HELD IN WRAPPER?**
+
+The bond should invest in **listed shares and bonds** that would normally be held by an insurance company for public policyholders.
+
+✓ **Foreign listed shares**: Freja's foreign share portfolio appears suitable, provided it contains standard publicly-traded securities.
+
+❌ **Private equity fund**: Would NOT be suitable. Private equity involves:
+  - Bespoke investments not available to general public
+  - Significant capital calls over several years
+  - Heightened risk of Personal Portfolio Bond (PPB) legislation applying
+
+❌ **Family company shares**: NOT suitable. These are personal/bespoke assets that an insurance company would not normally hold for public policyholders.
+
+**General Rule**: The wrapper should only hold investments which a discretionary investment manager would propose to the "public" - i.e., standard, publicly-available investments.
+
+[Annotation: ✓ Application to specific facts - worth 4-5 marks]
+
+---
+
+**PART 3: ANTI-AVOIDANCE PROVISIONS**
+
+**Risk 1: Transfer of Assets Abroad (TOAA) - ITA 2007 s.720**
+
+If TOAA applies, the underlying income arising in the bond would be assessed on Freja on an **arising basis** (not remittance basis) - defeating the purpose of the wrapper.
+
+However, the case of **IRC v Willoughby [1995] STC 143** supports the position that where a bond is held directly as part of a normal investment strategy, HMRC should not succeed in invoking TOAA s.720.
+
+**Key requirement**: The wrapper must be a **genuine investment**, not a tax avoidance scheme.
+
+[Annotation: ✓ Correct case citation and application - 2 marks]
+
+**Risk 2: Personal Portfolio Bond (PPB) Legislation - ITTOIA 2005 ss.515-526**
+
+This is the **primary risk** for Freja.
+
+If the bond is a PPB, then:
+❌ Annual income tax charge applies (not tax-deferred)
+❌ Bond gains taxed on arising basis each year
+❌ Loses all benefits of the wrapper structure
+
+**When is a bond a PPB?**
+
+Under ITTOIA 2005 s.516, a bond is a PPB if the policyholder (or related person) has the power to SELECT the investments held in the bond.
+
+⚠️ **FREJA'S RISK IS HIGH**: The question states:
+- "Freja is a hands-on investor"
+- "Personally selects each stock"
+- "Prefers not to use a discretionary investment manager"
+
+This means Freja retains control over investment selection → HIGH RISK of PPB classification.
+
+**HMRC Guidance (IPTM7730)**: A bond may be a PPB even where control is exercised indirectly through a "restricted investment policy." If investment objectives given to the adviser/broker are so restricted that it is effectively the policyholder selecting property, the adviser/broker is "no more than a conduit."
+
+[Annotation: ✓✓ Identifying the key risk specific to facts - worth 4-5 marks]
+
+**RECOMMENDATIONS TO MINIMIZE RISK**:
+
+To avoid PPB classification, Freja must:
+
+1. ✓ **Relinquish control**: Become a passive investor, not "hands-on"
+2. ✓ **Use discretionary investment manager**: Give manager full discretion over investment selection
+3. ✓ **No restrictive mandates**: Do NOT give specific investment guidelines that effectively control what manager can invest in
+4. ✓ **Hold only public investments**: Avoid bespoke assets (family company shares, private equity)
+
+**Conclusion**: An offshore wrapper may provide tax benefits for Freja, but ONLY if:
+- She transfers ONLY the publicly-traded foreign share portfolio (not private equity or family company)
+- She relinquishes control to a discretionary investment manager
+- She accepts being a passive investor
+
+If Freja cannot accept these conditions, the wrapper is NOT suitable and will likely be classified as a PPB with adverse tax consequences.
+
+[Annotation: ✓✓✓ Professional advice tailored to client circumstances - worth 3-4 marks]
+
+---
+
+**MARK ALLOCATION** (Estimated):
+
+| Element | Marks |
+|---------|-------|
+| Tax features: deferral, 5% rule, chargeable events | 3-4 |
+| Remittance basis interaction with withdrawals | 3-4 |
+| Suitable investments (shares yes, PE/family no) | 4-5 |
+| TOAA risk and Willoughby case | 2 |
+| PPB legislation explanation | 3-4 |
+| Application: Freja's hands-on = PPB risk | 3-4 |
+| Recommendations to avoid PPB | 2-3 |
+| **TOTAL** | **20-28/20** |
+
+**Time Taken**: Approximately 35-40 minutes for this level of answer
+
+---
+
+### Error Prevention: Top 10 Mistakes (Remittance Basis)
+
+**MISTAKE #1**: "Confusing eligibility with claiming"
+- ❌ **Wrong**: "Non-dom = automatic remittance basis forever"
+- ✅ **Correct**: "Automatic for first 6 years; must CLAIM from year 7+ (with RBC)"
+- **Prevention**: Always check: How many years UK resident?
+
+**MISTAKE #2**: "Forgetting the Remittance Basis Charge (RBC)"
+- ❌ **Wrong**: "Non-dom pays tax only on remittances" [stops there]
+- ✅ **Correct**: "If 7+ years resident, must pay RBC (£30k or £60k) IN ADDITION to tax on remittances"
+- **Mark impact**: Missing RBC = lose 3-4 marks
+
+**MISTAKE #3**: "Not understanding what counts as a 'remittance'"
+- ❌ **Wrong**: "Only bank transfers to UK are remittances"
+- ✅ **Correct**: "Remittance = brought to, received in, or USED in UK for relevant person"
+- **Examples**: Offshore credit card used in UK = remittance; gift to spouse = remittance
+
+**MISTAKE #4**: "Ignoring mixed funds ordering rules"
+- ❌ **Wrong**: "Can choose which funds to remit from mixed account"
+- ✅ **Correct**: "s.809Q ordering: income first (taxed), then gains, then clean capital"
+- **Solution**: Recommend separate accounts in answer
+
+**MISTAKE #5**: "Missing the PPB anti-avoidance for offshore bonds"
+- ❌ **Wrong**: Discussing wrapper benefits without mentioning PPB risk
+- ✅ **Correct**: "Wrapper provides deferral UNLESS it's a PPB due to selection power"
+- **Examiner loves**: Spotting that "hands-on investor" = PPB risk
+
+**MISTAKE #6**: "Confusing TOAA with PPB"
+- ❌ **Wrong**: Using these terms interchangeably
+- ✅ **Correct**: TOAA = general anti-avoidance (s.720); PPB = specific to insurance bonds (ss.515-526)
+- **Prevention**: Cite correct legislation for each
+
+**MISTAKE #7**: "Assuming all non-doms want remittance basis"
+- ❌ **Wrong**: "Non-dom should always claim remittance basis"
+- ✅ **Correct**: "Trade-off analysis: RBC + loss of allowances vs tax on worldwide income"
+- **Professional approach**: Discuss pros/cons, not automatic recommendation
+
+**MISTAKE #8**: "Not distinguishing clean capital from tainted income"
+- ❌ **Wrong**: "All funds in offshore account are the same"
+- ✅ **Correct**: "Clean capital (pre-UK arrival) ≠ foreign income (while UK resident on remittance basis)"
+- **Why it matters**: Clean capital can be remitted tax-free
+
+**MISTAKE #9**: "Forgetting Business Investment Relief (BIR)"
+- ❌ **Wrong**: Not mentioning BIR when question involves UK business investment
+- ✅ **Correct**: "Under ss.809VA-809VO, can remit for qualifying UK trading investment within 45 days"
+- **When relevant**: Question mentions investing in UK company
+
+**MISTAKE #10**: "Knowledge dumping about remittance basis generally"
+- ❌ **Wrong**: 3 pages explaining all remittance basis rules without applying to facts
+- ✅ **Correct**: 1 paragraph on rules + 2 paragraphs applying to specific facts in question
+- **Golden rule**: 20% law / 80% application
+
+---
+
+### Quick Reference: Remittance Basis Key Points
+
+**Eligibility**:
+- UK resident + non-UK domiciled (or not deemed domiciled) = eligible
+
+**Automatic vs Claim**:
+- Automatic: If (a) unremitted foreign income/gains <£2k, OR (b) no UK income/gains, OR (c) UK resident <7 of last 9 years
+- Must claim: If UK resident 7+ years AND want remittance basis
+- Claiming means: ❌ Lose personal allowance, ❌ Lose CGT exemption
+
+**Remittance Basis Charge (RBC)**:
+- 7-11 years resident (of last 14): £30,000
+- 12+ years resident (of last 14): £60,000
+- RBC is IN ADDITION to tax on actual remittances
+
+**What is a Remittance?** (s.809L):
+- Brought to UK
+- Received in UK
+- Used in UK for benefit of relevant person (self/spouse/minor children)
+
+**Mixed Funds Ordering** (s.809Q):
+1. Income (oldest first) - TAXED
+2. Capital gains (oldest first) - TAXED
+3. Clean capital - NOT TAXED
+
+**Business Investment Relief** (ss.809VA-809VO):
+- Can remit foreign income/gains tax-free IF invested in qualifying UK trading company within 45 days
+
+**Anti-Avoidance**:
+
+| Provision | Legislation | Effect | Prevention |
+|-----------|-------------|--------|------------|
+| Transfer of Assets Abroad (TOAA) | ITA 2007 ss.714-751 | Income of offshore structure taxed on transferor (arising basis) | Motive defense (s.741) - genuine commercial purpose |
+| Personal Portfolio Bonds (PPB) | ITTOIA 2005 ss.515-526 | Annual tax charge on bond (not deferred) | Use discretionary manager, no selection power |
+
+**Key Cases**:
+- **IRC v Willoughby [1995]**: Normal investment in offshore bond should not trigger TOAA
+
+**Time Management Targets**:
+- Eligibility + automatic vs claim: 3-4 minutes
+- RBC calculation: 2-3 minutes
+- What constitutes remittance: 5-6 minutes
+- Mixed funds (if relevant): 3-4 minutes
+- BIR (if relevant): 3-4 minutes
+- Anti-avoidance (PPB/TOAA): 8-10 minutes
+- Recommendations: 2-3 minutes
+- **TOTAL**: 26-37 minutes (depending on complexity)
+
+**Mark Allocation Patterns** (Part B - 20 marks):
+- Eligibility and claiming process: 2-3 marks
+- RBC calculation: 2-3 marks
+- What constitutes remittance / application: 4-5 marks
+- Anti-avoidance identification: 4-6 marks
+- Practical recommendations: 3-4 marks
+- Professional skepticism/risk assessment: 2-3 marks
+
+---
+
+## 2.1.5 Double Tax Relief & Temporary Non-Residence (TNR)
+
+### Pattern Recognition: Spotting This Question Type
+
+**Immediate Triggers** (if you see these words, deploy this template):
+- "Temporary non-residence," "TNR," "4 out of 7 years"
+- "Left the UK," "period of non-residence," "returns to UK"
+- "Double tax relief," "credit relief," "foreign tax credit"
+- "Treaty relief," "bilateral relief," "unilateral relief"
+- "Gains arising during non-residence," "capital gains on return"
+- "Disregarded income," "close company dividends"
+
+**Frequency**: TNR appears in ~40% of exams, DTR in ~55%
+
+**Typical Mark Allocation**:
+- Part A integrated question: 5-8 marks
+- Part B standalone: 15-18 marks (if combined with residence/remittance)
+
+**Recent Appearances**:
+- **June 2025 Q1 Part 3** (5 marks): Daniel Door - TNR application to gains and dividends
+- **December 2024 Q1 Part 2** (6 marks): Combined TNR and DTR on property disposal
+- **June 2024 Q2 Part 4** (8 marks): DTR calculation with treaty relief
+
+---
+
+### Strategic Context: When and Why This Appears
+
+**Why Examiners Love This Topic**:
+
+1. **Tests Multiple Technical Areas**:
+   - Residence rules (prerequisite for TNR)
+   - Capital gains tax timing
+   - Close company rules
+   - Treaty interpretation
+   - Credit relief mechanics
+
+2. **Real-World Relevance**:
+   - Common with internationally mobile individuals
+   - Prevents avoidance through temporary emigration
+   - Tests understanding of UK's territorial scope
+
+3. **Integration Opportunities**:
+   - Often combined with SRT analysis (did they actually leave?)
+   - May involve remittance basis (if non-dom before leaving)
+   - Links to deemed domicile rules
+
+**Common Exam Scenarios**:
+
+| Scenario | What They Test | Typical Marks |
+|----------|----------------|---------------|
+| UK resident leaves, sells assets while non-resident, returns within 5 years | TNR catch, timing of taxation, asset types | 5-8 marks |
+| Close company dividend received during non-residence | TNR income rules, s.811 disregarded income | 3-5 marks |
+| Foreign tax paid on gains/income, returns to UK | DTR calculation, treaty vs unilateral relief | 6-10 marks |
+| UK land disposal during non-residence | Exception from TNR, direct taxation | 3-4 marks |
+
+---
+
+### Execution Framework: Step-by-Step Application
+
+**Time Budget**:
+- Simple TNR question (5 marks): 6-8 minutes
+- DTR calculation (8 marks): 10-12 minutes
+- Complex combined (15 marks): 18-22 minutes
+
+#### STEP 1: Establish TNR Conditions (2-3 minutes)
+
+**The Three TNR Tests**:
+
+1. **Prior Residence Test**:
+   - Was individual UK resident for **at least 4 of the 7 tax years** immediately before departure?
+   - Count the year of departure as full year (even if split year)
+   - Must count backwards from year BEFORE departure year
+
+2. **Period of Non-Residence Test**:
+   - Did period of non-residence exceed **5 tax years**?
+   - If YES → TNR does NOT apply (successfully avoided UK tax)
+   - If NO → TNR APPLIES (caught by anti-avoidance)
+
+3. **Return to UK Test**:
+   - Did individual become UK resident again?
+   - In which tax year did they return?
+   - This is the year of taxation for TNR gains/income
+
+**Critical Timing Issue**:
+- "5 tax years" means 5 complete tax years of non-residence
+- Example: Leave 2023/24 (non-resident), return 2024/25 (resident) = only 1 year non-resident → TNR applies
+- Example: Leave 2018/19, non-resident 2019/20-2023/24 (5 years), return 2024/25 → TNR does NOT apply
+
+#### STEP 2: Identify Assets/Income Within TNR Scope (3-4 minutes)
+
+**Capital Gains - TNR Applies To**:
+- Assets **owned BEFORE departure** from UK
+- Disposals made **during period of non-residence**
+- **NOT** interests in UK land (these are taxed directly on non-residents under TCGA 1992 Sch 4ZZA)
+
+**Capital Gains - TNR Does NOT Apply To**:
+- Assets acquired AFTER departure
+- Disposals after return to UK (taxed normally as resident)
+- UK residential property interests (already taxable on non-residents)
+
+**Income - TNR Applies To**:
+- Distributions (dividends) from **close companies** (CTA 2010 s.439)
+- Received during period of non-residence
+
+**Income - Exceptions (s.811 Disregarded Income)**:
+- Dividends from **public listed companies** (not close companies)
+- Foreign source income (not UK-connected)
+- Employment income from non-UK duties
+
+**Legislation**: ITA 2007 ss.809A-809H (TNR rules), s.811 (disregarded income)
+
+#### STEP 3: Calculate TNR Tax Charge (2-3 minutes)
+
+**For Capital Gains**:
+
+```
+TNR Gain Taxable in Year of Return = Gains on pre-departure assets disposed during non-residence
+```
+
+**Tax Rate on Return**:
+- Apply CGT rates in year of return (currently 18%/24% for residential property, 10%/20% for other assets)
+- Higher rate if individual is higher/additional rate taxpayer in year of return
+- May use annual exempt amount for year of return (£3,000 for 2024/25)
+
+**For Close Company Dividends**:
+- Income taxed at dividend rates in year of return
+- Dividend allowance applies (£500 for 2024/25)
+- 8.75% (basic), 33.75% (higher), 39.35% (additional)
+
+#### STEP 4: Apply Double Tax Relief (DTR) if Applicable (4-6 minutes)
+
+**Two Types of Relief**:
+
+1. **Treaty Relief (Bilateral)**:
+   - Available if UK has DTA with source country
+   - Credit for foreign tax paid (lower of UK tax or foreign tax)
+   - Must reduce foreign tax by claiming treaty reliefs FIRST (ITA 2007 s.6A)
+
+2. **Unilateral Relief** (TIOPA 2010 Part 2):
+   - Available for tax paid to non-treaty countries
+   - Credit = lower of:
+     - Foreign tax paid on the income/gain, OR
+     - UK tax payable on that same income/gain
+   - Calculated on a source-by-source basis
+
+**DTR Calculation Formula**:
+
+```
+DTR Credit = LOWER OF:
+(a) Foreign tax actually paid on the income/gain
+(b) UK tax on that income/gain (UK rate × foreign income/gain)
+```
+
+**Key Restriction**:
+- DTR cannot create a repayment
+- Can only reduce UK tax to zero (cannot go negative)
+- Excess foreign tax is "wasted" (no refund, no carry forward)
+
+**Documentation Required**:
+- Evidence of foreign tax paid (tax certificate from source country)
+- Proof of treaty claim made in source country (if reducing withholding)
+- Calculation of UK tax on same income/gain
+
+#### STEP 5: Identify Relief Ordering Issues (1-2 minutes)
+
+**Order of Relief Application**:
+
+1. Apply treaty/unilateral DTR first
+2. Then apply losses (if any)
+3. Then apply personal allowances/exemptions
+
+**Common Pitfall**:
+- If foreign tax was reduced by treaty relief in source country, UK DTR is based on ACTUAL foreign tax paid (not notional rate)
+- Example: 30% WHT reduced to 10% by treaty → DTR credit is 10%, not 30%
+
+---
+
+### Template E: Double Tax Relief & Temporary Non-Residence Analysis
+
+**Use this template when**: Question involves someone leaving UK, disposing of assets/receiving income during non-residence, and returning to UK.
+
+**Format**: Professional advice letter or memo format
+
+**Estimated time to complete**: 15-20 minutes (for full analysis)
+
+---
+
+**TEMPORARY NON-RESIDENCE ANALYSIS: [Name]**
+**Tax Year of Return**: 202X/2X
+
+---
+
+#### 1. TNR CONDITIONS - DO THE RULES APPLY?
+
+Under ITA 2007 s.809H, the temporary non-residence rules apply where an individual:
+
+**(a) Prior Residence**: Was UK resident for **at least 4 of the 7 tax years** immediately before the year of departure
+
+**[Name]'s Position**:
+- Departure year: [Tax Year]
+- Years of UK residence in 7 years before departure: [X] years
+  - [List specific years: e.g., 2016/17, 2017/18, etc.]
+- **Condition [MET / NOT MET]**
+
+**(b) Period of Non-Residence**: Left the UK and was non-UK resident for a period **not exceeding 5 tax years**
+
+**[Name]'s Position**:
+- Non-resident from: [Start date] to [End date]
+- Tax years of non-residence: [List years]
+- Total period: [X] tax years
+- **Condition [MET / NOT MET]**
+
+**(c) Return to UK**: Became UK resident again in tax year [202X/2X]
+
+**CONCLUSION**: The TNR rules [DO / DO NOT] apply to [Name].
+
+---
+
+#### 2. ASSETS/INCOME WITHIN TNR SCOPE
+
+**Capital Gains During Non-Residence**:
+
+| Asset | Acquisition Date | Disposal Date | Gain | TNR Applies? | Reason |
+|-------|------------------|---------------|------|--------------|--------|
+| [Asset 1] | [Date] | [Date] | £[X]m | YES/NO | Owned before departure / UK land exception / etc. |
+| [Asset 2] | [Date] | [Date] | £[X]m | YES/NO | [Reason] |
+
+**Total Gains Subject to TNR**: £[X] million
+
+**Exception - UK Land**:
+Disposals of interests in UK land are **NOT** subject to TNR rules. Such disposals are directly taxable on non-UK residents under TCGA 1992 Sch 4ZZA. Therefore, [describe any UK land disposals and note they were already subject to UK CGT during non-residence].
+
+**Income During Non-Residence**:
+
+| Income Source | Amount | Close Company? | TNR Applies? | Reason |
+|---------------|--------|----------------|--------------|--------|
+| Dividend from [Company] | £[X]m | YES/NO | YES/NO | s.811 disregarded income / Close company TNR / etc. |
+
+**Disregarded Income (s.811)**:
+Dividends from **public listed companies** are NOT subject to TNR rules and qualify for relief under the disregarded income provisions in ITA 2007 s.811. Therefore, the £[X] million dividend from [Company Name], a public listed company, is **not taxable** in the UK in the year of return.
+
+**Close Company Dividends**:
+Dividends from **close companies** received during the period of non-residence [ARE / ARE NOT] subject to TNR. [If applicable: The £[X] dividend from [Company] will be taxable in 202X/2X.]
+
+---
+
+#### 3. TAXATION IN YEAR OF RETURN: 202X/2X
+
+**Capital Gains Tax**:
+
+Under ITA 2007 s.809H, gains arising during the period of non-residency on assets owned prior to departure are **treated as arising in the tax year of return** to the UK.
+
+```
+Taxable Capital Gains (Year of Return 202X/2X):
+Disposal of [Asset 1]                           £[X] million
+Disposal of [Asset 2]                           £[X] million
+                                               ___________
+Total Chargeable Gains                          £[X] million
+Less: Annual Exempt Amount (202X/2X)            (£[X])
+                                               ___________
+Taxable Gains                                   £[X] million
+                                               ===========
+
+Capital Gains Tax:
+£[X]m @ [20%] (higher rate)                     £[X] million
+```
+
+**Note**: The gains are taxed at the CGT rates applicable in the year of return (202X/2X), not the rates when the disposal occurred.
+
+**Income Tax (if close company dividends)**:
+
+```
+Dividend Income (Year of Return 202X/2X):
+Dividend from [Close Company]                   £[X]
+Less: Dividend Allowance                        (£[X])
+                                               ________
+Taxable Dividend Income                         £[X]
+                                               ========
+
+Income Tax:
+£[X] @ [33.75%] (higher rate dividend)          £[X]
+```
+
+---
+
+#### 4. DOUBLE TAX RELIEF (if foreign tax paid)
+
+**Foreign Tax Paid**:
+- Country: [Name of country]
+- Type of tax: [Capital gains tax / income tax / withholding tax]
+- Amount paid: £[X] / [Foreign currency amount]
+- Rate: [X]%
+
+**Relief Available**:
+
+[Name] is entitled to relief for foreign tax paid under [the UK-[Country] Double Taxation Agreement / unilateral relief provisions in TIOPA 2010 Part 2].
+
+**DTR Calculation** (per ITA 2007 s.6A / TIOPA 2010 s.18):
+
+```
+Credit Relief = LOWER OF:
+(a) Foreign tax paid: £[X]
+(b) UK tax on same income/gain: £[X]
+
+DTR Credit Available: £[X]
+```
+
+**Requirement to Claim Treaty Relief**:
+Under ITA 2007 s.6A, [Name] must reduce the foreign tax by making any applicable claim under the DTA **before** calculating UK DTR. [If applicable: The foreign withholding tax of [X]% was reduced to [Y]% under Article [Z] of the treaty, meaning the actual foreign tax paid was £[X].]
+
+**Net UK Tax Payable**:
+
+```
+UK Tax on Foreign Gains/Income                  £[X]
+Less: DTR Credit                                (£[X])
+                                               ________
+Net UK Tax Payable                              £[X]
+                                               ========
+```
+
+**Excess Foreign Tax**:
+[If applicable: Note that foreign tax of £[X] exceeds the UK tax on the same income. This excess cannot be refunded or carried forward - it is "wasted" under UK DTR rules.]
+
+---
+
+#### 5. PLANNING OPPORTUNITIES / RECOMMENDATIONS
+
+**Timing of Return**:
+- To avoid TNR, [Name] would need to remain non-UK resident for **more than 5 complete tax years**
+- Current position: [X] years of non-residence
+- To escape TNR: Must remain non-resident until [Date]
+
+**Asset Management**:
+- Consider deferring disposals until after return to UK (if beneficial)
+- Or accelerate disposals while non-resident if foreign tax rate lower than UK
+- UK land disposals are taxed regardless of TNR status
+
+**DTR Optimization**:
+- Ensure all treaty claims made in source country to minimize withholding
+- Obtain tax certificates for all foreign tax paid
+- Consider timing of remittances if still on remittance basis
+
+**Close Company Dividends**:
+- If possible, convert to non-close company status before paying dividends
+- OR delay dividends until after return to UK (but TNR will still apply)
+- Consider alternative extraction methods (salary, loan repayment)
+
+---
+
+#### 6. SUMMARY OF TAX POSITION
+
+| Item | Tax Year | Amount | Treatment |
+|------|----------|--------|-----------|
+| Gain on [Asset] disposal | 202X/2X (year of return) | £[X]m | Taxed under TNR rules |
+| Dividend from [Company] | 202X/2X (year of return) | £[X]m | s.811 disregarded income - not taxable |
+| Foreign tax credit | 202X/2X | £[X] | DTR relief available |
+| **Net UK Tax** | **202X/2X** | **£[X]m** | **Payable by 31 Jan 202X** |
+
+---
+
+**LEGISLATION APPLIED**:
+- ITA 2007 ss.809H (TNR rules), s.811 (disregarded income), s.6A (treaty relief priority)
+- TCGA 1992 Sch 4ZZA (non-resident CGT on UK land)
+- CTA 2010 s.439 (close company definition)
+- TIOPA 2010 Part 2 (unilateral relief), Part 4 (transfer pricing)
+- [UK-Country] Double Taxation Agreement Article [X] (credit relief)
+
+---
+
+### Worked Example: June 2025 Q1 Part 3 - Daniel Door TNR Analysis
+
+**Question Summary** (5 marks, suggested time 7-8 minutes):
+
+Daniel Door left the UK on 1 April 2023 (became non-resident in 2023/24). Before leaving, he had always been UK resident. He became UK resident again in 2024/25 (spending 98 days in UK). During 2023/24 (while non-resident):
+- Sold shares in AI-5 (public listed company) for £160 million gain
+- Received £40 million dividend from AI-5
+
+**Question**: What are the UK tax implications under the temporary non-residence rules?
+
+---
+
+**SUGGESTED SOLUTION** (following Template E structure):
+
+**TEMPORARY NON-RESIDENCE ANALYSIS: DANIEL DOOR**
+**Tax Year of Return**: 2024/25
+
+---
+
+**1. TNR CONDITIONS - DO THE RULES APPLY?**
+
+The temporary non-residence (TNR) rule under ITA 2007 s.809H applies where an individual:
+- (a) Has been UK resident for **at least 4 of the 7 tax years prior to departure**, AND
+- (b) Leaves the UK and returns after a period **not exceeding 5 tax years**
+
+**Daniel's Position**:
+
+**(a) Prior Residence**: Daniel had **always been UK resident** before leaving on 1 April 2023. He clearly satisfies the 4 out of 7 year condition.
+
+**(b) Period of Non-Residence**:
+- Daniel was non-UK resident in 2023/24
+- He became UK resident again in 2024/25
+- Therefore, he did **NOT** meet the requirement to be non-UK resident for more than 5 years
+
+**CONCLUSION**: The TNR rules **DO apply** to Daniel.
+
+---
+
+**2. CAPITAL GAINS DURING NON-RESIDENCE**
+
+Under ITA 2007 s.809H, if the TNR conditions are met, any **capital gains arising during the period of non-residency** on assets owned **prior to departure** from the UK will be **treated as having arisen in the tax year of return** and taxed accordingly.
+
+**Exception - UK Land**: This does NOT apply to disposals of interests in UK land, which continue to be subject to tax on non-UK residents under TCGA 1992 Sch 4ZZA.
+
+**Daniel's Position**:
+- Disposal of AI-5 shares in 2023/24: **£160 million gain**
+- AI-5 shares are NOT interests in UK land
+- Shares were owned before departure (implied by fact pattern)
+- Therefore, the £160 million gain will be **subject to UK capital gains tax in 2024/25** (the year of Daniel's return)
+
+---
+
+**3. DIVIDEND INCOME DURING NON-RESIDENCE**
+
+The TNR rules also apply to various types of income, including distributions (dividends) from **close companies** (as defined in CTA 2010 s.439).
+
+**s.811 Disregarded Income Exception**:
+Dividends from **public listed companies** qualify for relief under the disregarded income rules in ITA 2007 s.811 and are NOT subject to TNR.
+
+**Daniel's Position**:
+- AI-5 is a **public listed company** (stated in question)
+- Therefore, AI-5 should **NOT** be treated as a close company
+- The £40 million dividend received from AI-5, though subject to UK tax in general terms, **qualifies for relief under s.811**
+- **Conclusion**: The dividend is **NOT taxable** in the UK under TNR rules
+
+---
+
+**4. SUMMARY OF UK TAX POSITION**
+
+| Item | Amount | Tax Treatment |
+|------|--------|---------------|
+| Capital gain on AI-5 shares (2023/24) | £160 million | **Taxable in 2024/25** under TNR rules (ITA 2007 s.809H) |
+| Dividend from AI-5 (2023/24) | £40 million | **Not taxable** - s.811 disregarded income (public company exception) |
+
+**Tax Computation for 2024/25**:
+
+```
+Chargeable Gains (TNR catch):
+Disposal of AI-5 shares                         £160,000,000
+Less: Annual Exempt Amount (2024/25)            (£3,000)
+                                               _____________
+Taxable Gains                                   £159,997,000
+                                               =============
+
+Capital Gains Tax (assuming higher rate):
+£159,997,000 @ 20%                              £31,999,400
+```
+
+**Dividend**: £40 million - no UK tax liability due to s.811 disregarded income relief.
+
+---
+
+**Examiner's Marking Approach** (5 marks total):
+
+| Point | Marks |
+|-------|-------|
+| TNR conditions identified (4 out of 7 years + not exceeding 5 years) | 1 mark |
+| TNR applies to Daniel (satisfied conditions) | 0.5 marks |
+| Gain of £160m taxable in year of return (2024/25) under s.809H | 1.5 marks |
+| AI-5 is public company, therefore not close company | 0.5 marks |
+| Dividend qualifies for s.811 disregarded income relief | 1 mark |
+| Conclusion: gain taxable, dividend not taxable | 0.5 marks |
+| **Total** | **5 marks** |
+
+---
+
+**Time Management**:
+- Read and identify TNR trigger: 1 minute
+- Apply 4/7 year and 5-year tests: 1.5 minutes
+- Capital gains analysis: 2 minutes
+- Dividend/s.811 analysis: 1.5 minutes
+- Write conclusion: 1 minute
+- **Total: 7 minutes** (comfortably within 8-minute target for 5 marks)
+
+---
+
+### Error Prevention: Top 10 Mistakes to Avoid
+
+#### Mistake #1: Confusing "4 out of 7" with "7 out of 10"
+**❌ Wrong**: "TNR applies if UK resident for 7 out of 10 years before departure"
+**✅ Right**: "TNR applies if UK resident for **at least 4 of the 7 tax years** immediately before the year of departure"
+
+**Why it matters**: Gets 0 marks for incorrect statutory test. The "4 out of 7" test is for TNR; "15 out of 20" is for deemed domicile.
+
+---
+
+#### Mistake #2: Thinking 5 Years Means 5 Calendar Years
+**❌ Wrong**: "Left March 2020, returned April 2025 = 5 calendar years = TNR doesn't apply"
+**✅ Right**: "Count complete **tax years of non-residence**. If only 4 full tax years as non-resident, TNR still applies"
+
+**Why it matters**: Difference between escaping TNR or being caught. Must count tax years, not calendar years.
+
+---
+
+#### Mistake #3: Applying TNR to UK Land Disposals
+**❌ Wrong**: "Sold UK property while non-resident. Gain taxed under TNR in year of return"
+**✅ Right**: "UK land disposals are **NOT** subject to TNR. They are directly taxable on non-residents under TCGA 1992 Sch 4ZZA at time of disposal"
+
+**Why it matters**: Loses 2-3 marks for wrong timing and wrong rule. UK land is specifically excluded from TNR.
+
+---
+
+#### Mistake #4: Forgetting s.811 Disregarded Income for Public Company Dividends
+**❌ Wrong**: "Received dividend during non-residence. TNR applies to all dividends."
+**✅ Right**: "TNR applies to **close company** dividends only. Public company dividends qualify for s.811 disregarded income relief"
+
+**Why it matters**: Loses 1-2 marks. Must distinguish close vs public companies.
+
+---
+
+#### Mistake #5: Applying TNR to Assets Acquired After Departure
+**❌ Wrong**: "Bought shares while non-resident, sold them, then returned to UK. TNR applies."
+**✅ Right**: "TNR only applies to assets **owned BEFORE departure**. Assets acquired during non-residence escape TNR"
+
+**Why it matters**: Fundamental misunderstanding of anti-avoidance purpose. TNR targets pre-departure assets only.
+
+---
+
+#### Mistake #6: Wrong Tax Year for TNR Gains
+**❌ Wrong**: "Gain arose in 2023/24, so taxed in 2023/24"
+**✅ Right**: "Gain arose in 2023/24, but **treated as arising in year of return** (2024/25) under TNR rules"
+
+**Why it matters**: Gets timing completely wrong. The whole point of TNR is to defer taxation to year of return.
+
+---
+
+#### Mistake #7: DTR Calculation Using Wrong Tax
+**❌ Wrong**: "Foreign WHT 30% by treaty reduced to 10%. DTR credit = 30%"
+**✅ Right**: "DTR based on **actual tax paid** after treaty relief. If 10% paid after treaty, DTR = 10% (s.6A requires treaty claims first)"
+
+**Why it matters**: Overstates DTR credit, loses 2-3 marks in calculation.
+
+---
+
+#### Mistake #8: Thinking Excess Foreign Tax Can Be Refunded
+**❌ Wrong**: "Foreign tax £10k, UK tax £7k, so get £3k refund"
+**✅ Right**: "DTR = lower of foreign (£10k) or UK tax (£7k) = £7k. Excess £3k is **wasted** (no refund or c/f)"
+
+**Why it matters**: Shows lack of understanding of credit relief mechanics. Excess foreign tax is lost.
+
+---
+
+#### Mistake #9: Ignoring Close Company Definition
+**❌ Wrong**: "Company has 10 shareholders, so not a close company"
+**✅ Right**: "Close company under CTA 2010 s.439 = controlled by 5 or fewer participators OR any number of director-participators. Must check control, not just number of shareholders"
+
+**Why it matters**: Wrong conclusion on whether TNR applies to dividends. Could lose 2-4 marks.
+
+---
+
+#### Mistake #10: Not Counting Departure Year Correctly for 4/7 Test
+**❌ Wrong**: "Left in 2023/24, so count 2023/24 back to 2016/17 = 7 years"
+**✅ Right**: "Count 7 years **immediately BEFORE the year of departure**. If left in 2023/24, count 2022/23 back to 2016/17"
+
+**Why it matters**: Gets the 4/7 test wrong, fundamental error. The departure year itself is not counted in the "7 years before departure."
+
+---
+
+### Quick Reference: TNR & DTR Essentials
+
+**TNR Statutory Tests (ITA 2007 s.809H)**:
+```
+1. UK resident 4+ of 7 years before departure    ✓
+2. Non-resident period ≤ 5 tax years             ✓
+3. Returns to UK residence                        ✓
+→ TNR APPLIES
+```
+
+**TNR Scope**:
+- ✅ Capital gains on pre-departure assets (except UK land)
+- ✅ Close company dividends during non-residence
+- ❌ UK land disposals (taxed directly under Sch 4ZZA)
+- ❌ Public company dividends (s.811 disregarded income)
+- ❌ Assets acquired after departure
+
+**DTR Formula**:
+```
+Credit = LOWER OF:
+  (a) Foreign tax actually paid (after treaty claims)
+  (b) UK tax on same income/gain
+```
+
+**Key Legislation**:
+- ITA 2007 s.809H (TNR rules)
+- ITA 2007 s.811 (disregarded income)
+- ITA 2007 s.6A (treaty relief priority)
+- TCGA 1992 Sch 4ZZA (non-resident CGT - UK land)
+- CTA 2010 s.439 (close company definition)
+- TIOPA 2010 Part 2 (unilateral relief)
+
+**Common Mark Traps**:
+- Forgetting s.811 exception for public companies: -1 to -2 marks
+- Wrong timing (taxing in year of disposal vs year of return): -2 to -3 marks
+- Applying TNR to UK land: -2 marks
+- Wrong DTR calculation (using treaty rate not actual tax): -2 to -4 marks
+
+**Time Allocation (Part A question, 5-8 marks)**:
+- Identify TNR conditions: 1-2 minutes
+- Apply to facts: 2-3 minutes
+- Calculate/conclude: 2-3 minutes
+- Total: 6-8 minutes
+
+---
+
+*END OF SECTION 2.1.5 - This completes Part A: Complex Analysis Questions (Section 2.1)*
+
+---
 
