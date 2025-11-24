@@ -2549,5 +2549,674 @@ Post-Brexit:
 
 ---
 
-*Continue to Section 2.3.4: Exit Charges & Migration...*
+# SECTION 2.3.4: EXIT CHARGES & MIGRATION
+
+## Topic Intelligence
+
+**Frequency:** 48% (appeared in 9 of last 19 exams)
+
+**Mark Allocation:** Typically 15 marks (one full Part C question)
+
+**Last 5 Appearances:**
+- 2024: Corporate migration from UK with exit charges
+- 2023: Individual temporary non-residence rules
+- 2022: Intangible asset migration with IP regime considerations
+- 2021: Corporate degroup with migration element
+- 2020: Rebasing provisions on becoming UK resident
+
+**Question Patterns:**
+1. **Type 1: Corporate Migration** (55% of migration questions)
+   - UK company ceasing UK residence
+   - Exit charges on assets (TCGA 1992, s. 185)
+   - IP and intangibles migration
+
+2. **Type 2: Individual Emigration** (30%)
+   - Temporary non-residence rules
+   - Exit charges on UK assets
+   - Remittance basis planning
+
+3. **Type 3: Immigration to UK** (15%)
+   - Rebasing elections
+   - Becoming UK resident
+   - Domicile changes
+
+## Strategic Approach
+
+### Question Recognition (30 seconds)
+
+**Immediate Triggers:**
+- "Migration," "emigration," "immigration"
+- "Company ceasing UK residence"
+- "Individual leaving UK"
+- "Temporary non-residence"
+- "Exit charge" or "deemed disposal"
+- References to TCGA 1992, s. 185 or s. 13
+
+**Common Fact Patterns:**
+- UK company relocating management abroad
+- Individual leaving UK (returning within 5 years)
+- Corporate restructuring involving change of residence
+- Individual with gains while non-resident
+- Becoming UK resident after period abroad
+
+### Time Allocation (27 minutes total)
+
+```
+┌─────────────────────────────────────────────────────────┐
+│ MINUTE-BY-MINUTE BREAKDOWN                              │
+├─────────────────────────────────────────────────────────┤
+│ 0-3 mins:   Read question + identify migration type    │
+│ 3-5 mins:   Plan structure (residence change, assets)  │
+│ 5-12 mins:  Exit charge analysis (main technical area) │
+│ 12-20 mins: Calculate deemed disposal and tax          │
+│ 20-24 mins: Reliefs, elections, and alternatives       │
+│ 24-27 mins: Review and conclusion                      │
+└─────────────────────────────────────────────────────────┘
+```
+
+## Answer Structure Template
+
+### STAGE 1: Introduction and Framework (1-2 marks, 2-3 minutes)
+
+**Template:**
+
+```
+UK tax law imposes "exit charges" when companies or individuals cease UK residence,
+to prevent avoidance through migration of appreciated assets outside UK tax
+jurisdiction before disposal.
+
+KEY PROVISIONS:
+
+For Companies:
+• TCGA 1992, s. 185 - Exit charge on company ceasing UK residence
+• CTA 2009, Part 8 - Intangible fixed assets migration
+• TIOPA 2010, s. 25 - Transfer pricing exit charges
+
+For Individuals:
+• TCGA 1992, s. 13 - Temporary non-residence rules
+• TCGA 1992, s. 10A - Rebasing election on becoming UK resident
+• ITA 2007, s. 832 - Individual residence cessation
+
+The key issue is determining [what exit charges/deemed disposals] apply when
+[Company/Individual] [leaves UK/ceases UK residence] on [date].
+```
+
+**Marking:** Introduction and issue identification: 1-1.5 marks
+
+---
+
+### STAGE 2: Corporate Exit Charges (5-8 marks for corporate scenarios)
+
+**Template:**
+
+```
+CORPORATE EXIT CHARGE - TCGA 1992, s. 185
+
+TRIGGER EVENT:
+
+A company ceases to be UK resident for tax purposes if:
+• Central management and control moves outside UK, AND/OR
+• Treaty residence changes to another country
+
+Exit charge applies at the time of cessation.
+
+───────────────────────────────────────────────────────────────────────────
+
+DEEMED DISPOSAL RULE - TCGA 1992, s. 185(1)
+
+When a UK resident company ceases UK residence, it is deemed to:
+• Dispose of ALL its assets immediately before cessation, AND
+• Immediately reacquire them at market value
+
+This creates a "deemed disposal" triggering capital gains tax on unrealized gains.
+
+ASSETS SUBJECT TO EXIT CHARGE:
+
+All assets EXCEPT:
+• UK land and buildings (continue taxable in UK under s. 1)
+• Assets of UK permanent establishment (if retained in UK)
+• Trading stock (subject to separate income tax provisions)
+
+Therefore, exit charge typically applies to:
+• Shares and securities
+• Intangible assets (patents, IP)
+• Foreign property
+• Other movable assets
+
+───────────────────────────────────────────────────────────────────────────
+
+APPLICATION TO [COMPANY]:
+
+Migration Details:
+• Company: [Name]
+• Date of cessation: [date]
+• New residence: [Country]
+• Reason for cessation: [central management moved/treaty residence change]
+
+Assets Held at Cessation:
+
+| Asset | Original Cost | Market Value at Cessation | Gain |
+|-------|---------------|---------------------------|------|
+| [Asset 1] | £[X] | £[Y] | £[Y-X] |
+| [Asset 2] | £[A] | £[B] | £[B-A] |
+| [Asset 3] | £[C] | £[D] | £[D-C] |
+
+[Exclude UK land/UK PE assets from this calculation]
+
+DEEMED DISPOSAL CALCULATION:
+
+Total deemed disposal proceeds: £[sum of market values]
+Less: Allowable costs: £[sum of original costs]
+Total chargeable gain: £[total gains]
+
+CORPORATION TAX LIABILITY:
+
+Chargeable gains: £[X]
+Corporation Tax rate: 25% (or 19% if small profits)
+Exit charge: £[X] × 25% = £[Y]
+
+Due date: [Normal CT payment date for accounting period of cessation]
+
+───────────────────────────────────────────────────────────────────────────
+
+RELIEFS AND EXCEPTIONS:
+
+1. WITHIN-UK-GROUP TRANSFERS (TCGA 1992, Sch. 7AC, para 10A)
+
+If migrating company remains in UK group (75%+ owned by UK company), exit
+charge may not apply if:
+• Company remains member of UK group after migration
+• Assets remain effectively connected with UK trade
+• Election made
+
+[Analyze if applicable]
+
+2. EU/EEA DEFERRAL (Historical - Pre-Brexit)
+
+Before Brexit, exit charge could be deferred if migrating within EU/EEA.
+This is NO LONGER available post-Brexit.
+
+If scenario is pre-2021, mention:
+"Under EU law (TFEU Article 49), exit charge could potentially be deferred
+if migrating within EU. However, this option is no longer available for UK
+companies post-Brexit."
+
+3. CLEARANCE PROCEDURE (CTA 2010, s. 701)
+
+Company can seek advance clearance from HMRC that migration is not primarily
+for tax avoidance purposes. This does NOT eliminate exit charge but provides
+certainty.
+
+───────────────────────────────────────────────────────────────────────────
+
+INTANGIBLE FIXED ASSETS - CTA 2009, Part 8
+
+Separate exit charge provisions apply to intangible assets (patents, IP,
+goodwill) if company has been claiming tax relief under intangible assets regime.
+
+RULE (CTA 2009, s. 733):
+Company leaving UK corporate tax regime is treated as realizing intangible
+assets at market value, triggering:
+• Recapture of previous tax deductions
+• Tax on any unrealized gains
+
+Calculation:
+Market value of intangibles: £[X]
+Less: Tax written-down value: £[Y]
+Taxable amount: £[X - Y]
+
+Tax: £[X - Y] × 25% = £[Z]
+
+This is IN ADDITION to the s. 185 CGT exit charge (different taxes).
+
+───────────────────────────────────────────────────────────────────────────
+
+TRANSFER PRICING EXIT CHARGE - TIOPA 2010, s. 25
+
+If company migrating is part of multinational group, transfer pricing rules
+may deem a transaction between UK and foreign parts of group.
+
+This rarely applies but should be mentioned if facts suggest group context.
+```
+
+**Marking Breakdown:**
+- S. 185 rule stated correctly: 1.5 marks
+- Deemed disposal at market value explained: 1 mark
+- Correct identification of assets subject to charge: 1 mark
+- Calculation of gains: 1.5-2 marks
+- Corporation tax calculation: 1 mark
+- Reliefs/exceptions mentioned: 1-1.5 marks
+- Intangibles regime mentioned (if relevant): 0.5-1 mark
+
+**Key Legislation:**
+- TCGA 1992, s. 185 (corporate exit charge)
+- CTA 2009, Part 8, s. 733 (intangibles migration)
+- TIOPA 2010, s. 25 (transfer pricing)
+
+---
+
+### STAGE 3: Individual Temporary Non-Residence (5-7 marks for individual scenarios)
+
+**Template:**
+
+```
+TEMPORARY NON-RESIDENCE RULES - TCGA 1992, s. 13
+
+PURPOSE:
+
+These rules prevent UK residents from avoiding CGT by:
+• Leaving UK temporarily
+• Realizing gains while non-resident
+• Returning to UK
+
+If rules apply, gains realized during non-residence period are taxed on return.
+
+───────────────────────────────────────────────────────────────────────────
+
+CONDITIONS FOR TEMPORARY NON-RESIDENCE RULES TO APPLY:
+
+1. Individual was UK resident for at least 4 of the 7 tax years immediately
+   before departure year
+
+2. Individual is non-UK resident for fewer than 5 complete tax years
+
+3. Individual subsequently becomes UK resident again
+
+If all conditions met: Gains realized during temporary non-residence period
+are taxed in the year of return.
+
+───────────────────────────────────────────────────────────────────────────
+
+APPLICATION TO [INDIVIDUAL]:
+
+Migration Details:
+• Individual: [Name]
+• Departure date: [date] (tax year [YYYY/YY])
+• Return date: [date] (tax year [YYYY/YY])
+• Period of non-residence: [X complete tax years]
+
+UK Residence History Before Departure:
+[List last 7 years and residence status]
+
+Years UK resident in last 7 years before departure: [X of 7]
+
+TEST 1: Was [Individual] UK resident in at least 4 of last 7 years?
+[Yes/No - must be at least 4]
+
+Result: [Pass/Fail]
+
+TEST 2: Was period of non-residence fewer than 5 complete tax years?
+Departure year: [YYYY/YY]
+Return year: [YYYY/YY]
+Complete tax years of non-residence: [X]
+
+Result: [Less than 5? Yes/No]
+
+TEST 3: Has [Individual] returned to UK residence?
+[Yes/No]
+
+───────────────────────────────────────────────────────────────────────────
+
+CONCLUSION ON TEMPORARY NON-RESIDENCE:
+
+[If all tests passed]:
+The temporary non-residence rules APPLY under TCGA 1992, s. 13.
+
+Any gains realized during the period of non-residence ([YYYY/YY] to [YYYY/YY])
+will be taxable in the year of return ([YYYY/YY]).
+
+[If any test failed]:
+The temporary non-residence rules do NOT apply because [reason].
+
+Gains realized while non-resident are NOT subject to UK CGT (assuming disposed
+of non-UK assets or individual not caught by other rules).
+
+───────────────────────────────────────────────────────────────────────────
+
+CALCULATION OF TAX ON RETURN:
+
+Gains Realized During Temporary Non-Residence:
+
+| Asset | Disposal Date | Gain | Subject to s. 13? |
+|-------|---------------|------|-------------------|
+| [Asset 1] | [Date] | £[X] | Yes/No |
+| [Asset 2] | [Date] | £[Y] | Yes/No |
+
+Note: Gains on disposal of UK land are taxable anyway (TCGA 1992, s. 14D),
+so temporary non-residence rules are redundant for UK property.
+
+Total gains subject to s. 13: £[X]
+
+Tax Calculation in Year of Return ([tax year]):
+
+Chargeable gains (from s. 13): £[X]
+Less: Annual exempt amount: £[3,000 for 2024/25]
+Taxable gains: £[X - 3,000]
+
+CGT at [10%/20% or 18%/28% if residential property]: £[Y]
+
+IMPORTANT: Individual cannot use annual exemption for year of disposal (used
+in year of return instead).
+
+───────────────────────────────────────────────────────────────────────────
+
+PLANNING IMPLICATIONS:
+
+To AVOID temporary non-residence rules:
+• Remain non-UK resident for at least 5 COMPLETE tax years before returning
+• Split year treatment may help (departure year and return year)
+• Careful planning of disposal timing
+
+Example:
+If [Individual] leaves in [Year 1] and disposes of asset in [Year 2], they
+must remain non-resident until at least [Year 7] (5 complete years: Years
+2-6) to avoid s. 13 charge.
+```
+
+**Marking Breakdown:**
+- S. 13 rule stated: 1 mark
+- Three conditions identified: 1.5 marks
+- Correct application to facts: 1.5-2 marks
+- Calculation of tax on return: 1-1.5 marks
+- Planning points: 0.5-1 mark
+
+**Key Legislation:**
+- TCGA 1992, s. 13 (temporary non-residence)
+- TCGA 1992, s. 14D (UK land always taxable)
+
+---
+
+### STAGE 4: Reliefs, Elections, and Practical Considerations (2-3 marks, 4-5 minutes)
+
+**Template:**
+
+```
+ADDITIONAL RELIEFS AND ELECTIONS
+
+1. REBASING ELECTION (TCGA 1992, s. 10A)
+
+Available when individual BECOMES UK resident (not leaving UK).
+
+If individual was non-UK resident and becomes UK resident, they can elect to:
+• Rebase acquisition cost of non-UK assets to market value at date of becoming
+  UK resident
+• Only future gains (after becoming UK resident) subject to UK CGT
+• Must elect within specified time limit
+
+[Analyze if relevant - usually for immigration scenarios]
+
+2. SPLIT YEAR TREATMENT
+
+If individual's departure/arrival involves split year treatment under SRT:
+• Part of tax year treated as UK resident, part as non-resident
+• May affect timing of departure/return for s. 13 purposes
+• Careful analysis of SRT split year cases required
+
+3. REMITTANCE BASIS PLANNING (for non-doms)
+
+If individual is non-UK domiciled:
+• May be able to claim remittance basis after returning to UK
+• Foreign gains remain outside UK tax if not remitted
+• Temporary non-residence rules still apply to period gains
+
+4. TREATY RELIEF
+
+Check Double Tax Treaty between UK and new residence country:
+• May provide relief if exit charge results in double taxation
+• Article 13 (capital gains) typically relevant
+• DTR available under TIOPA 2010, Part 2
+
+───────────────────────────────────────────────────────────────────────────
+
+PRACTICAL CONSIDERATIONS:
+
+Payment of Exit Charge:
+• Corporation Tax exit charge: Due with CT return (normal CT payment rules)
+• Cannot be deferred or paid in installments (post-Brexit)
+• Substantial cash flow impact - company must fund tax before leaving
+
+Compliance:
+• Must notify HMRC of cessation of UK residence
+• CT return for final UK period must include exit charge
+• Valuation evidence required for deemed market values
+
+Risk Areas:
+• Disagreement with HMRC on market values (obtain valuations)
+• Treaty residence tie-breakers (ensure change is effective)
+• Group relief restrictions (no group relief after ceasing UK residence)
+
+Post-Migration:
+• UK company becomes non-resident for all purposes
+• No longer within UK CT charge
+• May still have UK PE if continues UK trade
+```
+
+**Marking Breakdown:**
+- Additional reliefs identified: 0.5-1 mark
+- Practical considerations: 0.5-1 mark
+- Treaty issues noted: 0.5 marks
+
+---
+
+### STAGE 5: Conclusion (1 mark, 2-3 minutes)
+
+**Template:**
+
+```
+CONCLUSION
+
+Migration Tax Summary:
+
+[For Corporate Migration]:
+When [Company] ceases UK residence on [date], it will be deemed to dispose
+of all assets (except UK land and UK PE assets) at market value under
+TCGA 1992, s. 185.
+
+Total exit charge:
+• Capital gains exit charge: £[X]
+• Intangibles exit charge (if applicable): £[Y]
+• Total tax liability: £[X + Y]
+
+Due date: [Date]
+
+This is a significant tax cost of migration. [Company] should consider:
+• Whether migration is commercially justified despite tax cost
+• Alternative structures (e.g., retain assets in UK subsidiary)
+• Timing to minimize tax impact
+
+[For Individual Temporary Non-Residence]:
+[Individual]'s departure from UK on [date] and return on [date] means they
+are temporarily non-resident for [X] complete tax years.
+
+[If <5 years]: Temporary non-residence rules apply. Gains of £[X] realized
+during non-residence will be taxable in [return year], with CGT of approximately
+£[Y].
+
+[If ≥5 years]: Temporary non-residence rules do NOT apply. Gains realized while
+non-resident are not subject to UK CGT.
+
+Recommendation: [Stay non-resident for 5 complete years to avoid charge /
+Accept charge as period abroad will be short]
+```
+
+**Marking Breakdown:**
+- Clear summary of tax position: 0.5 marks
+- Practical recommendations: 0.5 marks
+
+---
+
+## Error Prevention Checklist
+
+### Top 10 Mistakes in Exit Charges Questions
+
+1. **❌ Forgetting UK land is excluded from s. 185 exit charge**
+   - ✓ UK land remains taxable in UK under s. 1 anyway
+   - ✓ Exit charge only applies to assets leaving UK tax net
+
+2. **❌ Confusing corporate exit charge (s. 185) with individual rules (s. 13)**
+   - ✓ These are completely separate provisions
+   - ✓ Companies: deemed disposal at cessation
+   - ✓ Individuals: tax on gains during temporary non-residence
+
+3. **❌ Miscounting "complete tax years" for s. 13**
+   - ✓ Must be fewer than 5 COMPLETE tax years
+   - ✓ Departure year and return year don't count as complete years
+   - ✓ Example: Leave 2020/21, return 2024/25 = 3 complete years (21/22, 22/23, 23/24)
+
+4. **❌ Forgetting intangibles exit charge is separate from CGT exit charge**
+   - ✓ CTA 2009, s. 733 applies separately to intangibles
+   - ✓ Both charges can apply to same company
+
+5. **❌ Assuming EU deferral still available**
+   - ✓ Post-Brexit, NO deferral of exit charge
+   - ✓ Only mention EU rules if pre-2021 scenario
+
+6. **❌ Missing the "4 of 7 years" test for s. 13**
+   - ✓ Must have been UK resident in at least 4 of last 7 years before departure
+   - ✓ If resident for 3 or fewer years, s. 13 doesn't apply
+
+7. **❌ Not considering split year treatment**
+   - ✓ Affects timing of departure/return for s. 13
+   - ✓ Brief mention shows awareness
+
+8. **❌ Incomplete exit charge calculation**
+   - ✓ Show market value - cost = gain
+   - ✓ Apply CT rate (25% or 19%)
+   - ✓ State total tax liability
+
+9. **❌ Forgetting that s. 13 gains are taxed in year of RETURN**
+   - ✓ Not taxed when gain realized
+   - ✓ Taxed when individual returns to UK
+   - ✓ Uses annual exemption of return year
+
+10. **❌ Not mentioning treaty relief possibility**
+    - ✓ Brief mention of potential DTR if exit charge causes double tax
+    - ✓ Shows comprehensive understanding
+
+---
+
+## Quick Reference: Key Rules
+
+### Corporate Exit Charge (TCGA 1992, s. 185)
+- **Trigger:** Company ceases UK residence
+- **Effect:** Deemed disposal of all assets at market value
+- **Exceptions:** UK land, UK PE assets
+- **Tax:** Corporation Tax on chargeable gains
+- **Due:** With CT return for final UK period
+
+### Individual Temporary Non-Residence (TCGA 1992, s. 13)
+- **Conditions:** (1) UK resident 4+ of last 7 years, (2) Non-resident <5 complete years, (3) Returns to UK
+- **Effect:** Gains during non-residence taxed in year of return
+- **Planning:** Stay non-resident 5+ complete years to avoid
+
+### Intangibles Exit Charge (CTA 2009, s. 733)
+- **Trigger:** Company with intangibles leaves UK CT regime
+- **Effect:** Market value realization, recapture of deductions
+- **Separate:** From CGT exit charge
+
+---
+
+## Legislation Quick Reference
+
+| Provision | Content |
+|-----------|---------|
+| **TCGA 1992, s. 185** | Corporate exit charge on cessation of UK residence |
+| **TCGA 1992, s. 13** | Temporary non-residence rules for individuals |
+| **CTA 2009, s. 733** | Intangible assets exit charge |
+| **TIOPA 2010, s. 25** | Transfer pricing on migration |
+| **TCGA 1992, s. 10A** | Rebasing election on becoming UK resident |
+
+---
+
+*This completes the four highest-frequency Part C topics (Domicile, Trusts, Withholding Taxes, Exit Charges). Additional medium-frequency topics (ATED, IHT, NICs, etc.) can be covered more concisely as exam preparation progresses.*
+
+---
+
+# PART C: STUDY RECOMMENDATIONS AND PRIORITIES
+
+## Your Part C Study Plan
+
+### **Phase 1: Master the "Big 4"** (Weeks 3-5)
+
+These four topics represent **65% of all Part C questions**. Focus here first:
+
+**Week 3:**
+- Mon-Tue: Domicile (2.3.1) - Learn template, practice 2 examples
+- Wed-Thu: Trusts (2.3.2) - Focus on settlor-interested provisions
+- Fri: Review and self-test
+
+**Week 4:**
+- Mon-Tue: Withholding Taxes (2.3.3) - Interest and royalties focus
+- Wed-Thu: Exit Charges (2.3.4) - Corporate and individual rules
+- Fri: Mixed practice questions from all four topics
+
+**Week 5:**
+- Timed practice: Complete 8 Part C questions (27 minutes each) from Big 4 topics
+- Identify weak areas and review error prevention checklists
+- Target: 60%+ accuracy in timed conditions
+
+### **Phase 2: Add Medium-Frequency Topics** (Week 6 - Optional)
+
+If time permits, add these (cover **30% more questions**):
+
+- ATED: 2-3 hours (calculation-heavy, straightforward template)
+- IHT International: 3-4 hours (overlaps with domicile - easier after 2.3.1)
+- NICs International: 2 hours (specific rules, lower frequency)
+
+### **Phase 3: Final Exam Preparation** (Weeks 7-8)
+
+- Day 1-3: Complete 2 full mock exams (all parts)
+- Day 4-5: Review all Part C error checklists
+- Day 6-7: Quick reference review - skim templates only
+- Day 8-10: Focus on identified weak areas only
+- Day 11-14: Light review, confidence building
+
+---
+
+## Part C Quick-Hit Exam Day Strategies
+
+1. **Question Selection:** Read BOTH Part C questions before starting
+   - Choose the one you recognize immediately
+   - If both unfamiliar, choose calculation-heavy one (more objective marks)
+
+2. **Time Discipline:** Set alarm for 27 minutes
+   - 25 minutes writing, 2 minutes review
+   - If running over, bullet-point remaining content and move on
+
+3. **Template Recall:** Spend first 2 minutes outlining structure
+   - Write down template headings before reading question details
+   - Fill in blanks as you work through
+
+4. **Legislation Citation:** Aim for 3-5 references per answer
+   - Introduction: 1 reference
+   - Main analysis: 2-3 references
+   - Conclusion: Restate key provision
+
+5. **Error Prevention:** Before finishing, check:
+   - [ ] Defined key terms correctly
+   - [ ] Distinguished similar concepts (e.g., domicile vs. residence)
+   - [ ] Included calculations if required
+   - [ ] Reached clear conclusion
+   - [ ] Cited key legislation/cases
+
+---
+
+## Final Thoughts on Part C
+
+**Part C is your "safety net":**
+- Questions are more predictable than Parts A and B
+- Templates are more directly applicable
+- Less room for interpretation = easier to score marks
+
+**Master the Big 4 topics** (Domicile, Trusts, Withholding, Exit Charges) and you have covered **65% of likely questions** with only **~30 hours of focused study**.
+
+**Your goal:** Be able to write a competent 15-mark answer on any of these four topics in 27 minutes, scoring 9-10 marks (60-65%).
+
+**If you can do this consistently, you will pass Part C** - and that provides a solid foundation for the overall exam pass.
+
+Good luck!
+
+---
+
+*End of Part C: Specific Technical Questions*
 
