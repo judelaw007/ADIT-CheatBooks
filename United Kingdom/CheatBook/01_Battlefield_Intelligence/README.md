@@ -17,7 +17,7 @@ Strategic breakdown of the ADIT UK syllabus with actionable priorities:
 - Legislation reference priorities
 - Exam readiness checklist
 
-📄 **Document**: [Syllabus_Decoder/SYLLABUS_DECODER.md](./Syllabus_Decoder/SYLLABUS_DECODER.md)
+📄 **Document**: [1.1_Syllabus_Decoder.md](./1.1_Syllabus_Decoder.md)
 
 ---
 
@@ -33,7 +33,7 @@ Comprehensive analysis of all past questions from 2020-2025:
 - Strategic insights and 1-month study prioritization
 - Topic correlation patterns (which topics appear together)
 
-📄 **Document**: [Past_Questions_Analysis/PAST_QUESTIONS_ANALYSIS.md](./Past_Questions_Analysis/PAST_QUESTIONS_ANALYSIS.md)
+📄 **Document**: [1.2_Past_Questions_Analysis.md](./1.2_Past_Questions_Analysis.md)
 
 **Key Finding**: Individual Residence (100%), Domicile (88%), and Remittance Basis (75%) are THE critical topics.
 **June 2025 Alert**: NEW topics appeared - Diverted Profits Tax, Offshore Insurance Bonds, Protected Settlements!
@@ -53,7 +53,7 @@ Decode how examiners allocate marks and what they reward:
 - Partial credit and marking tolerance
 - Mental models for different question types
 
-📄 **Document**: [Examiner_Psychology/EXAMINER_PSYCHOLOGY.md](./Examiner_Psychology/EXAMINER_PSYCHOLOGY.md)
+📄 **Document**: [1.3_Examiner_Psychology.md](./1.3_Examiner_Psychology.md)
 
 **Key Insight**: Application to facts earns 45% of Part A marks - don't just recite rules!
 
@@ -73,7 +73,7 @@ Framework for predicting likely exam questions based on current developments:
 - Brexit considerations (declining relevance)
 - Sample predictions for 2025 exams
 
-📄 **Document**: [Question_Spotting/QUESTION_SPOTTING_GUIDE.md](./Question_Spotting/QUESTION_SPOTTING_GUIDE.md)
+📄 **Document**: [1.4_Question_Spotting_Guide.md](./1.4_Question_Spotting_Guide.md)
 
 **Hot Topic Alert**: Pillar Two (Global Minimum Tax) has 70% probability for 2025 - UK implementation makes it exam-ready.
 

@@ -44,33 +44,30 @@ This is the core of the CheatBook - template-driven frameworks for every major q
 - Withholding Tax
 - Other miscellaneous topics
 
+## Current Content
+
+### Part A Templates
+- **[Part_A_Complex_Analysis_Questions.md](./Part_A_Complex_Analysis_Questions.md)** - Comprehensive guide covering all Part A question types with worked examples from 2020-2025 exams
+- **[Part_A_Residence_Template.md](./Part_A_Residence_Template.md)** - Quick reference template for Corporate and Individual Residence questions
+
+### Part B Templates
+- **[Part_B_CFC_Template.md](./Part_B_CFC_Template.md)** - Controlled Foreign Companies question template
+
+### Part C Templates
+- **[Part_C_Domicile_Template.md](./Part_C_Domicile_Template.md)** - Domicile and deemed domicile question template
+
 ## Template Structure
 
-Each topic folder contains:
+Each template contains:
 
-1. **TEMPLATE.md**: Master template with question framework
-   - Recognition triggers (how to identify this question type)
-   - Core structure/outline
-   - Key legislation references
-   - Common variations
-   - Time allocation within the question
-
-2. **Worked_Examples.md**: Past paper questions with solutions
-   - Annotated solutions showing template application
-   - Marking scheme breakdown
-   - Common errors to avoid
-   - Examiner's preferred approach
-
-3. **Key_Points.md**: Critical knowledge for this topic
-   - Essential rules and definitions
-   - Numerical thresholds and limits
-   - Recent legislative changes
-   - Interaction with other topics
-
-4. **Practice_Drills.md**: Focused exercises
-   - Quick-fire questions
-   - Calculation practice
-   - Scenario variations
+1. **Question Recognition Triggers** - How to identify this question type
+2. **Time Allocation** - Minutes per section based on 1.8 min/mark rule
+3. **Answer Structure Template** - Step-by-step framework with sample wording
+4. **Key Legislation References** - Sections to cite
+5. **Common Variations** - Different ways the topic may appear
+6. **Common Pitfalls to Avoid** - Mistakes that lose marks
+7. **Marking Scheme Breakdown** - How examiners allocate marks
+8. **Quick Checklist** - Final review before moving on
 
 ## How to Use This Section
 
