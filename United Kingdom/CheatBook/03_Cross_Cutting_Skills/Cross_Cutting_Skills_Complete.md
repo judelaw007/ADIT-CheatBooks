@@ -24,7 +24,7 @@ This chapter provides **practical frameworks** to develop these skills systemati
 |-----------|-------|-----------------|------------------|
 | Part A (Compulsory) | 50 | 90 minutes | 1.8 min |
 | Part B (Choice of 1) | 20 | 36 minutes | 1.8 min |
-| Part C (Choice of 1) | 30 | 54 minutes | 1.8 min |
+| Part C (Choose 2 from 5) | 30 | 54 minutes (27 min each) | 1.8 min |
 | **Total** | **100** | **180 minutes** | **1.8 min** |
 
 **Critical Insight**: You have exactly 1.8 minutes per mark. Every minute spent on a 2-mark question beyond 3.6 minutes is stolen from another question.
@@ -83,26 +83,38 @@ MINUTES 30-36:  Review, add missing points, check coherence
 
 ## Part C Time Allocation (54 Minutes for 30 Marks)
 
-### The 54-Minute Part C Blueprint
+### Structure: Choose 2 from 5 Questions (15 marks each)
 
-Part C combines technical depth with practical application:
+Part C offers strategic choice - you pick 2 questions from 5 options. Each question is worth 15 marks, giving you approximately **27 minutes per question**.
+
+### The 27-Minute Per Question Blueprint
+
+For EACH Part C question:
 
 ```
-MINUTES 0-5:    Read scenario, identify all issues, note entities
-MINUTES 5-10:   Plan approach, list topics to cover
-MINUTES 10-45:  Write answer section by section
-MINUTES 45-54:  Review, verify calculations, add missing analysis
+MINUTES 0-2:    Read question, identify specific requirement
+MINUTES 2-4:    Quick plan (bullet points)
+MINUTES 4-22:   Write structured answer
+MINUTES 22-27:  Review, add points, check completeness
 ```
 
-### Part C Typical Structure
+### Total Part C Time Management
+
+```
+MINUTES 0-3:    Scan all 5 questions, select your 2 strongest
+MINUTES 3-30:   Complete Question 1 (27 minutes)
+MINUTES 30-54:  Complete Question 2 (24 minutes + buffer)
+```
+
+### Part C Typical Structure (Per 15-Mark Question)
 
 | Section | Typical Content | Marks | Time |
 |---------|-----------------|-------|------|
-| Opening | Issue identification | 2-3 | 4 min |
-| Main analysis 1 | Primary topic | 10-12 | 18 min |
-| Main analysis 2 | Secondary topic | 8-10 | 15 min |
-| Calculations | Numbers + workings | 6-8 | 12 min |
-| Conclusion | Advice summary | 2-3 | 5 min |
+| Opening | Issue identification | 1-2 | 2 min |
+| Rules | Key legislation/principles | 4-5 | 7 min |
+| Application | Apply rules to facts | 6-7 | 12 min |
+| Conclusion | Clear answer/advice | 2-3 | 4 min |
+| **Total** | | **15** | **~25 min** |
 
 ---
 
