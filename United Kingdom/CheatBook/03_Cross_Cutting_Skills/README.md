@@ -3,36 +3,51 @@
 ## Purpose
 These are the meta-skills that apply across all question types. Mastering these skills can improve your performance on every question, regardless of topic.
 
-## Contents
+**Status**: ✅ Complete
 
-### Time_Management
-- 3-hour exam breakdown strategy
-- Question selection criteria (which to attempt first)
-- Emergency protocols (when running behind)
-- Time banking technique (saving minutes from easier questions)
-- When to move on from a question
+## Main Content File
+📄 **[Cross_Cutting_Skills_Complete.md](Cross_Cutting_Skills_Complete.md)** - Comprehensive guide (~60 pages)
 
-### Tax_Legislation_Analysis
-- How to read and interpret UK tax legislation
-- Identifying relevant sections quickly
-- Applying statutory provisions to scenarios
-- Dealing with ambiguous or conflicting rules
-- Case law integration
+## Contents Overview
 
-### Calculation_Techniques
-- Standard calculation formats for UK taxes
-- Common calculation mistakes and how to avoid them
-- Rounding conventions
-- Presenting calculations for maximum marks
-- Quick estimation techniques for checking answers
+### 3.1 Time Management Mastery
+- 1.8 minutes per mark calculation
+- Part A/B/C time blueprints
+- Emergency protocols for running behind
+- Timed practice exercises
+- Time banking techniques
 
-### Answer_Structure
-- Professional formatting standards
-- Paragraph and heading structure
-- How to signpost your answer
-- Balancing law/application/conclusion
-- Using examples effectively
-- What examiners look for in structure
+### 3.2 Legislative Analysis
+- SCAR Method (Statute, Conditions, Application, Result)
+- Key statutory sources for Module 2.09
+- Statutory condition checklists (Residence, TP, CIR)
+- Statutory language precision guide
+- Practice exercises
+
+### 3.3 Calculation Excellence
+- 6 master calculation templates (Employment Income, Company Car, CGT, CT, TP, CFC)
+- Common calculation errors and prevention
+- Speed calculation drills
+- Accuracy checklist
+
+### 3.4 Answer Structuring
+- IRAC Method for tax answers
+- Templates by question type (Explain, Advise, Calculate)
+- Before/after examples
+- Part A/B/C specific structures
+
+### 3.5 Case Law Application
+- 25+ essential cases organized by topic
+- Case citation format guide
+- Case application framework
+- Practice exercises
+
+### 3.6 Treaty Navigation
+- OECD Model structure
+- Key treaty concepts (Article 4, 5, taxing rights)
+- 5-step treaty application framework
+- Treaty WHT quick reference table
+- Practice exercises
 
 ## Key Principles
 

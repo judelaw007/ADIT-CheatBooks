@@ -6,7 +6,7 @@
 |---------|---------|----------|-------------------|
 | 01 - Battlefield Intelligence | Strategic exam intelligence and planning | HIGH | ✅ Complete |
 | 02 - Major Question Types | Template-driven frameworks for each question type | CRITICAL | ✅ Complete |
-| 03 - Cross-Cutting Skills | Universal exam techniques | HIGH | Not Started |
+| 03 - Cross-Cutting Skills | Universal exam techniques | HIGH | ✅ Complete |
 | 04 - Execution Excellence | Mental frameworks and exam day strategy | MEDIUM | Not Started |
 | 05 - Appendices | Quick reference materials | MEDIUM | Not Started |
 
@@ -89,12 +89,12 @@ Develop universal skills that enhance performance across all question types.
 
 | Section | Content Coverage | Exercises | Page Estimate | Status |
 |---------|------------------|-----------|---------------|--------|
-| **3.1 Time Management Mastery** | • 1.8 minutes per mark rule<br>• Question selection strategy<br>• When to move on<br>• Emergency protocols<br>• Practice drills | 10 timed exercises | 10-12 pages | Not Started |
-| **3.2 Legislative Analysis** | • Reading tax legislation efficiently<br>• Identifying relevant sections<br>• Cross-referencing techniques<br>• Using definitions sections<br>• Practice problems | 8 exercises | 8-10 pages | Not Started |
-| **3.3 Calculation Excellence** | • Common UK tax calculations<br>• Working papers format<br>• Avoiding errors<br>• CGT, IHT, CT computations<br>• Speed techniques | 15 calculation drills | 12-15 pages | Not Started |
-| **3.4 Answer Structuring** | • IRAC method (Issue, Rule, Application, Conclusion)<br>• Professional format<br>• Headings and signposting<br>• Balancing breadth vs depth<br>• Earning professional skills marks | 6 before/after examples | 8-10 pages | Not Started |
-| **3.5 Case Law Application** | • Leading UK tax cases<br>• When to cite cases<br>• Brief vs detailed citation<br>• Case law vs legislation priority | Case summaries + exercises | 10-12 pages | Not Started |
-| **3.6 Treaty Navigation** | • OECD Model structure<br>• UK treaty patterns<br>• Common modifications<br>• Quick reference techniques | 5 treaty exercises | 8-10 pages | Not Started |
+| **3.1 Time Management Mastery** | • 1.8 minutes per mark rule<br>• Question selection strategy<br>• When to move on<br>• Emergency protocols<br>• Practice drills | 10 timed exercises | 10-12 pages | ✅ Complete |
+| **3.2 Legislative Analysis** | • Reading tax legislation efficiently<br>• Identifying relevant sections<br>• Cross-referencing techniques<br>• Using definitions sections<br>• Practice problems | 8 exercises | 8-10 pages | ✅ Complete |
+| **3.3 Calculation Excellence** | • Common UK tax calculations<br>• Working papers format<br>• Avoiding errors<br>• CGT, IHT, CT computations<br>• Speed techniques | 15 calculation drills | 12-15 pages | ✅ Complete |
+| **3.4 Answer Structuring** | • IRAC method (Issue, Rule, Application, Conclusion)<br>• Professional format<br>• Headings and signposting<br>• Balancing breadth vs depth<br>• Earning professional skills marks | 6 before/after examples | 8-10 pages | ✅ Complete |
+| **3.5 Case Law Application** | • Leading UK tax cases<br>• When to cite cases<br>• Brief vs detailed citation<br>• Case law vs legislation priority | Case summaries + exercises | 10-12 pages | ✅ Complete |
+| **3.6 Treaty Navigation** | • OECD Model structure<br>• UK treaty patterns<br>• Common modifications<br>• Quick reference techniques | 5 treaty exercises | 8-10 pages | ✅ Complete |
 
 **Chapter Total**: ~60 pages
 
