@@ -4,8 +4,8 @@
 
 | Chapter | Purpose | Priority | Completion Status |
 |---------|---------|----------|-------------------|
-| 01 - Battlefield Intelligence | Strategic exam intelligence and planning | HIGH | In Progress |
-| 02 - Major Question Types | Template-driven frameworks for each question type | CRITICAL | Template Only |
+| 01 - Battlefield Intelligence | Strategic exam intelligence and planning | HIGH | ✅ Complete |
+| 02 - Major Question Types | Template-driven frameworks for each question type | CRITICAL | ✅ Complete |
 | 03 - Cross-Cutting Skills | Universal exam techniques | HIGH | Not Started |
 | 04 - Execution Excellence | Mental frameworks and exam day strategy | MEDIUM | Not Started |
 | 05 - Appendices | Quick reference materials | MEDIUM | Not Started |
@@ -52,11 +52,12 @@ Provide ready-to-use templates for each major question type with worked examples
 
 | Topic | File | Key Legislation | Status |
 |-------|------|-----------------|--------|
-| **2.2.1 Controlled Foreign Companies** | `Part_B_CFC_Template.md` | TIOPA 2010 Part 9A | ✅ Template Complete |
-| **2.2.2 Transfer Pricing** | Not yet created | TIOPA 2010 Part 4, OECD Guidelines | ⏳ Not Started |
-| **2.2.3 Thin Capitalization** | Not yet created | TIOPA 2010 Part 7 | ⏳ Not Started |
-| **2.2.4 GAAR & Targeted Rules** | Not yet created | FA 2013 Part 5, FA 2015 | ⏳ Not Started |
-| **2.2.5 Business Investment Relief** | Not yet created | ITA 2007 s 809VA-809VO | ⏳ Not Started |
+| **Part B - All Topics** | `Part_B_Anti_Avoidance_Questions.md` | TIOPA 2010 Parts 4, 9A, 10 | ✅ Complete (2130 lines) |
+| **2.2.1 Controlled Foreign Companies** | Included in Part_B file + `Part_B_CFC_Template.md` | TIOPA 2010 Part 9A | ✅ Complete |
+| **2.2.2 Transfer of Assets Abroad** | Included in Part_B file | ITA 2007 ss 720-730 | ✅ Complete |
+| **2.2.3 Insurance Bonds/PPB** | Included in Part_B file | ITTOIA 2005 Part 4 Ch 9 | ✅ Complete |
+| **2.2.4 Thin Cap & Transfer Pricing** | Included in Part_B file | TIOPA 2010 Part 4 | ✅ Complete |
+| **2.2.5 Emerging Regimes (DPT, Hybrids)** | Included in Part_B file | FA 2015, TIOPA 2010 Part 6A | ✅ Complete |
 
 **Part B Subtotal**: ~50 pages
 
@@ -64,15 +65,16 @@ Provide ready-to-use templates for each major question type with worked examples
 
 | Topic | File | Key Legislation | Status |
 |-------|------|-----------------|--------|
-| **2.3.1 Domicile** | `Part_C_Domicile_Template.md` | ITA 2007 s 835BA, IHTA 1984 s 267 | ✅ Template Complete |
-| **2.3.2 Trusts (UK Tax)** | Not yet created | ITA 2007 ss 624-628, TCGA 1992 ss 86-87 | ⏳ Not Started |
-| **2.3.3 ATED** | Not yet created | FA 2013 Sch 33-35 | ⏳ Not Started |
-| **2.3.4 Withholding Taxes** | Not yet created | ITA 2007 Part 15, CTA 2010 Part 21 | ⏳ Not Started |
-| **2.3.5 Exit Charges & Migration** | Not yet created | TCGA 1992 s 185, TIOPA 2010 s 25 | ⏳ Not Started |
-| **2.3.6 VAT & Customs** | Not yet created | VATA 1994 | ⏳ Not Started |
-| **2.3.7 NICs International** | Not yet created | SSCBA 1992 | ⏳ Not Started |
-| **2.3.8 Inheritance Tax** | Not yet created | IHTA 1984 ss 6, 48 | ⏳ Not Started |
-| **2.3.9 Stamp Duties** | Not yet created | FA 2003, FA 1986 | ⏳ Not Started |
+| **Part C - All Topics** | `Part_C_Specific_Technical_Questions.md` | Various | ✅ Complete (1950 lines) |
+| **2.3.1 Domicile** | Included in Part_C file + `Part_C_Domicile_Template.md` | ITA 2007 s 835BA, IHTA 1984 s 267 | ✅ Complete |
+| **2.3.2 Trusts (UK Tax)** | Included in Part_C file | ITA 2007 ss 624-628, TCGA 1992 ss 86-87 | ✅ Complete |
+| **2.3.3 Transfer Pricing** | Included in Part_C file | TIOPA 2010 Part 4, OECD Guidelines | ✅ Complete |
+| **2.3.4 Corporate Interest Restriction** | Included in Part_C file | TIOPA 2010 Part 10 | ✅ Complete |
+| **2.3.5 ATED** | Included in Part_C file | FA 2013 Sch 33-35 | ✅ Complete |
+| **2.3.6 Withholding Taxes** | Brief coverage in Part_C file | ITA 2007 Part 15, CTA 2010 Part 21 | ✅ Brief |
+| **2.3.7 Exit Charges & Migration** | Brief coverage in Part_C file | TCGA 1992 s 185, TIOPA 2010 s 25 | ✅ Brief |
+| **2.3.8 Inheritance Tax** | Brief coverage in Part_C file | IHTA 1984 ss 6, 48 | ✅ Brief |
+| **2.3.9 Stamp/NICs/VAT** | Brief coverage in Part_C file | FA 2003, SSCBA 1992, VATA 1994 | ✅ Brief |
 
 **Part C Subtotal**: ~50 pages
 
