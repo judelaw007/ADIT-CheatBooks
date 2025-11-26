@@ -22,16 +22,16 @@ This chapter provides **practical frameworks** to develop these skills systemati
 
 | Component | Marks | Time Allocation | Minutes per Mark |
 |-----------|-------|-----------------|------------------|
-| Part A (Compulsory) | 50 | 90 minutes | 1.8 min |
-| Part B (Choice of 1) | 20 | 36 minutes | 1.8 min |
-| Part C (Choose 2 from 5) | 30 | 54 minutes (27 min each) | 1.8 min |
-| **Total** | **100** | **180 minutes** | **1.8 min** |
+| Part A (Compulsory) | 50 | 98 minutes | 1.95 min |
+| Part B (Choice of 1) | 20 | 39 minutes | 1.95 min |
+| Part C (Choose 2 from 5) | 30 | 58 minutes (29 min each) | 1.95 min |
+| **Total** | **100** | **195 minutes** | **~1.95 min** |
 
-**Critical Insight**: You have exactly 1.8 minutes per mark. Every minute spent on a 2-mark question beyond 3.6 minutes is stolen from another question.
+**Critical Insight**: You have approximately 1.95 minutes per mark. Every minute spent on a 2-mark question beyond 3.9 minutes is stolen from another question.
 
 ---
 
-## Part A Time Allocation (90 Minutes for 50 Marks)
+## Part A Time Allocation (~98 Minutes for 50 Marks)
 
 ### Structure Pattern Analysis
 Part A typically contains 5-6 sub-questions covering multiple topics:
@@ -44,31 +44,31 @@ Part A typically contains 5-6 sub-questions covering multiple topics:
 | Employment income | 6-10 marks | 11-18 min | Step-by-step calculation |
 | Anti-avoidance | 4-8 marks | 7-14 min | GAAR/TAAR identification |
 
-### The 90-Minute Part A Blueprint
+### The ~98-Minute Part A Blueprint
 
 ```
 MINUTES 0-5:    Read ALL questions, identify topics, note mark allocations
-MINUTES 5-20:   Question (a) - typically residence/domicile
-MINUTES 20-35:  Question (b) - typically treaty or international
-MINUTES 35-50:  Question (c) - typically CFC/TP/technical
-MINUTES 50-65:  Question (d) - typically employment/income
-MINUTES 65-80:  Question (e) - typically anti-avoidance/other
-MINUTES 80-90:  Review, add points, check calculations
+MINUTES 5-22:   Question (a) - typically residence/domicile
+MINUTES 22-40:  Question (b) - typically treaty or international
+MINUTES 40-58:  Question (c) - typically CFC/TP/technical
+MINUTES 58-76:  Question (d) - typically employment/income
+MINUTES 76-90:  Question (e) - typically anti-avoidance/other
+MINUTES 90-98:  Review, add points, check calculations
 ```
 
 ---
 
-## Part B Time Allocation (36 Minutes for 20 Marks)
+## Part B Time Allocation (~39 Minutes for 20 Marks)
 
-### The 36-Minute Part B Blueprint
+### The ~39-Minute Part B Blueprint
 
 Part B questions are essay-style, testing depth on ONE topic:
 
 ```
 MINUTES 0-3:    Read question carefully, identify ALL requirements
 MINUTES 3-5:    Plan answer structure (quick bullet points)
-MINUTES 5-30:   Write structured answer
-MINUTES 30-36:  Review, add missing points, check coherence
+MINUTES 5-33:   Write structured answer
+MINUTES 33-39:  Review, add missing points, check coherence
 ```
 
 ### Part B Answer Density Target
@@ -81,29 +81,29 @@ MINUTES 30-36:  Review, add missing points, check coherence
 
 ---
 
-## Part C Time Allocation (54 Minutes for 30 Marks)
+## Part C Time Allocation (~58 Minutes for 30 Marks)
 
 ### Structure: Choose 2 from 5 Questions (15 marks each)
 
-Part C offers strategic choice - you pick 2 questions from 5 options. Each question is worth 15 marks, giving you approximately **27 minutes per question**.
+Part C offers strategic choice - you pick 2 questions from 5 options. Each question is worth 15 marks, giving you approximately **29 minutes per question**.
 
-### The 27-Minute Per Question Blueprint
+### The ~29-Minute Per Question Blueprint
 
 For EACH Part C question:
 
 ```
 MINUTES 0-2:    Read question, identify specific requirement
 MINUTES 2-4:    Quick plan (bullet points)
-MINUTES 4-22:   Write structured answer
-MINUTES 22-27:  Review, add points, check completeness
+MINUTES 4-24:   Write structured answer
+MINUTES 24-29:  Review, add points, check completeness
 ```
 
 ### Total Part C Time Management
 
 ```
 MINUTES 0-3:    Scan all 5 questions, select your 2 strongest
-MINUTES 3-30:   Complete Question 1 (27 minutes)
-MINUTES 30-54:  Complete Question 2 (24 minutes + buffer)
+MINUTES 3-32:   Complete Question 1 (29 minutes)
+MINUTES 32-58:  Complete Question 2 (26 minutes + buffer)
 ```
 
 ### Part C Typical Structure (Per 15-Mark Question)
@@ -237,7 +237,7 @@ UK tax law requires precise legislative analysis. The examiner expects you to:
 | Income Tax Act 2007 | ITA 2007 | Personal allowances, rates, reliefs |
 | Taxation of Chargeable Gains Act 1992 | TCGA 1992 | CGT, reliefs, exemptions |
 | Corporation Tax Act 2009 | CTA 2009 | Corporate income, loan relationships |
-| Corporation Tax Act 2010 | CTA 2010 | Groups, losses, CFC |
+| Corporation Tax Act 2010 | CTA 2010 | Groups, losses, consortium relief |
 | Taxation (International and Other Provisions) Act 2010 | TIOPA 2010 | Transfer pricing, DTAs, DTC |
 | Inheritance Tax Act 1984 | IHTA 1984 | IHT, settlements, BPR |
 | Finance Act 2013 | FA 2013 | SRT (Schedule 45) |
@@ -293,7 +293,7 @@ UK tax law requires precise legislative analysis. The examiner expects you to:
 - [ ] Accommodation tie (available ≥91 days, used ≥1 day)
 - [ ] Work tie (≥40 UK workdays)
 - [ ] 90-day tie (>90 UK days in either prior year)
-- [ ] Country tie (UK is country of greatest presence)
+- [ ] Country tie (UK is country of greatest presence) - **leavers only**
 
 ---
 
@@ -1264,7 +1264,7 @@ UK can tax profits attributable to the PE under Article 7.
 ## Final Skill Checklist
 
 ### Time Management
-- [ ] Know exact time per mark (1.8 minutes)
+- [ ] Know exact time per mark (~1.95 minutes)
 - [ ] Have Part A/B/C time blueprints memorised
 - [ ] Practiced under exam conditions 5+ times
 - [ ] Have "behind schedule" strategy
