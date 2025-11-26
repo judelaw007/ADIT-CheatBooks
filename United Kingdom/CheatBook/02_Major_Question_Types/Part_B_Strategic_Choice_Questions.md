@@ -1,6 +1,6 @@
 # CHAPTER 02: MAJOR QUESTION TYPES
 
-## PART B: Anti-Avoidance Questions (20 marks)
+## PART B: Strategic Choice Questions (20 marks)
 
 ### Overview: The Strategic Choice Question
 
@@ -12,34 +12,57 @@ Part B questions offer **choice between 2 questions** (Questions 3 and 4), with 
 
 ### Strategic Importance
 
-Part B anti-avoidance questions test your understanding of **UK's sophisticated anti-avoidance regimes** designed to prevent tax abuse and artificial profit diversion. These questions require deep technical knowledge combined with practical application skills.
+Part B questions test a **wide range of topics** spanning corporate and individual international tax. Unlike Part A (which always tests SRT), Part B topics vary significantly between exams. This makes strategic preparation essential - you need to be confident in at least 2-3 Part B topic areas to ensure you always have a strong choice.
 
 **The Choice Pattern** (Historical Analysis 2020-2025):
 
-| Question | Typical Focus | Frequency Pattern |
-|----------|--------------|-------------------|
-| **Question 3** | Corporate anti-avoidance (CFCs, Corporate Residency Migration, PE/TP) | 5/8 exams |
-| **Question 4** | Individual anti-avoidance (Domicile/Remittance, BIR, Mixed Funds, ToAA) | 6/8 exams |
+| Question | Typical Focus | Key Topics |
+|----------|--------------|------------|
+| **Question 3** | Corporate/International (PE, Corporate Residence, CFCs) | PE (38%), Corporate Residence (25%), CFCs (13%), Other (25%) |
+| **Question 4** | Individual/Property (Domicile, Remittance, BIR) | Domicile/Remittance (38%), BIR (25%), Mixed Funds (13%), Other (25%) |
 
 **Key Insight**: Understanding this pattern helps you prepare strategically. If you're stronger on **corporate tax**, focus on Question 3 topics. If you're stronger on **personal tax**, focus on Question 4 topics.
 
 ---
 
-### Core Anti-Avoidance Topics (2020-2025 Frequency)
+### Actual Part B Topic Frequency (2020-2025) - CORRECTED DATA
 
-From Chapter 01's analysis, these anti-avoidance topics appear most frequently in Part B:
+Based on analysis of all 8 exam sessions (16 Part B questions total):
 
-| Topic | Frequency (2020-2025) | Strategic Priority | Typical Question # |
-|-------|----------------------|-------------------|-------------------|
-| **Controlled Foreign Companies (CFCs)** | 50% (4/8 exams) | CRITICAL | Q3 or Q4 |
-| **Transfer of Assets Abroad (ToAA/TAAR)** | 25% (2/8 exams) | HIGH | Q3 |
-| **Thin Capitalisation** | 13% (1/8 exams) | MEDIUM | Q4 |
-| **Offshore Insurance Bonds** | 13% (1/8 exams - June 2025) | EMERGING | Q3 |
-| **Diverted Profits Tax** | 13% (1/8 exams - June 2025) | EMERGING | Part C |
-| **Unallowable Purpose Rule** | 13% (1/8 exams - June 2025) | EMERGING | Part A |
-| **Mixed Funds (Anti-Avoidance Angle)** | 25% (2/8 exams) | MEDIUM | Q4 |
+| Topic | Frequency | Q3 | Q4 | Strategic Priority |
+|-------|-----------|----|----|-------------------|
+| **Permanent Establishment** | **31% (5/16)** | 4 | 1 | **CRITICAL - Q3** |
+| **Domicile & Remittance Basis** | **25% (4/16)** | 1 | 3 | **CRITICAL - Q4** |
+| **Business Investment Relief (BIR)** | **25% (4/16)** | 0 | 4 | **CRITICAL - Q4** |
+| **Controlled Foreign Companies (CFCs)** | **13% (2/16)** | 1 | 1 | **HIGH** |
+| **Mixed Funds** | **13% (2/16)** | 1 | 1 | **MEDIUM** |
+| **Corporate Residency Change** | **6% (1/16)** | 1 | 0 | **MEDIUM** |
+| **Thin Capitalisation** | **6% (1/16)** | 0 | 1 | **MEDIUM** |
+| **Offshore Insurance Bonds** | **6% (1/16)** | 1 | 0 | **EMERGING** |
 
-**Critical Observation**: **CFCs dominate Part B anti-avoidance questions** with 50% frequency. If you master CFCs, you significantly increase your Part B choice flexibility.
+**Critical Observation**: The three highest-frequency Part B topics are **PE (31%)**, **Domicile/Remittance (25%)**, and **BIR (25%)**. Together they account for **81% of Part B questions**. CFCs appear in only 13% of Part B questions (though they also appear frequently in Part A).
+
+---
+
+### Part B Topic Cross-References
+
+**Since Part B draws from multiple topic areas, use these cross-references:**
+
+| Part B Topic | Primary Content Location | Template Available |
+|--------------|-------------------------|-------------------|
+| **Permanent Establishment** | Part A: Section 2.1.3 | ✅ Part_A_Complex_Analysis_Questions.md |
+| **Domicile & Remittance Basis** | Part C: Section 2.3.1 | ✅ Part_C_Domicile_Template.md |
+| **Business Investment Relief** | Part C: Related to Remittance | See Part C file |
+| **CFCs** | **This file: Section 2.2.1** | ✅ Below + Part_B_CFC_Template.md |
+| **Thin Capitalisation** | **This file: Section 2.2.4** | ✅ Below |
+| **Offshore Insurance Bonds** | **This file: Section 2.2.3** | ✅ Below |
+| **Mixed Funds** | Part C: Remittance-related | See Part C file |
+
+---
+
+### Anti-Avoidance Topics in Part B
+
+While Part B covers diverse topics, this file focuses on the **anti-avoidance regimes** that do appear in Part B (CFCs, Thin Cap, Insurance Bonds). These are technical topics that benefit from structured templates.
 
 ---
 
@@ -47,63 +70,64 @@ From Chapter 01's analysis, these anti-avoidance topics appear most frequently i
 
 **Common Features:**
 
-- **Multi-part structure** (typically 3 sub-questions)
-- **Mark allocation pattern**: 6-8 marks + 4-7 marks + 5-8 marks = 20 marks
-- **Fact patterns with red flags** (artificial arrangements, low-tax jurisdictions, related parties)
-- **Calculation requirements** (CFC charges, thin cap adjustments, mixed fund computations)
-- **Advisory elements** (compliance recommendations, risk mitigation)
+- **Multi-part structure** (typically 2-3 sub-questions)
+- **Mark allocation pattern**: 6-8 marks + 6-8 marks + 4-6 marks = 20 marks
+- **Scenario-based analysis** (specific fact patterns requiring application of rules)
+- **Calculation requirements** (PE profit attribution, remittance calculations, BIR conditions)
+- **Advisory elements** (compliance recommendations, planning opportunities)
 
 **What Examiners Reward:**
 
 1. **Systematic application of tests** - Step-by-step analysis of conditions (30-40% of marks)
 2. **Accurate calculations** - Clear workings with correct methodology (20-30% of marks)
-3. **Practical recommendations** - Risk assessment and mitigation strategies (20-25% of marks)
-4. **Legislation/guidance citations** - TIOPA 2010, HMRC manuals, case law (10-15% of marks)
-5. **Professional skepticism** - Identifying multiple risks, alternative interpretations (5-10% of marks)
+3. **Practical recommendations** - Risk assessment and planning strategies (20-25% of marks)
+4. **Legislation/treaty citations** - OECD Model, TIOPA 2010, ITA 2007, case law (10-15% of marks)
+5. **Professional judgment** - Identifying risks, alternative interpretations (5-10% of marks)
 
 **What Examiners Penalize:**
 
 - ❌ Describing rules without applying to facts
 - ❌ Missing calculations or incorrect methodology
 - ❌ Failing to answer all sub-parts
-- ❌ Generic anti-avoidance statements without specificity
-- ❌ Ignoring exemptions or defences
+- ❌ Generic statements without specificity
+- ❌ Ignoring exemptions, reliefs, or treaty provisions
 
 ---
 
-### The Part B Anti-Avoidance Template Ecosystem
+### The Part B Template Ecosystem
 
-This chapter provides **5 master templates** covering the most frequently tested anti-avoidance topics:
+This file provides templates for the **anti-avoidance topics** that appear in Part B. For other Part B topics, see the cross-reference table above.
+
+**Anti-Avoidance Templates in This File:**
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │  2.2.1 Controlled Foreign Companies (CFCs)                   │
 │  • CFC definition, gateway tests, five exemptions            │
 │  • Entity-level analysis, CFC charge calculation             │
-│  • Time: 36 minutes for full analysis (20 marks)             │
-│  • HIGHEST PRIORITY - 50% exam frequency                     │
+│  • Part B frequency: 13% (2/16 questions)                    │
+│  • Also appears in Part A (3/8 exams) - HIGH OVERALL VALUE   │
 └─────────────────────────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────────────────────────┐
 │  2.2.2 Transfer of Assets Abroad (ToAA/TAAR)                │
 │  • Four conditions test, motive defence, PFSI exemption      │
 │  • Income attribution, power to enjoy                        │
-│  • Time: 36 minutes for full analysis                        │
+│  • Part B frequency: Low (mainly Part C topic)               │
 └─────────────────────────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────────────────────────┐
 │  2.2.3 Offshore Insurance Bonds & Personal Portfolio Bonds   │
 │  • Tax deferral mechanics, 5% withdrawal rule                │
 │  • PPB anti-avoidance (investment restrictions)              │
-│  • Remittance basis interaction                              │
-│  • Time: 36 minutes                                          │
+│  • Part B frequency: 6% (1/16 - June 2025 Q3)                │
 └─────────────────────────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────────────────────────┐
 │  2.2.4 Thin Capitalisation & Transfer Pricing Compliance     │
 │  • Arm's length debt test, interest deductibility            │
 │  • ATCA process, documentation requirements                  │
-│  • Time: 36 minutes                                          │
+│  • Part B frequency: 6% (1/16 - June 2024 Q4)                │
 └─────────────────────────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────────────────────────┐
@@ -111,9 +135,14 @@ This chapter provides **5 master templates** covering the most frequently tested
 │  • Diverted Profits Tax (DPT)                                │
 │  • Unallowable Purpose Rule (CIR context)                    │
 │  • Hybrid Mismatch Rules                                     │
-│  • Time: 27 minutes (typically Part C - 15 marks)            │
+│  • Primarily Part C topics (15 marks)                        │
 └─────────────────────────────────────────────────────────────┘
 ```
+
+**For the HIGH-FREQUENCY Part B topics, see:**
+- **PE (31%)**: Part_A_Complex_Analysis_Questions.md, Section 2.1.3
+- **Domicile/Remittance (25%)**: Part_C_Domicile_Template.md + Part_C_Specific_Technical_Questions.md
+- **BIR (25%)**: Part_C_Specific_Technical_Questions.md (Remittance section)
 
 ---
 
@@ -121,25 +150,26 @@ This chapter provides **5 master templates** covering the most frequently tested
 
 **During the 1-Month Intensive:**
 
-**Week 1 (Days 3-7)**: Foundation
-- Study 2.2.1 (CFCs) thoroughly - 4 hours
-- Create flashcards for 5 CFC exemptions
-- Practice identifying gateway conditions
+**Week 1 (Days 3-7)**: High-Frequency Part B Topics
+- Study PE rules thoroughly (Part A file, Section 2.1.3) - 4 hours
+- Study Domicile & Remittance Basis (Part C file) - 4 hours
+- Study Business Investment Relief conditions - 2 hours
 
-**Week 2 (Days 8-14)**: Application
-- Work through all CFC examples - 2 hours
-- Study 2.2.2 (ToAA) - 2 hours
-- Study 2.2.3 (Insurance Bonds) - 2 hours
+**Week 2 (Days 8-14)**: Anti-Avoidance Foundation
+- Study 2.2.1 (CFCs) - 3 hours (also useful for Part A)
+- Work through CFC examples - 2 hours
+- Study 2.2.3 (Insurance Bonds) - 2 hours (new topic June 2025)
 
-**Week 3 (Days 15-21)**: Integration
+**Week 3 (Days 15-21)**: Integration & Practice
 - Study 2.2.4 (Thin Cap/TP) - 2 hours
-- Attempt June 2025 Q3 and Q4 timed (36 min each)
+- Attempt past Part B questions timed (36 min each)
 - Self-mark and identify gaps
 
 **Week 4 (Days 22-30)**: Mastery
 - Speed drills (aim for 70% time = 25 minutes per question)
 - Review error prevention checklists
 - Practice choosing between Q3 and Q4 in past papers
+- Ensure you're confident in at least 3 Part B topic areas
 
 ---
 
@@ -148,18 +178,25 @@ This chapter provides **5 master templates** covering the most frequently tested
 **During Reading Time / First 5 Minutes:**
 
 1. **Read BOTH Part B questions** (Q3 and Q4) - don't commit immediately
-2. **Identify the anti-avoidance regime** being tested in each
-3. **Count the sub-parts and marks** (typically 3 sub-parts)
+2. **Identify the topic** being tested in each (PE? Domicile? BIR? CFCs? Other?)
+3. **Count the sub-parts and marks** (typically 2-3 sub-parts)
 4. **Assess your confidence level** for each topic
 5. **Choose the question** where you can confidently earn 15+/20 marks
 
 **Question Selection Strategy:**
 
 ```
-IF you see CFCs → HIGH PRIORITY (if you studied them well)
-IF you see ToAA → MEDIUM (requires careful four-step analysis)
-IF you see Thin Cap → MEDIUM (calculation-heavy but structured)
-IF you see topics you don't know → AVOID and choose the other question
+HIGHEST CONFIDENCE (if you prepared these well):
+• PE questions → Structured analysis using OECD Art 5 framework
+• Domicile/Remittance → Apply 3-tier domicile test + remittance rules
+• BIR questions → Check the 4 conditions systematically
+
+GOOD CONFIDENCE (if you studied these):
+• CFCs → Use 5-step exemption analysis + calculation template
+• Thin Cap → Arm's length debt test + ATCA process
+
+PROCEED WITH CAUTION:
+• Topics you haven't studied → AVOID and choose the other question
 
 Remember: Part B is CHOICE. Play to your strengths!
 ```
@@ -252,7 +289,7 @@ Remember: **Part B is about CHOICE and STRATEGIC EXECUTION**. You don't need to 
 - **December 2021 Q1**: CFC application to multiple subsidiaries + DST (25 marks - Part A)
 - **June 2021 Q1**: CFC definition, gateway conditions, exemptions, entity tests (25 marks - Part A)
 
-**Frequency**: **50% (4/8 exams 2020-2025)** - HIGHEST PRIORITY ANTI-AVOIDANCE TOPIC
+**Frequency**: **Part B: 13% (2/16 questions)** | **Part A: 38% (3/8 exams)** | **Combined: HIGH PRIORITY**
 
 **Mark Range**: **20 marks** (Part B) or **25 marks** (Part A when primary topic)
 
@@ -2030,34 +2067,38 @@ Part of the **Corporate Interest Restriction (CIR)** regime (TIOPA 2010 Part 10)
 
 ---
 
-## PART B SUMMARY: Anti-Avoidance Mastery Checklist
+## PART B SUMMARY: Mastery Checklist
 
-You're ready for Part B when you can:
+You're ready for Part B when you can confidently tackle the HIGH-FREQUENCY topics:
 
-**CFCs (HIGHEST PRIORITY - 50% frequency)**:
+**Permanent Establishment (31% of Part B - CRITICAL for Q3)**:
+- [ ] Apply OECD Art 5 fixed place test (location, duration, business activity)
+- [ ] Identify agency PE triggers (authority to conclude contracts, dependent agent)
+- [ ] Calculate profit attribution to PE using OECD approach
+- [ ] Explain preparatory/auxiliary exceptions
+- [ ] *See Part_A_Complex_Analysis_Questions.md, Section 2.1.3 for full template*
+
+**Domicile & Remittance Basis (25% of Part B - CRITICAL for Q4)**:
+- [ ] Apply three-tier domicile test (origin, choice, deemed)
+- [ ] Explain remittance basis eligibility and £30k/£60k charge
+- [ ] Calculate remittances (statutory definition, mixed funds ordering)
+- [ ] *See Part_C_Domicile_Template.md for full template*
+
+**Business Investment Relief (25% of Part B - CRITICAL for Q4)**:
+- [ ] Recite the 4 BIR conditions (eligible person, qualifying investment, relevant activity, holding period)
+- [ ] Explain interaction with ATED, SDLT, and IHT
+- [ ] Identify clawback triggers
+- [ ] *See Part_C_Specific_Technical_Questions.md for coverage*
+
+**CFCs (13% of Part B + 38% of Part A - HIGH PRIORITY)**:
 - [ ] Recite all 5 exemptions from memory (Exempt Period, Excluded Territories, Low Profits £500k/£50k, Low Margin 10%, Tax 75%)
 - [ ] Calculate CFC charge in under 10 minutes (chargeable profits × apportionment % × UK rate - foreign tax credit)
 - [ ] Identify gateway tests (Chapters 4-8) from fact patterns
 
-**ToAA (HIGH PRIORITY - 25% frequency)**:
-- [ ] Apply four-condition test systematically (Transfer, Income abroad, UK resident, Power to enjoy)
-- [ ] Distinguish four types of "power to enjoy" (s.721-725)
-- [ ] Explain remittance basis interaction (s.832 - ToAA income is foreign income for non-doms)
-
-**Insurance Bonds (EMERGING - June 2025)**:
-- [ ] Explain 5% withdrawal rule (cumulative, based on premiums not value)
-- [ ] Identify PPB status (>60% selection triggers anti-avoidance)
-- [ ] Apply remittance basis for non-doms (offshore bond gain = foreign income)
-
-**Thin Cap/TP (MEDIUM PRIORITY)**:
-- [ ] Apply arm's length debt test (quantum, rate, terms, comparability)
-- [ ] Calculate disallowable interest (excess debt × interest rate)
-- [ ] List TP documentation requirements (Master file, Local file, CbCR)
-
-**Emerging Topics (WATCH FOR FUTURE EXAMS)**:
-- [ ] Explain DPT purpose (25% rate, avoided PE vs tax mismatch scenarios)
-- [ ] Identify unallowable purpose in CIR context (main purpose test)
-- [ ] Recognize hybrid mismatch types (D/NI vs DD)
+**Other Part B Topics (MEDIUM PRIORITY)**:
+- [ ] Insurance Bonds: 5% withdrawal rule, PPB status, remittance basis
+- [ ] Thin Cap/TP: Arm's length debt test, ATCA process
+- [ ] Mixed Funds: Ordering rules for remittances
 
 ---
 
@@ -2065,9 +2106,11 @@ You're ready for Part B when you can:
 
 **Reading Time (5 minutes)**:
 1. Read BOTH Q3 and Q4 completely
-2. Identify which anti-avoidance regime each tests
+2. Identify the topic being tested in each:
+   - Q3 likely: PE, Corporate Residence, CFCs, or Insurance Bonds
+   - Q4 likely: Domicile/Remittance, BIR, Mixed Funds, or Thin Cap
 3. Choose the question where you can score 15+/20 marks
-4. If Q3 = CFC or Q4 = ToAA → high confidence topics
+4. Play to your strengths - don't pick based on perceived "difficulty"
 
 **Execution (36 minutes)**:
 - Minute 0-3: Plan structure (identify all sub-parts, allocate marks/time)
@@ -2083,22 +2126,31 @@ You're ready for Part B when you can:
 
 ---
 
-## Conclusion: Your Part B Anti-Avoidance Arsenal
+## Conclusion: Your Part B Strategic Arsenal
 
-You now have **5 comprehensive templates** for the most frequently tested anti-avoidance regimes:
+Part B tests a **wide range of topics** - not just anti-avoidance regimes. Based on 2020-2025 data:
 
-1. **CFCs** (Template B1) - 50% frequency - MASTER THIS FIRST
-2. **ToAA** (Template B2) - 25% frequency - HIGH PRIORITY
-3. **Insurance Bonds/PPB** (Template B3) - Emerging - WATCH FOR DEC 2025
-4. **Thin Cap/TP** (Template B4) - 75% TP frequency (mostly Part C)
-5. **Emerging Regimes** (DPT, Unallowable Purpose, Hybrids) - Familiarize
+**Topic Coverage for Part B Success:**
+
+| Priority | Topics | Coverage |
+|----------|--------|----------|
+| **CRITICAL** | PE + Domicile/Remittance + BIR | **81% of Part B** |
+| **HIGH** | CFCs (also appears in Part A) | 13% Part B, 38% Part A |
+| **MEDIUM** | Mixed Funds, Thin Cap, Insurance Bonds | 19% combined |
+
+**Template Locations:**
+1. **PE** → Part_A_Complex_Analysis_Questions.md, Section 2.1.3
+2. **Domicile/Remittance** → Part_C_Domicile_Template.md
+3. **BIR** → Part_C_Specific_Technical_Questions.md
+4. **CFCs** → This file, Section 2.2.1 + Part_B_CFC_Template.md
+5. **Thin Cap/Insurance Bonds** → This file, Sections 2.2.3-2.2.4
 
 **The Part B Success Formula**:
 
 ```
-CHOICE (pick your strongest topic)
+CHOICE (pick your strongest topic - you have genuine choice!)
   ↓
-STRUCTURE (use the template - examiners reward systematic approach)
+STRUCTURE (use the relevant template - examiners reward systematic approach)
   ↓
 APPLICATION (link every rule to specific facts)
   ↓
@@ -2109,24 +2161,23 @@ RECOMMENDATIONS (practical advice for client)
 15-18 marks (distinction-level performance)
 ```
 
-**Remember**: Part B is your **strategic choice**. You don't need to master ALL topics - focus on **2-3 anti-avoidance regimes** to ensure you always have a strong option. CFCs + ToAA = 75% coverage of historical Part B anti-avoidance questions.
-
-Good luck, and may the CFCs be ever in your favor! 🎯
+**Remember**: Part B is your **strategic choice**. Focus on being confident in at least **3 Part B topic areas** to ensure you always have a strong option. PE + Domicile + BIR = 81% coverage of historical Part B questions.
 
 ---
 
-**END OF PART B: ANTI-AVOIDANCE QUESTIONS**
+**END OF PART B: STRATEGIC CHOICE QUESTIONS**
 
-*For Part A: Complex Analysis Questions, see separate file.*
-*For Part C: Shorter Technical Questions, see Chapter 03.*
+*For Part A: Complex Analysis Questions, see Part_A_Complex_Analysis_Questions.md*
+*For Part C: Specific Technical Questions, see Part_C_Specific_Technical_Questions.md*
 
 ---
 
 **Document Information**:
 - **CheatBook**: United Kingdom ADIT Module 2.09
 - **Chapter**: 02 - Major Question Types
-- **Section**: Part B - Anti-Avoidance Questions (20 marks)
-- **Version**: 1.0
+- **Section**: Part B - Strategic Choice Questions (20 marks)
+- **Version**: 2.0 (Corrected)
 - **Last Updated**: November 2025
 - **Based on**: Past paper analysis December 2020 - June 2025
+- **Key Correction**: Updated topic frequencies based on actual exam data (16 Part B questions analyzed)
 
