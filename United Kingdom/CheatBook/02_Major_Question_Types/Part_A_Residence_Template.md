@@ -74,8 +74,8 @@ Conclusion: Under the DTT, [Company] is resident in [jurisdiction].
 ```
 Individual is conclusively non-UK resident if meets any AOT (FA 2013, Sch. 45):
 
-AOT1: In UK fewer than 16 days (was non-resident in prior 3 years)
-AOT2: In UK fewer than 46 days (was UK resident in one or more of prior 3 years)
+AOT1: In UK fewer than 16 days (was UK resident in 1+ of prior 3 years)
+AOT2: In UK fewer than 46 days (was non-resident in all prior 3 years)
 AOT3: Works full-time overseas with UK presence under 91 days
 
 Analysis:
@@ -113,7 +113,7 @@ UK Ties (5 ties for previously resident, 4 for never resident):
 2. Accommodation tie: Available accommodation in UK
 3. Work tie: Substantive UK work (40+ days)
 4. 90-day tie: UK presence 90+ days in either of prior 2 years
-5. Country tie: More days in UK than any other single country (arrivers only)
+5. Country tie: More days in UK than any other single country (leavers only)
 
 Analysis:
 [Assess each tie]:
