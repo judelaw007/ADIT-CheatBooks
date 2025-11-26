@@ -1,143 +1,139 @@
 # 05. Appendices
 
 ## Purpose
-Quick reference materials for rapid lookup during study and revision. These are the facts and figures you need to know cold.
+Quick reference materials for rapid lookup during study and revision. These are the facts, figures, formulas, and references you need at your fingertips.
 
-## Contents
+**Status**: ✅ Complete
 
-### Quick_Reference_Tables
-- Residence tests summary (corporate and individual)
-- PE indicators checklist
-- CFC charge flowchart
-- Transfer pricing methods comparison
-- Treaty relief application process
-- Anti-avoidance provisions overview
+## Main Content File
+📄 **[Appendices_Complete.md](Appendices_Complete.md)** - Comprehensive reference guide (~40 pages)
 
-### Tax_Rates_And_Allowances
-- Income tax rates and bands (current year)
-- Corporation tax rates
-- Capital gains tax rates
-- CGT annual exempt amount
-- IHT nil rate band and residence nil rate band
-- Stamp duty rates (land and shares)
-- ATED charges
-- NIC rates and thresholds
-- VAT registration thresholds
+## Contents Overview
 
-### Key_Definitions
-- Statutory residence test components
-- Domicile vs. deemed domicile
-- Permanent establishment definition
-- UK property
-- Remittance basis conditions
-- Connected parties
-- Control (for CFC purposes)
-- Arm's length principle
-- Close company
-- Participator
+### 5.1 Tax Rates & Allowances
+- Income Tax rates and bands (2024/25)
+- Corporation Tax rates
+- Capital Gains Tax rates (standard and residential)
+- Inheritance Tax thresholds and rates
+- National Insurance Contributions (all classes)
+- Stamp Duty Land Tax and SDRT
+- VAT rates and thresholds
+- ATED charges by property value band
 
-### Acronyms_And_Abbreviations
-Complete list of UK tax acronyms with full names and brief explanations:
-- ATED: Annual Tax on Enveloped Dwellings
-- CFC: Controlled Foreign Company
-- CGT: Capital Gains Tax
-- DTA/DTT: Double Tax Agreement/Treaty
-- IHT: Inheritance Tax
-- NRCG: Non-Resident Capital Gains
-- NRL: Non-Resident Landlord
-- PE: Permanent Establishment
-- RBC: Residence Based Corporation Tax
-- SDLT: Stamp Duty Land Tax
-- SDRT: Stamp Duty Reserve Tax
-- SRT: Statutory Residence Test
-- And many more...
+### 5.2 Key Definitions
+Comprehensive statutory definitions organized by topic:
+- **Residence Concepts**: SRT components, deemed domicile, UK ties
+- **Corporate Concepts**: Close company, participator, control
+- **Transfer Pricing**: Arm's length principle, comparable transactions
+- **Remittance Basis**: Nominated income, mixed funds, relevant person
+- **CFC Concepts**: Control, chargeable profits, exemptions
 
-## How to Use This Section
+### 5.3 Legislation Quick Index
+Where to find key provisions by topic:
+- Individual Residence (FA 2013 Sch 45)
+- Corporate Residence (CTA 2009)
+- Anti-Avoidance (TIOPA 2010, ITA 2007)
+- Capital Gains (TCGA 1992)
+- Inheritance Tax (IHTA 1984)
+- Employment (ITEPA 2003)
 
-### During Initial Study (Week 1-2)
-- Read through once for familiarity
-- Don't try to memorize everything
-- Bookmark for quick reference
+### 5.4 Timeline & Deadlines
+Critical dates organized by tax type:
+- Tax year dates and accounting periods
+- Filing deadlines (SA, CT, employer returns)
+- Payment dates (IT, CGT, CT, PAYE)
+- Time limits for elections and claims
+- Penalty thresholds
 
-### During Template Practice (Week 3-6)
-- Reference frequently while working examples
-- Gradually reduce dependency on lookup
-- Create personal mnemonics for difficult items
+### 5.5 Formula Sheet
+Ready-to-use calculation templates:
+- Income Tax liability computations
+- Corporation Tax calculations
+- Capital Gains computations (individual and corporate)
+- Inheritance Tax estate calculations
+- Employment income formulas
+- CFC apportionment calculations
+- Transfer Pricing adjustments
+- Corporate Interest Restriction calculations
+- Double Tax Relief methods
 
-### During Final Review (Week 7-9)
-- Test yourself on rates and thresholds
-- Ensure all key definitions are internalized
-- Review quick reference tables daily
+### 5.6 Case Law Index
+50+ essential UK tax cases organized by topic:
+- Residence cases (e.g., Gaines-Cooper, Tuczka)
+- Domicile cases (e.g., Udny, IRC v Bullock)
+- PE cases (e.g., Grainger & Son, Bowie)
+- Transfer Pricing (e.g., DSG Retail, Glaxo)
+- Anti-Avoidance (e.g., Furniss v Dawson, Ramsay)
+- Treaty interpretation (e.g., Smallwood, Indofood)
+
+### 5.7 Treaty Quick Reference
+- OECD Model Convention article summaries
+- UK treaty WHT rates comparison
+- Tie-breaker rules flowchart
+- Common UK treaty positions
+- Treaty vs. domestic law interaction
+
+## How to Use These Appendices
+
+### During Study (Weeks 1-4)
+- Reference frequently while learning templates
+- Link formulas to worked examples
+- Build familiarity with legislation locations
+
+### During Practice (Weeks 5-7)
+- Use formula sheet for calculation practice
+- Reduce reliance on lookup over time
+- Test recall of key definitions
+
+### During Final Review (Week 8+)
+- Daily quick skim of rates and thresholds
+- Case law principles review
+- Formula recall practice
 
 ### On Exam Day
-- Quick skim of rates and thresholds (5 minutes)
-- Mental recall check of key definitions
-- Trust your preparation (don't cram)
-
-## Memory Techniques
-
-### For Tax Rates
-- Create year-specific flashcards
-- Practice writing from memory
-- Link rates to real-world scenarios
-
-### For Definitions
-- Use acronyms and mnemonics
-- Create personal examples
-- Teach definitions to someone else
-
-### For Procedural Tables
-- Draw flowcharts from memory
-- Practice applying to scenarios
-- Create decision trees
-
-## Update Schedule
-These appendices should be updated:
-- **Annually**: When new tax rates announced (usually Budget)
-- **As needed**: When legislation changes
-- **Before exam**: Final check against current tax year
+- Final quick reference check (5 minutes)
+- Trust your preparation
+- Don't panic if you forget a detail - apply principles
 
 ## Critical Items to Memorize
 
-### Must Know Cold
-- Current income tax rates and bands
-- Corporation tax rate
-- CGT rates (standard and residential)
-- Residence test summary
-- PE indicators (OECD model)
-- CFC exemptions
-- Basic NIC rates
+### Must Know Cold ⚡
+- Current IT/CT/CGT rates
+- SRT automatic tests (days thresholds)
+- CFC gateway conditions
+- PE positive/negative indicators
+- Basic TP methods (5 OECD methods)
 
-### Should Know Well
+### Should Know Well 📌
 - IHT nil rate bands
-- SDLT and SDRT rates
-- VAT thresholds
-- ATED charges
 - Remittance basis charge amounts
+- SDLT rates and thresholds
+- Time limits for key elections
+- Leading case principles
 
-### Nice to Know
+### Nice to Know 📎
 - Historical rate changes
-- Comparative rates (UK vs. common jurisdictions)
 - Detailed NIC categories
-
-## Success Metrics
-- [ ] Recall all "Must Know Cold" items without reference
-- [ ] Recognize all acronyms instantly
-- [ ] Apply quick reference tables to scenarios in under 30 seconds
-- [ ] Update all rates to current tax year
+- Less common treaty positions
+- Specialist formulas
 
 ## Quick Access Index
 
-For rapid lookup during timed practice:
+| Topic | Section | Use For |
+|-------|---------|---------|
+| Tax rates | 5.1 | Any calculation question |
+| Definitions | 5.2 | Precision in technical answers |
+| Legislation | 5.3 | Finding statutory authority |
+| Deadlines | 5.4 | Compliance questions |
+| Formulas | 5.5 | Calculation questions |
+| Case law | 5.6 | Supporting legal arguments |
+| Treaties | 5.7 | Cross-border questions |
 
-| Topic | Location | Use When |
-|-------|----------|----------|
-| Residence tests | Quick_Reference_Tables | Part A questions on residence |
-| Tax rates | Tax_Rates_And_Allowances | Any calculation question |
-| CFC rules | Quick_Reference_Tables | Part B CFC questions |
-| Transfer pricing | Quick_Reference_Tables | Part B TP questions |
-| Definitions | Key_Definitions | Any question requiring precision |
-| Acronyms | Acronyms_And_Abbreviations | When seeing unfamiliar term |
+## Success Metrics
+- [ ] Recall all "Must Know Cold" items without reference
+- [ ] Apply formulas correctly under time pressure
+- [ ] Cite case principles from memory
+- [ ] Navigate legislation index quickly
 
 ---
-*Reference materials are tools - know when and how to use them*
+*Reference materials are tools - know when and how to use them effectively*
