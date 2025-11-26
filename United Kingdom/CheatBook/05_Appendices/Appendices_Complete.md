@@ -307,7 +307,7 @@ An individual is UK resident if they:
 | Accommodation | Available 91+ days, used 1+ day |
 | Work | 40+ UK workdays |
 | 90-day | >90 days in UK in either of 2 prior years |
-| Country | More days in UK than any other country |
+| Country | More days in UK than any other country (leavers only) |
 
 ### UK Resident Company (CTA 2009, s.14)
 A company is UK resident if:
@@ -335,8 +335,8 @@ For IT/CGT purposes, non-dom becomes deemed UK domiciled if:
 - **Condition A**: UK resident in 15+ of prior 20 tax years, OR
 - **Condition B**: Born in UK with UK domicile of origin AND UK resident
 
-For IHT purposes (IHTA 1984, s.267):
-- UK resident in **17 of prior 20 tax years**, OR
+For IHT purposes (IHTA 1984, s.267 as amended by FA 2017):
+- UK resident in **15 of prior 20 tax years** (aligned with IT/CGT), OR
 - UK domiciled at any time in **prior 3 years**
 
 ---
@@ -525,7 +525,7 @@ Similar to OECD definition but may vary by specific treaty.
 | Company residence | CTA 2009 | ss.14-18 |
 | Central management | Common law | De Beers v Howe |
 | Treaty tie-breaker | Various DTAs | Article 4 |
-| PE definition | CTA 2009 | ss.1141-1142 |
+| PE definition | CTA 2010 | ss.1141-1142 |
 | PE profits | CTA 2009 | s.19 |
 
 ### Controlled Foreign Companies

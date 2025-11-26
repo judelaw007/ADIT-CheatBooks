@@ -361,7 +361,7 @@ MINUTES 9-10:  Begin Part A
 | Part C | Choose 2 of 5 | 30 (15+15) | 58.5 min | 29.25 min |
 | **Total** | **5 questions** | **100** | **195 min** | **1.95 min/mark** |
 
-*Note: Exam is 3¼ hours (195 minutes). Some sources round to 180 minutes for 1.8 min/mark.*
+*Note: Exam is 3¼ hours (195 minutes). Always use 1.95 min/mark for time planning.*
 
 **Recommended Time Targets:**
 
