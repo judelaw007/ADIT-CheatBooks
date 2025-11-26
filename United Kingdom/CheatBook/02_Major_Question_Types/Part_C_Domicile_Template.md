@@ -149,7 +149,7 @@ A. Deemed Domicile for Inheritance Tax (IHTA 1984, s. 267)
 
    Impact: If deemed domiciled, worldwide estate subject to UK IHT (not just UK assets).
 
-B. Deemed Domicile for Income Tax and CGT (FA 2017, Sch. 8)
+B. Deemed Domicile for Income Tax and CGT (ITA 2007, s. 835BA)
 
    Rule: Long-term resident individual is deemed UK domiciled if:
    - UK resident in at least 15 of the last 20 tax years, AND
@@ -203,7 +203,7 @@ This means [summarize main tax consequences].
 ## Key Legislation and Cases
 - **Common law**: No statute - case law determines domicile
 - **Key cases**: IRC v Bullock; Ramsey v IRC; Qazi v HMRC; Henkes v Netherlands
-- **Deemed domicile**: IHTA 1984, s. 267; FA 2017, Sch. 8
+- **Deemed domicile**: IHTA 1984, s. 267; ITA 2007, s. 835BA
 - **Remittance basis**: ITA 2007, ss. 809A-809Z
 
 ## Common Variations

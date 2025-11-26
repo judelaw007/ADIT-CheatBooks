@@ -126,7 +126,7 @@ This chapter provides **9 core templates** covering the most frequently tested t
 ┌─────────────────────────────────────────────────────────────┐
 │  2.3.8 IHT - International Aspects                          │
 │  • Territorial scope and excluded property                  │
-│  • Deemed domicile for IHT (17/20 rule)                    │
+│  • Deemed domicile for IHT (15/20 rule - same as IT/CGT)   │
 │  • IHT on trusts (10-year charge, exit charges)            │
 │  • Double tax relief                                        │
 │  • Time: 20-25 minutes                                      │
@@ -234,7 +234,7 @@ Use this matrix to instantly identify which template to deploy:
 - [ ] Instantly identify topics from question wording (within 10 seconds)
 - [ ] Complete any of your 3-4 chosen topics in 25 minutes
 - [ ] Recite from memory: Key legislation for each topic (e.g., ITA 2007 s.835BA for deemed domicile, TIOPA 2010 Part 4 for TP)
-- [ ] Explain the difference between deemed domicile for IT/CGT (15/20 test) vs IHT (17/20 test)
+- [ ] Explain deemed domicile timing for IT/CGT and IHT (both 15/20 test since FA 2017)
 - [ ] List all Transfer Pricing methods and when each applies
 - [ ] Calculate ATED annual charge from property values
 - [ ] Explain when DPT applies under s.86 (PE avoidance)
@@ -288,7 +288,7 @@ Remember: **Part C is won on precision and efficiency**. You don't need to write
 
 **Why This Matters:**
 - Deemed domicile is a **game-changer** for non-doms - ends remittance basis eligibility
-- Different rules for **IT/CGT** (15/20 test) vs **IHT** (17/20 test) - common trap!
+- Same 15/20 test applies for **IT/CGT** and **IHT** (aligned by FA 2017)
 - Protected settlements provide **major planning opportunity** but easily "tainted"
 - Recent legislation changes (FA 2017) mean this is heavily examined
 - Domicile of choice requires meeting **high legal threshold** - not automatic
@@ -339,12 +339,12 @@ Remember: **Part C is won on precision and efficiency**. You don't need to write
 └──────────────────────────────────────────────────────────────┘
          ↓
 ┌──────────────────────────────────────────────────────────────┐
-│ STEP 3: IHT Consequences (Different Test!) (5 min)          │
-│ • IHT deemed domicile: 17 out of 20 years (not 15!)       │
-│ • Cite: IHTA 1984 s.267(1)(b) - formerly resident test    │
+│ STEP 3: IHT Consequences (Same 15/20 Test) (5 min)          │
+│ • IHT deemed domicile: 15 out of 20 years (same as IT/CGT)│
+│ • Cite: IHTA 1984 s.267(1)(b) as amended by FA 2017       │
 │ • Once deemed domiciled for IHT: worldwide assets          │
 │ • Key difference from IT/CGT: Only 4 years non-residence   │
-│   needed to lose IHT deemed domicile                        │
+│   needed to lose IHT deemed domicile (vs 6 for IT/CGT)     │
 │ • Offshore trusts created before deemed domicile: foreign   │
 │   situs property = excluded property (not subject to IHT)   │
 │ • UK residential property never excluded property           │
@@ -437,12 +437,12 @@ annual exempt amount (£3,000 for 2024/25) remains available.
 
 PART 3: INHERITANCE TAX CONSEQUENCES
 
-The deemed domicile test for IHT differs from IT/CGT. Under s.267(1)(b)
-IHTA 1984, an individual is deemed UK domiciled for IHT purposes if they
-were resident in the UK for at least 17 out of the 20 tax years immediately
-preceding the relevant tax year.
+The deemed domicile test for IHT is now the same as IT/CGT (aligned by FA 2017).
+Under s.267(1)(b) IHTA 1984 as amended, an individual is deemed UK domiciled
+for IHT purposes if they were resident in the UK for at least 15 out of the
+20 tax years immediately preceding the relevant tax year.
 
-[Calculate based on 17/20 test - will be different timing from IT/CGT]
+[Calculate based on 15/20 test - same timing as IT/CGT since FA 2017]
 
 Once deemed domiciled for IHT, [CLIENT]'s worldwide assets will be within
 the scope of UK IHT, including:
@@ -513,7 +513,7 @@ gains become attributable to [CLIENT] from the date domicile of choice is
 acquired.
 
 For IHT, domicile of choice makes [CLIENT] domiciled immediately (no need
-to wait for 17/20 test). Foreign property in pre-existing trusts may
+to wait for 15/20 test). Foreign property in pre-existing trusts may
 continue to be excluded property.
 
 PART 6: PLANNING RECOMMENDATIONS
@@ -553,13 +553,13 @@ PART 6: PLANNING RECOMMENDATIONS
 1. Calculation showing deemed domicile from 6 April 2027 (15/20 test)
 2. IT consequences - arising basis, loss of remittance basis
 3. CGT consequences - worldwide gains taxable
-4. IHT consequences - worldwide assets (using 17/20 test - different timing)
+4. IHT consequences - worldwide assets (using 15/20 test - same timing as IT/CGT)
 5. Protected settlement explanation - what it protects, tainting rules, IHT excluded property]
 
 **Mark Breakdown:**
 - Correct timing calculation (15/20 test): 2 marks
 - IT/CGT consequences: 3 marks
-- IHT consequences and timing (17/20): 2 marks
+- IHT consequences and timing (15/20): 2 marks
 - IHT ceasing (4 years vs 6 years): 1 mark
 - Protected settlement explanation: 3 marks
 - Tainting rules: 2 marks
@@ -568,7 +568,7 @@ PART 6: PLANNING RECOMMENDATIONS
 **Total: 15 marks**
 
 **Examiner Comments:**
-"Strong answers clearly distinguished between the 15/20 test for IT/CGT and the 17/20 test for IHT. Weaker answers confused these tests or failed to mention IHT at all. The best answers identified the tainting risk as a critical issue and explained that even indirect additions would destroy protected settlement status."
+"Strong answers correctly applied the 15/20 test for both IT/CGT and IHT (aligned since FA 2017). Weaker answers used outdated 17/20 rule for IHT or failed to mention IHT at all. The best answers identified the tainting risk as a critical issue and explained that even indirect additions would destroy protected settlement status."
 
 ---
 
@@ -576,7 +576,7 @@ PART 6: PLANNING RECOMMENDATIONS
 
 | Mistake | Why It Happens | How to Prevent |
 |---------|---------------|----------------|
-| **1. Confusing 15/20 and 17/20 tests** | Both involve counting years | Write "IT/CGT: 15/20" and "IHT: 17/20" at top of answer |
+| **1. Using outdated 17/20 test for IHT** | Old rule pre-FA 2017 | Remember: FA 2017 aligned both to 15/20 for IT/CGT AND IHT |
 | **2. Forgetting split year counts as full year** | Seems illogical | Memorize: "Split year = full year for deemed domicile only" |
 | **3. Not explaining loss of remittance basis** | Assume it's obvious | Always state explicitly: "No longer entitled to remittance basis" |
 | **4. Missing IHT section entirely** | Focus only on IT/CGT | Template forces you to cover all three taxes |
@@ -599,7 +599,7 @@ PART 6: PLANNING RECOMMENDATIONS
 
 **TIMING TESTS:**
 - IT/CGT deemed domicile: 15 out of 20 years UK resident (s.835BA(4) ITA 2007)
-- IHT deemed domicile: 17 out of 20 years UK resident (s.267(1)(b) IHTA 1984)
+- IHT deemed domicile: 15 out of 20 years UK resident (s.267(1)(b) IHTA 1984 as amended by FA 2017)
 - Split year = counts as full year for both tests
 
 **CONSEQUENCES:**
