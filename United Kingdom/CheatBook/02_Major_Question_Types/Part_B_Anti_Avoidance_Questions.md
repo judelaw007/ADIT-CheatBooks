@@ -191,7 +191,7 @@ Use this matrix to instantly identify which template to deploy:
 
 | Question Trigger Words | Template to Use | Typical Marks | Time Allocation |
 |------------------------|----------------|---------------|-----------------|
-| "CFC," "controlled foreign company," "low-tax subsidiary," "offshore holding company," "Chapter IV Part 9A TIOPA 2010" | **2.2.1 CFCs** | 20 marks | 36 min |
+| "CFC," "controlled foreign company," "low-tax subsidiary," "offshore holding company," "TIOPA 2010 Part 9A" | **2.2.1 CFCs** | 20 marks | 36 min |
 | "Transfer of assets abroad," "ToAA," "TAAR," "relevant transfer," "power to enjoy," "motive test," "s720 ITA 2007" | **2.2.2 ToAA** | 20 marks | 36 min |
 | "Offshore bond," "insurance bond," "personal portfolio bond," "PPB," "chargeable event," "5% withdrawal" | **2.2.3 Insurance Bonds** | 20 marks | 36 min |
 | "Thin capitalisation," "arm's length debt," "related party loan," "interest deductibility," "ATCA" | **2.2.4 Thin Cap** | 20 marks | 36 min |
@@ -241,7 +241,7 @@ Remember: **Part B is about CHOICE and STRATEGIC EXECUTION**. You don't need to 
 
 - "Controlled foreign company," "CFC," "offshore subsidiary"
 - "Low-tax jurisdiction," "IP holding company," "licensing company"
-- "Chapter IV Part 9A TIOPA 2010"
+- "TIOPA 2010 Part 9A"
 - "Gateway conditions," "entity-level exemptions"
 - "Apportionment," "relevant interests"
 - Countries mentioned: Cayman Islands, Bermuda, Singapore, Ireland (for IP), Luxembourg
