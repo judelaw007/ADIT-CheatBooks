@@ -42,7 +42,7 @@ Provide ready-to-use templates for each major question type with worked examples
 | **Part A - All Topics** | `Part_A_Complex_Analysis_Questions.md` | FA 2013 Sch 45, CTA 2009, TIOPA 2010 | ✅ Complete (2686 lines) |
 | **2.1.1 Corporate Residence** | Included in Part_A_Complex_Analysis_Questions.md | CTA 2009 ss 14-18, OECD Art 4 | ✅ Complete |
 | **2.1.2 Individual Residence (SRT)** | Included in Part_A_Complex_Analysis_Questions.md | FA 2013 Sch 45 | ✅ Complete |
-| **2.1.3 Permanent Establishment** | Included in Part_A_Complex_Analysis_Questions.md | CTA 2009 s 1141-1142, OECD Art 5 | ✅ Complete |
+| **2.1.3 Permanent Establishment** | Included in Part_A_Complex_Analysis_Questions.md | CTA 2010 s 1141-1142, OECD Art 5 | ✅ Complete |
 | **2.1.4 Remittance Basis** | Included in Part_A_Complex_Analysis_Questions.md | ITA 2007 ss 809A-809Z | ✅ Complete |
 | **Quick Reference Template** | `Part_A_Residence_Template.md` | | ✅ Available |
 
