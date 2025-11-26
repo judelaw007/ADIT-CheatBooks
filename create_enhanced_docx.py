@@ -410,5 +410,38 @@ def tokenize_markdown(text):
 
 
 if __name__ == '__main__':
+    import sys
+
     print("Enhanced Word Document Creator")
     print("=" * 50)
+
+    # Get input/output from command line arguments
+    if len(sys.argv) >= 3:
+        input_file = sys.argv[1]
+        output_file = sys.argv[2]
+    else:
+        print("Usage: python create_enhanced_docx.py <input_markdown> <output_docx>")
+        sys.exit(1)
+
+    # Read markdown content
+    try:
+        with open(input_file, 'r', encoding='utf-8') as f:
+            markdown_content = f.read()
+
+        # Extract title from the first heading (# Title)
+        title = "Document"
+        for line in markdown_content.split('\n'):
+            if line.startswith('# '):
+                title = line[2:].strip()
+                break
+
+        # Create document
+        create_enhanced_document(markdown_content, title, output_file)
+        print(f"✅ Successfully converted: {input_file} -> {output_file}")
+
+    except FileNotFoundError:
+        print(f"❌ Error: Input file not found: {input_file}")
+        sys.exit(1)
+    except Exception as e:
+        print(f"❌ Error: {str(e)}")
+        sys.exit(1)
