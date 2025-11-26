@@ -51,7 +51,12 @@ This is the core of the CheatBook - template-driven frameworks for every major q
 - **[Part_A_Residence_Template.md](./Part_A_Residence_Template.md)** - Quick reference template for Corporate and Individual Residence questions
 
 ### Part B Templates
-- **[Part_B_CFC_Template.md](./Part_B_CFC_Template.md)** - Controlled Foreign Companies question template
+- **[Part_B_Anti_Avoidance_Questions.md](./Part_B_Anti_Avoidance_Questions.md)** - Comprehensive guide covering all Part B anti-avoidance topics including:
+  - Controlled Foreign Companies (CFCs) - 50% exam frequency
+  - Transfer of Assets Abroad (ToAA/TAAR)
+  - Offshore Insurance Bonds & Personal Portfolio Bonds
+  - Thin Capitalisation & Transfer Pricing
+  - Emerging Anti-Avoidance Regimes (DPT, Unallowable Purpose Rule)
 
 ### Part C Templates
 - **[Part_C_Domicile_Template.md](./Part_C_Domicile_Template.md)** - Domicile and deemed domicile question template

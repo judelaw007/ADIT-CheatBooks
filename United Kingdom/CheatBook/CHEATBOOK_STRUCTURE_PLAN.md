@@ -48,12 +48,17 @@ Provide ready-to-use templates for each major question type with worked examples
 
 **Part A Subtotal**: ~60 pages
 
-### PART B: Anti-Avoidance Questions (20 marks)
+### PART B: Strategic Choice Questions (20 marks)
+
+**Note**: Part B covers diverse topics. Actual frequency (2020-2025): PE (31%), Domicile/Remittance (25%), BIR (25%), CFCs (13%), Other (19%).
 
 | Topic | File | Key Legislation | Status |
 |-------|------|-----------------|--------|
-| **Part B - All Topics** | `Part_B_Anti_Avoidance_Questions.md` | TIOPA 2010 Parts 4, 9A, 10 | ✅ Complete (2130 lines) |
-| **2.2.1 Controlled Foreign Companies** | Included in Part_B file + `Part_B_CFC_Template.md` | TIOPA 2010 Part 9A | ✅ Complete |
+| **Part B - Overview & Templates** | `Part_B_Strategic_Choice_Questions.md` | Various | ✅ Complete (v2.0 - Corrected) |
+| **High-Freq: Permanent Establishment (31%)** | Cross-ref: Part_A file, Section 2.1.3 | OECD Art 5, CTA 2010 s 1141 | ✅ Cross-referenced |
+| **High-Freq: Domicile/Remittance (25%)** | Cross-ref: Part_C file + Part_C_Domicile_Template.md | ITA 2007 ss 809A-809Z | ✅ Cross-referenced |
+| **High-Freq: BIR (25%)** | Cross-ref: Part_C file (Remittance section) | ITA 2007 s 809VA-VN | ✅ Cross-referenced |
+| **2.2.1 Controlled Foreign Companies (13%)** | Part_B file + `Part_B_CFC_Template.md` | TIOPA 2010 Part 9A | ✅ Complete |
 | **2.2.2 Transfer of Assets Abroad** | Included in Part_B file | ITA 2007 ss 720-730 | ✅ Complete |
 | **2.2.3 Insurance Bonds/PPB** | Included in Part_B file | ITTOIA 2005 Part 4 Ch 9 | ✅ Complete |
 | **2.2.4 Thin Cap & Transfer Pricing** | Included in Part_B file | TIOPA 2010 Part 4 | ✅ Complete |
